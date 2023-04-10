@@ -1,0 +1,78 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,1999-11-02,21-020,POR,@,VAN,W (+20),0,13:09,1,3,.333,0,0,,3,4,.750,0,4,4,0,0,0,1,6,5,0.7,+3,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+2,2,1999-11-03,21-021,POR,,LAC,W (+23),0,7:31,1,2,.500,0,0,,1,2,.500,1,2,3,0,0,0,0,2,3,2.1,-3,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+3,3,1999-11-05,21-023,POR,,DEN,W (+12),0,21:40,1,2,.500,0,0,,1,2,.500,3,2,5,1,0,0,3,4,3,0.4,-10,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+4,4,1999-11-06,21-024,POR,,LAL,W (+15),0,4:48,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,5,0,-2.7,-7,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+5,5,1999-11-09,21-027,POR,@,UTA,L (-5),0,6:41,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,2,2,1.9,+2,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+6,6,1999-11-12,21-030,POR,@,DEN,W (+15),0,6:41,1,4,.250,0,0,,0,0,,2,0,2,0,0,0,0,3,2,-0.2,+1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+7,7,1999-11-13,21-031,POR,,ATL,W (+36),0,24:42,7,9,.778,0,0,,3,5,.600,3,7,10,3,0,1,2,3,17,16.5,+15,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+8,,1999-11-16,21-034,POR,@,MIA,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+9,,1999-11-17,21-035,POR,@,ORL,W (+2),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+10,8,1999-11-19,21-037,POR,@,PHI,W (+6),0,11:41,1,1,1.000,0,0,,0,0,,1,3,4,0,0,1,1,3,2,1.8,-15,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+11,9,1999-11-20,21-038,POR,@,CHH,W (+4),0,9:29,1,4,.250,0,0,,0,1,.000,1,2,3,0,0,1,0,2,2,0.4,-8,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+12,10,1999-11-23,21-041,POR,@,CLE,L (-3),0,2:37,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6,+1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+13,11,1999-11-24,21-042,POR,@,MIN,W (+7),0,10:22,4,5,.800,0,0,,0,0,,5,2,7,0,0,1,1,1,8,9.5,+4,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+14,12,1999-11-26,21-044,POR,,HOU,W (+3),0,13:18,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.2,-4,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+15,13,1999-11-27,21-045,POR,@,LAC,W (+17),0,14:00,1,3,.333,0,0,,0,0,,0,2,2,0,0,0,0,1,2,0.5,-11,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+16,14,1999-11-29,21-047,POR,,IND,L (-2),0,6:20,1,2,.500,0,0,,0,0,,1,1,2,0,0,1,0,1,2,2.3,-2,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+17,15,1999-12-11,21-059,POR,@,SAC,W (+5),0,10:05,1,3,.333,0,0,,0,0,,1,0,1,0,0,0,0,0,2,1.0,-4,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+18,16,1999-12-16,21-064,POR,@,SEA,W (+26),0,8:33,2,4,.500,0,0,,1,2,.500,1,1,2,3,0,1,0,0,5,6.4,+12,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+19,,1999-12-17,21-065,POR,,PHO,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+20,17,1999-12-20,21-068,POR,@,DEN,L (-9),0,6:33,0,1,.000,0,0,,0,0,,0,2,2,0,0,1,0,0,0,0.6,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+21,18,1999-12-21,21-069,POR,@,HOU,W (+10),0,3:13,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-6,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+22,19,1999-12-23,21-071,POR,,GSW,W (+20),0,17:54,2,4,.500,0,0,,0,0,,2,2,4,0,0,1,0,1,4,4.3,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+23,20,1999-12-28,21-076,POR,,SEA,W (+5),0,5:27,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,2,2,2,-0.8,+1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+24,21,1999-12-30,21-078,POR,,PHI,W (+18),0,7:06,2,3,.667,0,0,,1,1,1.000,1,0,1,0,0,1,0,0,5,5.1,+6,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+25,22,2000-01-03,21-082,POR,@,CHI,W (+25),0,17:57,3,4,.750,0,0,,2,4,.500,0,2,2,0,2,3,2,3,8,7.1,+12,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+26,23,2000-01-04,21-083,POR,@,TOR,W (+24),0,4:48,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,2,0,2,-1.0,+3,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+27,24,2000-01-06,21-085,POR,@,MIN,L (-2),0,5:50,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,2,3,2,-1.5,-7,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+28,25,2000-01-08,21-087,POR,,PHO,W (+5),0,3:45,0,0,,0,0,,0,0,,0,1,1,0,0,0,3,2,0,-3.5,-6,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+29,26,2000-01-10,21-089,POR,,DAL,W (+13),0,7:15,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,1,2,4,2.2,-1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+30,27,2000-01-12,21-091,POR,,CLE,W (+20),0,8:44,2,4,.500,0,0,,0,2,.000,1,0,1,0,0,0,0,1,4,1.5,+10,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+31,28,2000-01-14,21-093,POR,@,PHO,W (+22),0,12:30,0,0,,0,0,,0,2,.000,1,2,3,0,0,1,1,2,0,-0.6,+11,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+32,29,2000-01-15,21-094,POR,@,DAL,L (-8),0,1:02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+33,,2000-01-18,21-097,POR,@,HOU,L (-1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+34,30,2000-01-19,21-098,POR,@,SAS,W (+10),0,9:59,1,2,.500,0,0,,1,4,.250,1,1,2,0,0,1,0,4,3,0.9,-1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+35,,2000-01-22,21-101,POR,@,LAL,W (+4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+36,,2000-01-24,21-103,POR,,NJN,W (+14),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+37,31,2000-01-27,21-106,POR,,UTA,W (+10),0,22:48,6,8,.750,0,0,,2,3,.667,5,3,8,1,0,0,0,3,14,14.3,+1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+38,32,2000-01-29,21-108,POR,,SAS,W (+14),0,15:49,4,4,1.000,0,0,,2,2,1.000,0,2,2,0,1,0,1,3,10,8.2,+7,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+39,33,2000-02-01,21-111,POR,,CHI,W (+11),0,15:53,3,4,.750,0,0,,1,2,.500,3,4,7,0,1,1,2,1,7,7.6,-1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+40,34,2000-02-03,21-113,POR,@,NYK,L (-10),0,9:31,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,4,0,-1.3,-8,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+41,35,2000-02-04,21-114,POR,@,ATL,W (+7),0,7:22,1,5,.200,0,0,,0,0,,1,1,2,1,0,1,0,1,2,0.9,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+42,36,2000-02-06,21-116,POR,@,BOS,W (+6),0,13:06,3,7,.429,0,0,,7,9,.778,6,2,8,1,0,2,1,3,13,13.2,+9,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+43,37,2000-02-07,21-117,POR,@,MIL,W (+4),0,16:57,3,5,.600,0,0,,0,0,,1,3,4,0,1,1,0,1,6,6.6,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+44,38,2000-02-09,21-119,POR,,LAC,W (+7),0,15:00,1,4,.250,0,0,,2,2,1.000,1,1,2,1,0,1,0,0,4,4.0,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+45,39,2000-02-15,21-125,POR,@,GSW,W (+9),0,6:16,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3,-4,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+46,40,2000-02-16,21-126,POR,,GSW,W (+4),0,5:47,1,2,.500,0,0,,0,0,,2,0,2,0,0,0,1,0,2,1.4,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+47,41,2000-02-18,21-128,POR,,WAS,W (+8),0,12:48,1,5,.200,0,0,,2,2,1.000,6,1,7,0,0,0,0,3,4,4.2,+6,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+48,42,2000-02-20,21-130,POR,@,SAC,W (+5),0,14:54,2,4,.500,0,0,,2,2,1.000,3,1,4,1,0,2,5,5,6,1.5,-5,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+49,43,2000-02-21,21-131,POR,,BOS,W (+13),0,19:27,4,7,.571,0,0,,6,8,.750,2,4,6,0,1,3,0,2,14,14.8,-16,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+50,44,2000-02-24,21-134,POR,,ORL,W (+19),0,12:59,1,1,1.000,0,0,,2,2,1.000,0,3,3,0,1,0,2,0,4,3.6,+8,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+51,45,2000-02-27,21-137,POR,,UTA,W (+9),0,10:55,1,1,1.000,0,0,,0,0,,0,3,3,0,0,1,1,0,2,2.3,-1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+52,46,2000-02-29,21-139,POR,,LAL,L (-3),0,7:02,1,3,.333,0,0,,0,0,,2,0,2,0,0,0,0,1,2,1.3,-9,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+53,47,2000-03-03,21-142,POR,,VAN,W (+10),0,16:17,2,4,.500,0,1,.000,2,2,1.000,0,1,1,0,0,1,1,2,6,3.2,+3,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+54,48,2000-03-06,21-145,POR,,TOR,L (-19),0,3:08,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-11,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+55,49,2000-03-08,21-147,POR,@,NJN,L (-12),0,16:56,2,3,.667,0,0,,0,4,.000,2,7,9,1,1,3,0,1,4,8.0,+1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+56,50,2000-03-09,21-148,POR,@,IND,L (-8),0,14:47,1,1,1.000,0,0,,2,3,.667,1,1,2,0,0,1,0,3,4,3.8,+1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+57,51,2000-03-11,21-150,POR,@,DET,W (+5),0,2:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+58,52,2000-03-12,21-151,POR,@,WAS,W (+16),0,29:28,3,5,.600,0,0,,0,0,,3,6,9,1,0,3,0,5,6,8.4,+2,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+59,53,2000-03-14,21-153,POR,,SAC,W (+5),0,16:39,1,10,.100,0,0,,2,4,.500,7,1,8,2,2,0,1,3,4,3.0,+6,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+60,54,2000-03-16,21-155,POR,,MIN,L (-4),0,23:50,1,4,.250,0,0,,0,0,,1,8,9,0,0,0,1,3,2,0.5,-1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+61,55,2000-03-18,21-157,POR,@,SEA,W (+1),0,5:27,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,+4,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+62,56,2000-03-22,21-161,POR,,DET,L (-9),0,11:57,2,6,.333,0,0,,1,1,1.000,3,1,4,1,0,3,0,0,5,6.8,-6,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+63,57,2000-03-24,21-163,POR,@,GSW,W (+13),1,31:00,5,8,.625,0,0,,2,6,.333,4,6,10,0,0,5,1,3,12,12.7,+20,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+64,58,2000-03-26,21-165,POR,,NYK,L (-4),1,18:19,2,5,.400,0,0,,0,2,.000,4,2,6,0,1,1,1,2,4,3.8,-12,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+65,59,2000-03-28,21-167,POR,,SAS,L (-4),1,11:39,1,4,.250,0,0,,0,0,,0,0,0,0,0,0,0,2,2,-1.2,-4,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+66,60,2000-03-30,21-169,POR,,DAL,W (+11),1,13:53,0,3,.000,0,0,,0,0,,0,3,3,0,0,0,0,0,0,-1.2,+12,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+67,61,2000-04-01,21-171,POR,,MIL,W (+34),1,23:13,1,4,.250,0,0,,2,4,.500,4,3,7,0,0,2,0,2,4,5.1,+19,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+68,62,2000-04-02,21-172,POR,,SEA,W (+13),1,18:14,1,2,.500,0,0,,2,2,1.000,0,3,3,0,0,1,0,3,4,3.4,+2,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+69,63,2000-04-05,21-175,POR,,HOU,L (-13),1,11:41,1,3,.333,0,0,,0,0,,1,1,2,0,0,2,0,0,2,2.7,-16,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+70,64,2000-04-06,21-176,POR,@,VAN,L (-2),1,14:00,1,3,.333,0,0,,0,0,,0,0,0,0,0,2,0,1,2,1.3,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+71,65,2000-04-08,21-178,POR,,VAN,W (+13),0,19:11,3,4,.750,0,0,,0,2,.000,1,3,4,0,0,2,1,2,6,4.8,+14,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+72,66,2000-04-10,21-180,POR,@,UTA,W (+4),0,10:49,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,1,4,2,-0.6,-9,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+73,67,2000-04-11,21-181,POR,@,DAL,L (-11),0,14:02,2,6,.333,0,0,,1,2,.500,4,4,8,0,0,0,2,2,5,2.4,0,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+74,68,2000-04-13,21-183,POR,@,SAS,W (+16),0,13:45,3,4,.750,0,0,,0,1,.000,1,1,2,0,0,2,3,0,6,3.4,+6,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+75,69,2000-04-16,21-186,POR,,SAC,W (+7),0,2:30,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+76,,2000-04-18,21-188,POR,@,LAC,W (+16),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000
+77,70,2000-04-19,21-189,POR,,DEN,L (-1),0,22:57,4,7,.571,0,0,,0,0,,2,9,11,1,0,1,0,3,8,9.0,+9,2000,onealje01,https://www.basketball-reference.com/players/o/onealje01/gamelog/2000

@@ -1,0 +1,83 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,1999-11-05,28-325,SAC,,MIN,W (+5),0,13:30,2,5,.400,0,0,,2,2,1.000,0,2,2,0,0,0,0,1,6,3.5,+11,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+2,2,1999-11-06,28-326,SAC,@,MIN,L (-13),0,12:46,2,5,.400,0,0,,1,4,.250,2,2,4,0,0,0,0,1,5,2.7,-4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+3,3,1999-11-12,28-332,SAC,,UTA,W (+13),0,19:22,3,6,.500,0,0,,5,6,.833,4,3,7,1,0,0,0,0,11,12.0,+11,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+4,4,1999-11-14,28-334,SAC,,DEN,W (+10),0,16:16,4,5,.800,0,0,,2,3,.667,0,1,1,1,0,0,0,2,10,7.9,+11,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+5,5,1999-11-16,28-336,SAC,,VAN,W (+4),0,14:33,2,5,.400,0,0,,0,0,,1,4,5,0,0,1,0,2,4,3.1,-6,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+6,6,1999-11-18,28-338,SAC,@,HOU,W (+18),0,20:50,4,8,.500,0,0,,4,5,.800,3,2,5,0,1,1,0,1,12,11.6,+25,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+7,7,1999-11-19,28-339,SAC,@,DAL,W (+9),0,9:40,2,2,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,1,0,6,4.7,+9,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+8,8,1999-11-21,28-341,SAC,,HOU,W (+5),0,8:35,2,2,1.000,0,0,,0,0,,1,2,3,0,0,0,0,0,4,4.7,-12,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+9,9,1999-11-23,28-343,SAC,,NJN,W (+13),0,25:02,9,10,.900,0,0,,0,0,,5,4,9,0,0,0,2,4,18,15.7,+21,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+10,10,1999-11-26,28-346,SAC,,GSW,W (+29),0,16:42,3,7,.429,0,0,,2,2,1.000,3,5,8,0,0,0,0,1,8,7.5,+12,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+11,11,1999-11-29,28-349,SAC,@,MIA,L (-10),0,17:03,3,5,.600,0,1,.000,0,0,,0,2,2,0,0,0,0,3,6,3.1,+3,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+12,12,1999-11-30,28-350,SAC,@,ORL,W (+9),0,16:13,1,3,.333,0,0,,1,2,.500,3,2,5,0,0,0,1,5,3,0.6,+4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+13,13,1999-12-02,28-352,SAC,@,ATL,L (-10),0,17:44,5,10,.500,0,0,,0,0,,1,3,4,0,0,0,0,0,10,6.6,-7,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+14,14,1999-12-04,28-354,SAC,@,WAS,W (+10),0,21:39,3,6,.500,0,0,,2,2,1.000,2,2,4,0,1,0,0,4,8,6.4,+2,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+15,15,1999-12-06,28-356,SAC,@,NJN,L (-14),0,9:52,1,1,1.000,0,0,,3,4,.750,0,0,0,0,0,0,1,0,5,3.3,-8,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+16,16,1999-12-08,28-358,SAC,,LAL,W (+12),0,10:37,4,5,.800,0,0,,2,2,1.000,0,0,0,1,0,0,1,1,10,7.4,+9,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+17,17,1999-12-10,28-360,SAC,,MIA,L (-10),0,9:29,2,4,.500,0,0,,0,0,,0,1,1,1,1,0,0,1,4,3.6,-3,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+18,18,1999-12-11,28-361,SAC,,POR,L (-5),0,16:10,3,10,.300,0,0,,4,5,.800,3,2,5,0,1,0,0,0,10,7.5,-13,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+19,19,1999-12-15,29-000,SAC,@,VAN,W (+3),0,19:14,4,7,.571,0,0,,7,9,.778,0,3,3,0,0,0,0,1,15,11.4,-2,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+20,20,1999-12-16,29-001,SAC,@,DEN,L (-10),0,20:13,6,10,.600,0,0,,4,4,1.000,4,2,6,2,1,0,0,0,16,17.2,+13,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+21,21,1999-12-18,29-003,SAC,@,PHO,L (-16),0,23:02,1,8,.125,0,0,,4,6,.667,3,4,7,0,1,1,1,2,6,3.2,0,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+22,22,1999-12-20,29-005,SAC,@,GSW,L (-12),0,21:05,4,8,.500,0,0,,2,2,1.000,2,3,5,0,2,1,4,2,10,6.2,-10,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+23,23,1999-12-21,29-006,SAC,,MIL,W (+13),0,24:43,3,5,.600,0,0,,4,5,.800,2,4,6,0,2,0,3,4,10,7.3,+7,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+24,24,1999-12-23,29-008,SAC,@,LAC,L (-6),0,8:08,1,3,.333,0,0,,1,2,.500,0,2,2,0,0,1,1,1,3,0.8,-2,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+25,25,1999-12-26,29-011,SAC,,DAL,W (+7),0,9:30,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,4,3.4,-3,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+26,26,1999-12-28,29-013,SAC,,BOS,W (+13),0,14:36,3,3,1.000,0,0,,0,0,,0,1,1,0,1,3,0,2,6,7.7,-4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+27,27,1999-12-29,29-014,SAC,@,SEA,W (+9),0,19:56,2,3,.667,0,0,,0,0,,0,2,2,0,1,0,1,3,4,2.1,+5,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+28,28,2000-01-04,29-020,SAC,@,CLE,W (+4),0,16:14,4,6,.667,0,0,,2,4,.500,4,2,6,0,1,0,1,2,10,9.2,-11,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+29,29,2000-01-06,29-022,SAC,@,TOR,L (-12),0,10:40,3,6,.500,0,0,,0,0,,2,3,5,1,0,0,0,1,6,5.6,-9,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+30,30,2000-01-07,29-023,SAC,@,BOS,L (-8),0,7:04,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,0,0,2,1.3,-10,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+31,31,2000-01-09,29-025,SAC,,IND,W (+3),0,5:51,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-3,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+32,32,2000-01-11,29-027,SAC,,HOU,W (+17),0,14:56,3,4,.750,0,0,,1,1,1.000,1,1,2,0,0,0,0,1,7,6.0,+5,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+33,33,2000-01-13,29-029,SAC,,SAS,W (+4),0,5:14,2,3,.667,0,0,,0,0,,1,1,2,0,0,0,1,0,4,2.7,-8,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+34,34,2000-01-15,29-031,SAC,@,GSW,W (+15),0,15:49,2,3,.667,0,0,,4,6,.667,1,3,4,0,0,0,2,1,8,5.1,+2,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+35,35,2000-01-16,29-032,SAC,,CLE,W (+11),0,8:20,2,4,.500,0,0,,4,4,1.000,0,1,1,0,1,0,1,2,8,5.5,-1,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+36,36,2000-01-18,29-034,SAC,,LAC,W (+6),0,10:19,0,5,.000,0,0,,0,0,,4,3,7,0,0,1,0,1,0,0.5,-6,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+37,37,2000-01-20,29-036,SAC,,ORL,W (+8),0,21:45,6,10,.600,0,0,,3,5,.600,2,2,4,1,0,0,1,1,15,10.9,+3,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+38,38,2000-01-22,29-038,SAC,,UTA,L (-3),0,5:22,1,3,.333,0,0,,1,1,1.000,0,1,1,0,1,0,0,0,3,2.6,-2,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+39,39,2000-01-25,29-041,SAC,@,CHH,W (+11),0,7:34,1,1,1.000,0,0,,0,0,,1,1,2,1,0,0,0,0,2,3.4,-9,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+40,40,2000-01-26,29-042,SAC,@,MIL,L (-8),0,19:36,2,8,.250,0,0,,5,8,.625,6,3,9,1,0,2,0,3,9,9.0,-2,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+41,41,2000-01-28,29-044,SAC,@,CHI,W (+12),0,8:23,3,4,.750,0,0,,0,0,,0,2,2,1,0,0,0,0,6,5.7,+6,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+42,42,2000-01-30,29-046,SAC,@,NYK,L (-9),0,13:07,1,4,.250,0,0,,1,2,.500,2,3,5,1,1,0,0,0,3,4.2,+8,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+43,43,2000-01-31,29-047,SAC,@,MIN,L (-15),0,17:40,5,9,.556,0,0,,1,1,1.000,3,3,6,0,1,0,0,0,11,10.7,+7,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+44,44,2000-02-02,29-049,SAC,@,DET,W (+3),0,7:17,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,1,1,2,-0.4,-1,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+45,45,2000-02-04,29-051,SAC,@,IND,L (-10),0,12:30,2,3,.667,0,0,,3,5,.600,0,4,4,1,0,1,1,3,7,5.3,-7,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+46,46,2000-02-06,29-053,SAC,@,PHI,L (-11),0,7:43,1,3,.333,0,0,,2,2,1.000,0,2,2,0,1,0,0,0,4,3.9,+8,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+47,47,2000-02-08,29-055,SAC,,CHI,W (+39),0,14:28,4,8,.500,0,1,.000,2,2,1.000,0,3,3,1,2,0,0,1,10,9.2,+9,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+48,48,2000-02-10,29-057,SAC,,DEN,W (+12),0,14:50,4,6,.667,0,0,,1,2,.500,2,4,6,1,1,0,0,3,9,9.1,+8,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+49,49,2000-02-15,29-062,SAC,,PHO,L (-9),0,16:58,1,1,1.000,0,0,,3,4,.750,1,1,2,0,0,0,1,0,5,4.3,-4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+50,50,2000-02-17,29-064,SAC,@,UTA,L (-11),0,5:54,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6,-5,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+51,51,2000-02-18,29-065,SAC,,SEA,W (+33),0,9:08,2,4,.500,0,0,,0,0,,0,1,1,0,1,0,0,3,4,2.1,+16,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+52,,2000-02-20,29-067,SAC,,POR,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+53,,2000-02-21,29-068,SAC,@,DEN,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+54,,2000-02-23,29-070,SAC,,ATL,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+55,52,2000-02-26,29-073,SAC,@,VAN,L (-12),0,3:30,1,2,.500,0,0,,1,1,1.000,0,0,0,0,0,0,0,2,3,1.2,-1,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+56,53,2000-02-29,29-076,SAC,,VAN,W (+25),0,9:34,1,3,.333,0,0,,2,2,1.000,0,1,1,1,0,0,0,1,4,2.9,+9,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+57,,2000-03-02,29-078,SAC,@,HOU,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+58,54,2000-03-04,29-080,SAC,@,SAS,W (+5),0,5:49,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,0,1,2,0.9,+4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+59,55,2000-03-06,29-082,SAC,,DAL,W (+21),0,1:36,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,+6,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+60,56,2000-03-08,29-084,SAC,,CHH,W (+13),0,17:57,5,7,.714,0,0,,0,0,,1,2,3,1,1,0,0,2,10,9.3,+5,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+61,57,2000-03-10,29-086,SAC,,TOR,W (+15),0,13:39,3,3,1.000,0,0,,3,4,.750,0,1,1,1,0,0,1,1,9,7.3,+8,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+62,58,2000-03-12,29-088,SAC,@,LAL,L (-3),0,4:59,1,2,.500,0,0,,0,0,,1,0,1,0,0,1,1,1,2,1.0,-3,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+63,59,2000-03-14,29-090,SAC,@,POR,L (-5),0,14:16,1,3,.333,0,0,,3,6,.500,2,2,4,1,0,0,1,2,5,3.0,+4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+64,60,2000-03-15,29-091,SAC,,LAC,W (+20),0,11:49,3,5,.600,0,0,,2,3,.667,0,1,1,0,0,0,1,0,8,4.6,-6,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+65,61,2000-03-18,29-094,SAC,@,LAC,W (+21),0,7:09,0,1,.000,0,0,,1,2,.500,1,2,3,1,1,0,0,0,1,2.9,-4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+66,62,2000-03-21,29-097,SAC,,WAS,W (+12),0,9:29,1,4,.250,0,0,,0,0,,0,2,2,0,0,1,0,0,2,0.9,+7,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+67,63,2000-03-22,29-098,SAC,@,PHO,L (-21),0,20:25,3,7,.429,0,0,,2,2,1.000,3,2,5,1,2,0,1,1,8,8.3,-4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+68,64,2000-03-24,29-100,SAC,,DET,W (+10),0,28:27,4,5,.800,0,0,,3,6,.500,4,2,6,1,1,1,1,3,11,11.5,-1,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+69,,2000-03-26,29-102,SAC,,LAL,L (-1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+70,65,2000-03-28,29-104,SAC,,NYK,W (+8),0,3:48,1,2,.500,0,0,,1,2,.500,0,0,0,0,0,0,0,0,3,1.6,-5,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+71,66,2000-03-31,29-107,SAC,@,SEA,L (-15),0,16:13,2,5,.400,0,0,,2,4,.500,1,1,2,2,1,1,1,0,6,5.6,+6,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+72,67,2000-04-02,29-109,SAC,,PHI,W (+22),0,7:58,2,3,.667,0,0,,0,0,,0,1,1,0,1,0,1,1,4,2.6,+2,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+73,68,2000-04-04,29-111,SAC,@,DAL,L (-3),1,22:00,6,8,.750,0,0,,1,2,.500,2,3,5,0,0,0,1,1,13,10.3,+3,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+74,69,2000-04-05,29-112,SAC,@,SAS,W (+10),0,22:30,3,9,.333,0,0,,0,0,,0,4,4,2,1,1,2,1,6,2.8,+1,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+75,70,2000-04-07,29-114,SAC,,MIN,L (-3),0,16:06,2,7,.286,0,0,,2,4,.500,3,1,4,0,1,0,1,3,6,2.3,+15,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+76,71,2000-04-09,29-116,SAC,,PHO,L (-5),0,14:05,1,4,.250,0,0,,2,2,1.000,5,1,6,3,0,1,0,2,4,7.4,-5,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+77,72,2000-04-11,29-118,SAC,,SAS,L (-6),0,10:26,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,1,1,2,-0.8,-11,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+78,73,2000-04-13,29-120,SAC,,GSW,W (+23),0,15:54,3,3,1.000,0,0,,3,5,.600,0,2,2,1,0,0,0,2,9,7.8,0,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+79,74,2000-04-14,29-121,SAC,@,LAL,L (-7),0,4:54,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+80,,2000-04-16,29-123,SAC,@,POR,L (-7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+81,,2000-04-18,29-125,SAC,,SEA,L (-7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000
+82,75,2000-04-19,29-126,SAC,@,UTA,L (-9),0,30:21,6,11,.545,0,0,,2,4,.500,4,0,4,0,1,2,2,1,14,10.7,+4,2000,fundela01,https://www.basketball-reference.com/players/f/fundela01/gamelog/2000

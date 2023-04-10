@@ -1,0 +1,27 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1981-10-30,27-159,LAL,,HOU,L (-1),1,43:00,2,10,.200,0,0,,1,1,1.000,,,6,0,0,0,2,4,5,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+2,2,1981-11-03,27-163,LAL,@,POR,L (-2),1,34:00,11,15,.733,0,0,,3,6,.500,1,7,8,0,1,1,0,3,25,21.0,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+3,3,1981-11-04,27-164,LAL,@,SEA,W (+3),1,43:00,8,12,.667,0,0,,4,6,.667,2,8,10,0,0,0,1,3,20,15.6,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+4,4,1981-11-06,27-166,LAL,,PHO,L (-2),1,29:00,2,7,.286,0,0,,4,4,1.000,4,4,8,2,0,0,2,4,8,5.7,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+5,5,1981-11-08,27-168,LAL,,DAL,W (+10),1,32:00,8,13,.615,0,0,,1,2,.500,,,7,2,,,2,3,17,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+6,6,1981-11-10,27-170,LAL,@,SAS,L (-26),1,35:00,6,17,.353,0,0,,2,2,1.000,,,7,1,0,0,1,2,14,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+7,7,1981-11-11,27-171,LAL,@,HOU,W (+2),1,33:00,6,11,.545,0,0,,3,4,.750,,,8,1,1,0,,3,15,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+8,8,1981-11-13,27-173,LAL,,POR,W (+4),1,37:00,8,13,.615,0,0,,4,5,.800,6,6,12,2,0,0,1,4,20,18.5,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+9,9,1981-11-14,27-174,LAL,@,PHO,W (+1),1,31:00,9,12,.750,0,0,,3,5,.600,4,5,9,0,0,0,3,2,21,15.9,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+10,10,1981-11-15,27-175,LAL,,IND,W (+1),1,41:00,6,8,.750,0,0,,1,2,.500,,,6,1,0,0,,6,13,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+11,11,1981-11-18,27-178,LAL,@,UTA,W (+3),1,33:00,7,13,.538,0,0,,1,1,1.000,,,3,3,,0,,2,15,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+12,12,1981-11-20,27-180,LAL,,SAS,W (+20),1,36:00,11,11,1.000,0,0,,3,7,.429,,,17,2,1,1,3,2,25,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+13,13,1981-11-21,27-181,LAL,@,SDC,W (+2),1,30:00,7,12,.583,0,0,,7,8,.875,,,7,1,,0,1,5,21,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+14,14,1981-11-24,27-184,LAL,@,DAL,W (+15),1,35:00,6,8,.750,0,0,,3,4,.750,,,8,1,,,1,2,15,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+15,15,1981-11-25,27-185,LAL,@,SAS,W (+21),1,23:00,3,6,.500,0,0,,2,4,.500,,,6,2,1,0,1,5,8,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+16,16,1981-11-27,27-187,LAL,,SDC,L (-9),1,31:00,6,10,.600,0,0,,1,4,.250,,,3,1,,1,,1,13,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+17,17,1981-11-29,27-189,LAL,,HOU,W (+18),1,30:00,8,11,.727,0,0,,2,3,.667,,,7,2,0,0,,5,18,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+18,18,1981-12-01,27-191,LAL,,UTA,W (+31),1,28:00,6,10,.600,0,0,,5,8,.625,,,10,3,,0,,2,17,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+19,19,1981-12-02,27-192,LAL,@,SEA,L (-8),1,36:00,3,11,.273,0,0,,0,2,.000,1,8,9,0,0,0,1,3,6,-0.4,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+20,20,1981-12-04,27-194,LAL,@,DEN,W (+9),1,27:00,7,13,.538,0,0,,0,2,.000,3,10,13,4,1,0,4,3,14,10.6,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+21,21,1981-12-06,27-196,LAL,,KCK,W (+13),1,25:00,6,10,.600,0,0,,6,7,.857,,,12,1,0,0,,2,18,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+22,22,1981-12-08,27-198,LAL,,WSB,W (+4),1,33:00,1,7,.143,0,0,,1,2,.500,,,10,0,,,,5,3,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+23,23,1981-12-11,27-201,LAL,,POR,W (+8),1,27:00,4,6,.667,0,0,,0,0,,4,3,7,0,0,1,4,2,8,5.0,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+24,24,1981-12-13,27-203,LAL,,GSW,W (+4),1,34:00,5,7,.714,0,0,,3,3,1.000,2,5,7,2,0,1,1,2,13,13.3,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+25,25,1981-12-17,27-207,LAL,@,GSW,L (-5),1,25:00,4,11,.364,0,0,,5,6,.833,3,4,7,0,0,0,0,3,13,8.6,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982
+26,26,1981-12-19,27-209,LAL,@,SDC,W (+6),1,10:00,3,3,1.000,0,0,,0,0,,,,3,2,,0,2,2,6,,1982,kupchmi01,https://www.basketball-reference.com/players/k/kupchmi01/gamelog/1982

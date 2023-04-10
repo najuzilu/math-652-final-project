@@ -1,0 +1,21 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1984-10-30,29-106,SAS,,DEN,W (+8),0,10:00,2,2,1.0,0,0,,1,1,1.0,0,0,0,2,0,0,0,1,5,5.4,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+2,2,1984-11-02,29-109,SAS,@,LAL,L (-19),0,13:00,1,6,0.167,0,0,,0,0,,1,0,1,0,1,1,0,2,2,-0.2,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+3,3,1984-11-07,29-114,SAS,@,UTA,L (-12),0,6:00,2,3,0.667,0,0,,0,0,,0,0,0,0,0,0,0,1,4,2.3,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+4,4,1984-11-10,29-117,SAS,,CLE,W (+24),0,5:00,1,1,1.0,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+5,5,1984-11-13,29-120,SAS,@,CHI,L (-3),0,11:00,2,5,0.4,0,0,,2,2,1.0,0,1,1,1,0,0,1,0,6,3.3,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+6,6,1984-11-14,29-121,SAS,@,WSB,L (-19),0,9:00,1,3,0.333,0,0,,2,2,1.0,0,1,1,1,0,0,1,1,4,1.9,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+7,7,1984-11-27,29-134,SAS,,HOU,L (-17),0,15:00,2,8,0.25,0,0,,2,2,1.0,0,0,0,0,0,0,0,0,6,1.2,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+8,8,1984-12-01,29-138,SAS,,LAC,W (+32),0,8:00,2,6,0.333,0,0,,0,0,,0,0,0,2,0,0,0,2,4,1.2,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+9,9,1984-12-04,29-141,SAS,,ATL,W (+8),0,4:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+10,10,1985-03-22,29-249,NJN,,DEN,L (-12),0,6:00,0,1,0.0,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-0.1,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+11,11,1985-03-27,29-254,NJN,,BOS,L (-10),0,12:00,5,7,0.714,0,1,0.0,1,1,1.0,0,0,0,0,0,0,0,1,11,7.7,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+12,12,1985-03-29,29-256,NJN,@,WSB,L (-24),0,24:00,6,13,0.462,0,1,0.0,2,2,1.0,1,1,2,0,0,1,2,1,14,6.6,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+13,13,1985-03-30,29-257,NJN,@,NYK,W (+9),0,23:00,2,6,0.333,0,0,,0,0,,0,1,1,1,0,0,0,0,4,1.6,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+14,14,1985-04-02,29-260,NJN,@,CHI,L (-14),0,18:00,1,4,0.25,0,0,,0,0,,1,2,3,1,1,0,0,1,2,2.2,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+15,15,1985-04-03,29-261,NJN,,NYK,W (+13),0,24:00,6,8,0.75,0,0,,2,2,1.0,2,1,3,1,0,1,1,2,14,12.1,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+16,16,1985-04-06,29-264,NJN,,MIL,W (+4),0,30:00,4,5,0.8,0,0,,5,5,1.0,0,1,1,0,1,1,2,3,13,9.9,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+17,17,1985-04-09,29-267,NJN,@,CLE,L (-14),0,28:00,7,13,0.538,0,0,,0,0,,1,1,2,0,0,1,0,3,14,8.2,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+18,18,1985-04-10,29-268,NJN,,PHI,W (+25),0,26:00,7,10,0.7,0,0,,1,2,0.5,0,0,0,2,1,1,0,1,15,13.1,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+19,19,1985-04-13,29-271,NJN,,CHI,W (+12),0,30:00,7,12,0.583,0,0,,3,4,0.75,1,0,1,2,2,0,0,2,17,14.3,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985
+20,20,1985-04-14,29-272,NJN,@,BOS,W (+11),0,24:00,4,5,0.8,0,0,,2,2,1.0,2,2,4,3,0,0,0,0,10,12.2,1985,brewero01,https://www.basketball-reference.com/players/b/brewero01/gamelog/1985

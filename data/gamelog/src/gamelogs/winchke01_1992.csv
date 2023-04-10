@@ -1,0 +1,20 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1991-11-01,25-059,HOU,,LAL,W (+5),0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+2,2,1991-11-02,25-060,HOU,@,DEN,L (-8),0,9:00,0,1,0.0,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+3,3,1991-11-05,25-063,HOU,,POR,W (+7),0,6:00,0,1,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+4,4,1991-11-07,25-065,HOU,,CLE,W (+19),0,1:00,1,1,1.0,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+5,5,1991-11-19,25-077,NYK,@,HOU,L (-11),0,4:00,1,2,0.5,1,1,1.0,0,0,,0,0,0,1,0,0,0,0,3,2.7,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+6,6,1991-12-02,25-090,NYK,@,CHH,W (+2),0,6:00,1,3,0.333,0,0,,2,2,1.0,3,0,3,1,0,0,0,0,4,5.1,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+7,7,1991-12-10,25-098,NYK,@,NJN,W (+26),0,8:00,2,4,0.5,0,0,,0,0,,0,1,1,0,0,1,0,1,4,2.6,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+8,8,1991-12-26,25-114,NYK,,SAS,L (-29),0,7:00,0,1,0.0,0,0,,1,2,0.5,1,0,1,0,0,0,1,1,1,-0.8,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+9,9,1992-01-07,25-126,NYK,,ATL,L (-15),0,5:00,1,1,1.0,0,0,,0,0,,1,1,2,1,1,0,0,0,2,4.4,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+10,10,1992-01-14,25-133,NYK,@,ORL,W (+4),0,2:00,0,2,0.0,0,1,0.0,0,0,,0,0,0,0,0,0,1,1,0,-2.8,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+11,11,1992-01-22,25-141,NYK,@,PHI,L (-10),0,1:00,1,1,1.0,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+12,12,1992-02-04,25-154,NYK,,MIA,W (+31),0,6:00,1,4,0.25,0,0,,0,0,,1,1,2,0,1,0,0,0,2,1.6,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+13,13,1992-02-13,25-163,NYK,,CHI,L (-21),0,2:00,0,1,0.0,0,0,,0,0,,0,1,1,1,0,0,0,0,0,0.3,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+14,14,1992-03-01,25-180,NYK,@,NJN,L (-15),0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+15,15,1992-03-03,25-182,NYK,,DAL,W (+19),0,4:00,2,2,1.0,0,0,,0,0,,0,2,2,1,0,0,0,0,4,4.7,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+16,16,1992-03-07,25-186,NYK,,CHH,W (+29),0,8:00,1,3,0.333,0,0,,1,2,0.5,0,2,2,1,0,1,0,1,3,2.5,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+17,17,1992-03-21,25-200,NYK,,MIA,W (+17),0,6:00,0,1,0.0,0,0,,2,2,1.0,0,1,1,0,0,0,0,0,2,1.6,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+18,18,1992-04-02,25-212,NYK,@,CHH,W (+21),0,2:00,1,1,1.0,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992
+19,19,1992-04-10,25-220,NYK,,PHI,W (+16),0,2:00,1,1,1.0,0,0,,2,2,1.0,0,0,0,1,0,0,0,0,4,4.4,1992,winchke01,https://www.basketball-reference.com/players/w/winchke01/gamelog/1992

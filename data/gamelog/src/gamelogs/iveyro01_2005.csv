@@ -1,0 +1,68 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,2004-11-03,22-319,ATL,@,PHO,L (-30),0,7:54,0,2,.000,0,0,,2,2,1.000,0,1,1,1,1,0,2,3,2,-0.6,+4,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+2,2,2004-11-05,22-321,ATL,@,SEA,L (-21),0,2:46,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+2,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+3,3,2004-11-07,22-323,ATL,@,LAL,L (-16),0,18:46,5,6,.833,0,0,,0,2,.000,0,1,1,4,1,0,1,2,10,9.3,-1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+4,4,2004-11-09,22-325,ATL,,CLE,L (-14),0,16:31,3,4,.750,0,0,,1,2,.500,0,0,0,1,0,0,0,4,7,4.1,-5,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+5,5,2004-11-12,22-328,ATL,@,NOH,W (+1),0,7:25,0,1,.000,0,0,,3,4,.750,0,0,0,1,0,0,1,1,3,1.2,-4,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+6,6,2004-11-13,22-329,ATL,,SAS,L (-15),0,22:40,4,7,.571,0,0,,1,1,1.000,0,1,1,3,2,0,0,2,9,9.3,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+7,7,2004-11-16,22-332,ATL,,HOU,W (+4),0,25:42,3,7,.429,0,1,.000,4,6,.667,0,4,4,2,1,0,0,2,10,8.3,+16,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+8,8,2004-11-17,22-333,ATL,@,IND,L (-7),0,24:22,3,5,.600,1,1,1.000,1,1,1.000,0,3,3,1,2,0,2,3,8,6.1,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+9,9,2004-11-20,22-336,ATL,,UTA,L (-13),0,19:32,0,5,.000,0,1,.000,0,0,,1,1,2,2,0,1,0,3,0,-1.6,+11,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+10,10,2004-11-23,22-339,ATL,@,NYK,L (-16),0,6:31,2,2,1.000,0,0,,0,0,,0,0,0,0,1,0,1,1,4,3.0,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+11,,2004-11-24,22-340,ATL,,MIA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+12,11,2004-12-14,22-360,ATL,,IND,L (-11),0,26:33,5,8,.625,0,0,,1,1,1.000,0,2,2,0,1,0,1,6,11,5.6,0,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+13,12,2004-12-15,22-361,ATL,@,HOU,L (-23),0,14:10,0,2,.000,0,0,,0,0,,1,0,1,3,1,0,2,2,0,-0.4,-9,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+14,13,2004-12-17,22-363,ATL,,POR,L (-16),0,12:09,1,3,.333,0,0,,1,2,.500,0,1,1,1,1,0,4,2,3,-1.9,-21,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+15,14,2004-12-18,22-364,ATL,@,DAL,L (-22),0,17:32,0,3,.000,0,0,,1,2,.500,0,1,1,3,2,0,1,4,1,0.3,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+16,15,2004-12-22,23-002,ATL,,DAL,W (+13),1,16:18,2,3,.667,0,0,,1,2,.500,0,1,1,0,2,0,2,4,5,2.0,+2,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+17,16,2004-12-27,23-007,ATL,@,MIA,L (-14),1,17:04,2,4,.500,0,0,,1,2,.500,0,1,1,4,0,0,0,2,5,4.9,-3,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+18,17,2004-12-28,23-008,ATL,,CLE,L (-9),1,10:49,1,4,.250,0,0,,0,0,,1,1,2,2,2,1,1,4,2,2.1,-2,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+19,18,2004-12-30,23-010,ATL,,SEA,L (-15),1,18:59,1,2,.500,0,0,,0,0,,2,0,2,4,1,0,1,2,2,4.4,-1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+20,19,2005-01-02,23-013,ATL,@,WAS,L (-3),0,7:00,0,2,.000,0,0,,0,0,,0,1,1,2,0,0,2,2,0,-2.5,0,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+21,20,2005-01-05,23-016,ATL,@,CLE,L (-16),0,10:27,0,1,.000,0,0,,2,2,1.000,0,1,1,2,0,0,0,2,2,2.2,-13,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+22,21,2005-01-07,23-018,ATL,,SAC,L (-3),0,9:07,0,1,.000,0,0,,0,0,,0,0,0,1,1,0,1,2,0,-0.8,-5,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+23,22,2005-01-11,23-022,ATL,,MIL,W (+23),0,15:51,3,3,1.000,0,0,,3,3,1.000,0,2,2,2,1,1,0,3,9,10.6,+9,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+24,23,2005-01-14,23-025,ATL,@,BOS,L (-12),0,4:51,0,3,.000,0,0,,0,0,,0,1,1,0,1,0,1,0,0,-1.8,-8,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+25,24,2005-01-15,23-026,ATL,,CHA,W (+8),0,9:16,0,0,,0,0,,2,2,1.000,0,2,2,0,1,0,3,2,2,-0.2,-8,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+26,25,2005-01-17,23-028,ATL,,NJN,L (-1),0,5:19,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,2,0,0,-2.7,-2,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+27,26,2005-01-29,23-040,ATL,@,MEM,L (-1),0,6:28,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-1.1,-6,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+28,,2005-01-31,23-042,ATL,,ORL,W (+1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+29,27,2005-02-02,23-044,ATL,@,DET,L (-15),0,4:08,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,-0.4,+4,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+30,28,2005-02-04,23-046,ATL,@,PHI,L (-18),0,22:37,4,7,.571,0,0,,2,3,.667,2,3,5,4,0,0,2,2,10,8.6,-9,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+31,29,2005-02-05,23-047,ATL,,IND,L (-5),0,8:37,0,1,.000,0,0,,0,2,.000,0,1,1,1,1,0,1,0,0,-0.5,-2,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+32,30,2005-02-07,23-049,ATL,,LAL,W (+6),0,16:00,3,7,.429,0,0,,0,1,.000,1,3,4,1,0,0,1,4,6,1.6,+8,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+33,31,2005-02-10,23-052,ATL,@,ORL,L (-5),0,7:10,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,1,2,1.3,+2,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+34,32,2005-02-12,23-054,ATL,@,MIL,L (-30),0,16:23,2,5,.400,0,0,,0,0,,0,2,2,2,1,0,1,3,4,2.1,-9,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+35,33,2005-02-15,23-057,ATL,,DEN,L (-4),0,14:58,3,6,.500,0,0,,0,0,,0,1,1,2,1,1,1,3,6,4.2,-3,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+36,34,2005-02-16,23-058,ATL,@,CLE,L (-22),0,11:49,1,2,.500,0,0,,0,0,,2,1,3,1,1,0,1,1,2,3.0,-6,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+37,,2005-02-22,23-064,ATL,@,SAC,L (-10),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+38,35,2005-02-23,23-065,ATL,@,GSW,L (-5),0,11:05,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,3,2,0.5,-3,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+39,36,2005-02-25,23-067,ATL,@,POR,L (-1),0,12:55,2,5,.400,0,0,,0,0,,2,2,4,1,0,0,1,2,4,2.2,+4,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+40,37,2005-02-27,23-069,ATL,@,LAC,L (-7),0,5:17,1,3,.333,0,0,,0,0,,0,2,2,0,0,0,0,1,2,0.5,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+41,38,2005-03-01,23-071,ATL,@,DEN,L (-23),0,4:40,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+42,,2005-03-02,23-072,ATL,@,UTA,L (-22),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+43,39,2005-03-05,23-075,ATL,,PHI,L (-1),0,7:13,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,1,2,2,-0.1,+6,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+44,40,2005-03-08,23-078,ATL,@,MIL,L (-4),0,6:33,0,0,,0,0,,2,2,1.000,0,1,1,1,0,0,1,1,2,1.6,+7,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+45,41,2005-03-09,23-079,ATL,@,BOS,L (-4),0,8:39,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,1,3,2,-1.2,-4,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+46,42,2005-03-11,23-081,ATL,@,TOR,W (+4),0,13:36,3,5,.600,0,0,,1,1,1.000,0,1,1,2,1,0,1,4,7,4.8,+12,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+47,43,2005-03-12,23-082,ATL,,GSW,L (-13),0,14:52,2,5,.400,0,0,,0,0,,0,3,3,5,1,0,0,1,4,6.3,-9,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+48,44,2005-03-14,23-084,ATL,,DET,L (-6),0,12:17,2,2,1.000,0,0,,1,2,.500,0,0,0,1,0,1,2,1,5,3.0,-7,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+49,45,2005-03-16,23-086,ATL,,WAS,L (-29),0,20:06,4,8,.500,1,1,1.000,2,2,1.000,0,0,0,5,1,0,2,2,11,8.7,-9,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+50,46,2005-03-18,23-088,ATL,,NYK,L (-14),0,14:31,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-0.8,-4,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+51,47,2005-03-21,23-091,ATL,@,CHI,L (-14),0,8:30,1,1,1.000,0,0,,0,0,,1,1,2,2,0,0,1,1,2,2.7,+6,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+52,,2005-03-22,23-092,ATL,,PHO,L (-11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+53,48,2005-03-25,23-095,ATL,@,SAS,L (-16),0,8:42,1,1,1.000,0,0,,0,2,.000,0,2,2,1,1,0,1,3,2,1.0,+10,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+54,49,2005-03-26,23-096,ATL,,TOR,L (-5),0,1:21,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,0,1,0,0.3,-1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+55,50,2005-03-28,23-098,ATL,@,ORL,L (-7),0,11:34,2,3,.667,0,1,.000,5,6,.833,0,0,0,4,1,0,0,4,9,9.5,+14,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+56,51,2005-03-30,23-100,ATL,@,WAS,L (-3),0,21:00,3,5,.600,0,0,,0,0,,0,2,2,5,0,0,2,4,6,4.2,-1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+57,52,2005-04-01,23-102,ATL,,BOS,L (-16),1,24:15,1,4,.250,0,0,,2,2,1.000,2,2,4,2,3,0,1,5,4,5.0,-5,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+58,53,2005-04-03,23-104,ATL,,LAC,L (-20),0,25:08,4,8,.500,1,1,1.000,0,2,.000,1,2,3,2,1,0,1,3,9,5.7,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+59,54,2005-04-05,23-106,ATL,,NOH,L (-10),0,8:29,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,1,4,0,-1.9,-11,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+60,55,2005-04-08,23-109,ATL,@,TOR,L (-8),0,18:48,2,6,.333,0,1,.000,0,0,,0,2,2,1,1,0,0,4,4,1.3,0,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+61,56,2005-04-09,23-110,ATL,,MIN,W (+7),0,18:21,3,4,.750,0,0,,4,4,1.000,1,2,3,5,1,0,0,1,10,13.8,+19,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+62,57,2005-04-11,23-112,ATL,,CHA,L (-5),0,11:58,0,2,.000,0,0,,2,2,1.000,0,2,2,0,0,0,2,3,2,-2.0,-10,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+63,58,2005-04-13,23-114,ATL,@,CHA,L (-21),0,15:26,0,1,.000,0,0,,0,0,,0,3,3,1,0,0,1,2,0,-0.9,-2,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+64,59,2005-04-16,23-117,ATL,,CHI,L (-9),0,6:23,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+65,60,2005-04-17,23-118,ATL,@,NYK,W (+4),0,16:55,1,5,.200,0,1,.000,2,2,1.000,0,0,0,1,0,1,0,2,4,1.5,+1,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+66,61,2005-04-19,23-120,ATL,,DET,L (-27),0,16:18,1,4,.250,0,0,,0,0,,0,0,0,2,1,1,2,3,2,-0.5,+3,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005
+67,62,2005-04-20,23-121,ATL,@,PHI,L (-24),0,12:55,0,1,.000,0,0,,0,0,,1,0,1,3,1,0,1,3,0,0.9,-16,2005,iveyro01,https://www.basketball-reference.com/players/i/iveyro01/gamelog/2005

@@ -1,0 +1,20 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1988-11-04,24-225,UTA,,SEA,L (-7),0,9:00,1,2,0.5,0,0,,0,0,,0,0,0,0,2,0,3,1,2,-0.4,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+2,2,1988-11-09,24-230,UTA,,SAC,W (+24),0,21:00,1,3,0.333,0,0,,1,2,0.5,0,3,3,1,1,0,1,3,3,1.3,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+3,3,1988-11-10,24-231,UTA,@,HOU,L (-7),0,6:00,0,1,0.0,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-1.4,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+4,4,1988-11-12,24-233,UTA,@,SAS,W (+9),0,10:00,2,3,0.667,0,0,,0,0,,0,0,0,1,1,0,0,0,4,4.4,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+5,5,1988-11-15,24-236,UTA,,IND,W (+12),0,7:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+6,6,1988-11-17,24-238,UTA,,POR,W (+24),0,7:00,0,0,,0,0,,0,0,,1,0,1,1,0,0,1,1,0,0.0,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+7,7,1988-11-21,24-242,UTA,,LAC,W (+19),0,2:00,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+8,8,1988-11-25,24-246,UTA,,SAS,W (+20),0,6:00,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+9,9,1988-11-26,24-247,UTA,@,DAL,L (-20),0,5:00,0,1,0.0,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-0.4,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+10,10,1988-11-29,24-250,UTA,@,SEA,L (-7),0,4:00,1,4,0.25,0,1,0.0,0,0,,2,0,2,0,1,0,0,1,2,1.6,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+11,11,1988-11-30,24-251,UTA,,CHI,W (+14),0,8:00,0,2,0.0,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-1.5,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+12,12,1988-12-02,24-253,UTA,@,LAL,L (-21),0,17:00,1,3,0.333,0,0,,0,0,,0,0,0,2,0,0,0,2,2,0.9,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+13,13,1988-12-03,24-254,UTA,@,SAC,W (+34),0,18:00,1,1,1.0,0,0,,2,4,0.5,1,2,3,5,2,0,0,0,4,9.7,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+14,14,1988-12-06,24-257,UTA,@,GSW,L (-11),0,8:00,1,2,0.5,0,0,,2,3,0.667,0,1,1,0,1,0,1,1,4,2.5,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+15,15,1988-12-07,24-258,UTA,,WSB,W (+17),0,12:00,0,1,0.0,0,0,,1,2,0.5,0,0,0,2,1,0,1,2,1,0.5,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+16,16,1988-12-09,24-260,UTA,,DAL,L (-8),0,5:00,0,1,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+17,17,1988-12-10,24-261,UTA,@,LAC,W (+8),0,12:00,1,1,1.0,0,0,,0,0,,0,0,0,0,0,0,1,1,2,0.3,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+18,18,1988-12-12,24-263,UTA,,MIA,W (+16),0,19:00,2,5,0.4,0,0,,0,0,,1,0,1,4,0,0,3,3,4,0.6,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989
+19,19,1988-12-23,24-274,UTA,@,MIA,L (-21),0,2:00,0,1,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,1989,kofoeba01,https://www.basketball-reference.com/players/k/kofoeba01/gamelog/1989

@@ -1,0 +1,83 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,2001-10-30,27-065,HOU,,ATL,W (+5),1,29:43,4,7,.571,0,0,,1,2,.500,1,11,12,0,0,2,1,4,9,8.1,+5,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+2,2,2001-11-01,27-067,HOU,,LAC,W (+6),1,22:53,0,5,.000,0,0,,0,0,,2,4,6,1,0,1,1,6,0,-2.9,-5,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+3,3,2001-11-03,27-069,HOU,,MIN,L (-2),1,20:19,3,6,.500,0,0,,3,7,.429,1,5,6,0,0,0,1,3,9,4.4,-4,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+4,4,2001-11-04,27-070,HOU,@,PHO,W (+3),1,25:50,3,5,.600,0,0,,1,3,.333,0,5,5,0,0,2,0,4,7,5.2,+4,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+5,5,2001-11-06,27-072,HOU,,DEN,W (+6),1,14:00,3,4,.750,0,0,,1,2,.500,2,4,6,1,0,0,0,2,7,7.5,+1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+6,6,2001-11-08,27-074,HOU,,PHI,W (+5),1,30:41,4,6,.667,0,0,,1,2,.500,1,6,7,0,0,0,1,6,9,5.1,+8,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+7,7,2001-11-09,27-075,HOU,@,DEN,L (-27),1,15:44,3,3,1.000,0,0,,1,4,.250,1,1,2,0,1,0,1,2,7,5.1,-3,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+8,8,2001-11-13,27-079,HOU,@,SAS,L (-4),1,18:07,0,1,.000,0,0,,1,2,.500,0,2,2,0,1,1,0,3,1,1.0,-1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+9,9,2001-11-15,27-081,HOU,,LAL,L (-1),1,22:29,1,2,.500,0,0,,2,2,1.000,2,1,3,0,0,0,0,1,4,4.3,-14,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+10,10,2001-11-17,27-083,HOU,,DAL,W (+37),0,6:21,1,1,1.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,0,4,4.3,+2,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+11,11,2001-11-19,27-085,HOU,@,SAC,L (-36),1,5:36,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-1.5,-10,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+12,12,2001-11-20,27-086,HOU,@,POR,W (+7),1,21:14,1,4,.250,0,0,,1,2,.500,3,2,5,0,0,1,1,1,3,2.2,-5,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+13,13,2001-11-23,27-089,HOU,@,SEA,L (-18),1,15:53,1,2,.500,0,0,,1,2,.500,2,1,3,0,0,2,0,0,3,4.7,-6,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+14,14,2001-11-25,27-091,HOU,@,LAC,L (-7),1,26:24,2,3,.667,0,0,,0,0,,1,2,3,1,1,1,1,4,4,3.8,-1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+15,15,2001-11-27,27-093,HOU,,SAC,L (-5),1,34:06,2,6,.333,0,0,,0,2,.000,2,11,13,1,1,3,2,3,4,5.1,+3,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+16,16,2001-11-30,27-096,HOU,@,MEM,L (-17),1,26:10,2,5,.400,0,0,,2,2,1.000,2,3,5,0,1,2,0,1,6,7.6,-6,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+17,17,2001-12-01,27-097,HOU,,SAS,L (-10),1,18:09,0,4,.000,0,0,,0,0,,5,3,8,1,1,1,2,3,0,0.8,-11,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+18,18,2001-12-03,27-099,HOU,@,NYK,L (-3),1,24:56,1,3,.333,0,0,,4,4,1.000,3,3,6,1,0,0,0,1,6,7.6,-1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+19,19,2001-12-04,27-100,HOU,@,CHI,L (-28),1,16:38,2,2,1.000,0,0,,4,5,.800,1,2,3,0,0,0,1,2,8,6.5,-14,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+20,20,2001-12-06,27-102,HOU,,WAS,L (-3),1,31:10,4,7,.571,0,0,,4,6,.667,2,8,10,0,1,1,0,3,12,12.2,0,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+21,21,2001-12-08,27-104,HOU,@,MIN,L (-10),1,21:44,6,9,.667,0,0,,2,5,.400,5,2,7,0,0,0,1,2,14,11.2,-4,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+22,,2001-12-09,27-105,HOU,@,DET,L (-28),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+23,,2001-12-11,27-107,HOU,,CLE,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+24,,2001-12-13,27-109,HOU,@,IND,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+25,22,2001-12-15,27-111,HOU,,MIA,L (-3),0,4:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+26,23,2001-12-18,27-114,HOU,,POR,L (-9),1,34:24,5,5,1.000,0,0,,2,2,1.000,6,5,11,1,0,0,0,3,12,15.7,-8,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+27,24,2001-12-20,27-116,HOU,,LAL,L (-6),1,24:43,1,6,.167,0,0,,1,4,.250,3,6,9,1,1,1,0,2,3,3.5,-18,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+28,25,2001-12-22,27-118,HOU,,MIL,W (+5),1,40:57,2,5,.400,0,0,,5,10,.500,2,7,9,0,0,0,1,4,9,5.2,+6,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+29,26,2001-12-26,27-122,HOU,,PHO,L (-6),1,24:12,2,3,.667,0,0,,3,4,.750,3,1,4,0,1,1,0,2,7,8.6,+2,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+30,27,2001-12-28,27-124,HOU,@,GSW,W (+7),1,22:34,3,5,.600,0,0,,1,2,.500,2,2,4,0,0,2,0,3,7,6.5,+2,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+31,28,2001-12-30,27-126,HOU,@,LAL,L (-24),1,25:23,2,3,.667,0,0,,3,4,.750,2,3,5,0,0,1,0,0,7,8.3,+3,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+32,29,2002-01-03,27-130,HOU,,DET,W (+2),1,22:44,1,3,.333,0,0,,2,2,1.000,0,1,1,0,1,1,0,3,4,3.1,-14,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+33,30,2002-01-05,27-132,HOU,,IND,L (-2),1,24:59,4,9,.444,0,0,,0,0,,2,4,6,0,1,2,0,1,8,7.9,-6,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+34,31,2002-01-08,27-135,HOU,,NYK,W (+2),1,18:12,2,2,1.000,0,0,,0,0,,1,4,5,0,0,0,2,3,4,2.1,-3,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+35,32,2002-01-10,27-137,HOU,@,UTA,L (-4),1,29:07,3,3,1.000,0,0,,0,0,,0,3,3,0,0,1,1,6,6,3.3,-15,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+36,33,2002-01-12,27-139,HOU,,DEN,W (+12),1,25:37,4,7,.571,0,0,,4,6,.667,1,9,10,0,0,0,0,3,12,10.1,0,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+37,34,2002-01-15,27-142,HOU,@,PHI,L (-6),1,22:11,5,6,.833,0,0,,3,4,.750,3,3,6,2,1,0,0,0,13,15.8,-2,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+38,35,2002-01-16,27-143,HOU,@,TOR,L (-6),1,30:40,1,4,.250,0,0,,0,0,,4,4,8,2,0,2,0,3,2,5.2,-9,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+39,36,2002-01-18,27-145,HOU,@,BOS,W (+3),1,40:18,6,9,.667,0,0,,2,6,.333,3,9,12,0,0,0,0,3,14,12.1,+1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+40,37,2002-01-19,27-146,HOU,@,NJN,L (-9),1,22:16,1,3,.333,0,0,,3,8,.375,1,3,4,0,0,2,0,3,5,3.1,-3,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+41,38,2002-01-21,27-148,HOU,@,ATL,L (-4),1,35:14,4,6,.667,0,0,,0,0,,2,8,10,0,0,0,2,3,8,6.0,+1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+42,39,2002-01-22,27-149,HOU,,DAL,L (-6),1,26:58,1,5,.200,0,0,,4,6,.667,5,5,10,1,2,2,0,3,6,10.0,-5,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+43,40,2002-01-24,27-151,HOU,,NJN,L (-5),1,43:19,7,8,.875,0,0,,3,5,.600,5,5,10,0,3,4,3,3,17,20.0,+3,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+44,41,2002-01-26,27-153,HOU,@,CHH,W (+7),1,42:56,6,10,.600,0,0,,1,2,.500,8,7,15,1,2,2,2,5,13,15.8,+16,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+45,42,2002-01-29,27-156,HOU,,GSW,W (+4),1,32:09,5,8,.625,0,0,,2,2,1.000,4,7,11,0,2,2,1,3,12,14.5,+7,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+46,43,2002-01-31,27-158,HOU,@,DAL,L (-4),1,30:01,7,9,.778,0,0,,4,5,.800,3,12,15,0,0,0,0,2,18,19.0,+11,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+47,44,2002-02-01,27-159,HOU,,CHH,L (-1),1,29:52,2,4,.500,0,0,,1,2,.500,1,10,11,0,1,1,0,5,5,6.0,-1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+48,,2002-02-04,27-162,HOU,,UTA,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+49,45,2002-02-06,27-164,HOU,@,CLE,L (-2),1,25:57,2,5,.400,0,0,,2,2,1.000,0,3,3,0,4,0,0,2,6,7.4,-18,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+50,46,2002-02-12,27-170,HOU,,MEM,W (+7),1,34:07,3,3,1.000,0,0,,2,5,.400,4,9,13,1,2,1,3,4,8,10.2,+8,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+51,47,2002-02-16,27-174,HOU,,ORL,L (-9),1,26:06,0,3,.000,0,0,,1,2,.500,5,5,10,0,1,1,0,3,1,4.0,+3,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+52,48,2002-02-18,27-176,HOU,@,WAS,W (+13),1,29:34,1,2,.500,0,0,,2,2,1.000,1,8,9,2,1,3,1,3,4,8.4,+13,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+53,49,2002-02-20,27-178,HOU,@,MIL,L (-39),1,23:00,0,0,,0,0,,0,0,,5,5,10,0,1,1,2,1,0,4.3,-18,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+54,,2002-02-21,27-179,HOU,,MIN,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+55,50,2002-02-23,27-181,HOU,,BOS,W (+10),1,40:28,6,7,.857,0,0,,2,2,1.000,5,6,11,0,0,4,1,3,14,17.4,+2,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+56,51,2002-02-26,27-184,HOU,,LAC,L (-10),1,36:55,2,3,.667,0,0,,2,4,.500,4,5,9,0,1,1,0,3,6,8.7,-15,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+57,52,2002-03-02,27-188,HOU,@,PHO,W (+7),1,17:01,2,3,.667,0,0,,0,0,,0,1,1,0,0,2,0,1,4,4.0,+6,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+58,53,2002-03-03,27-189,HOU,@,LAL,L (-16),1,14:50,0,2,.000,0,0,,0,0,,0,3,3,0,1,0,1,4,0,-2.1,-9,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+59,54,2002-03-05,27-191,HOU,,TOR,W (+3),1,23:58,0,0,,0,0,,1,2,.500,1,2,3,0,0,0,0,3,1,0.7,+8,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+60,55,2002-03-07,27-193,HOU,@,SAS,L (-2),1,36:18,2,4,.500,0,0,,2,2,1.000,4,6,10,0,2,7,0,3,6,14.3,-6,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+61,56,2002-03-08,27-194,HOU,,GSW,L (-13),1,27:36,1,2,.500,0,0,,0,2,.000,1,7,8,0,0,2,1,3,2,2.2,-14,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+62,57,2002-03-10,27-196,HOU,,UTA,W (+3),1,28:16,4,4,1.000,0,0,,0,0,,1,3,4,0,0,4,1,3,8,9.0,+10,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+63,58,2002-03-12,27-198,HOU,,SEA,W (+3),1,24:00,2,4,.500,0,0,,2,2,1.000,4,4,8,2,0,2,0,3,6,9.6,+6,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+64,59,2002-03-13,27-199,HOU,@,MIN,W (+1),1,18:40,3,4,.750,0,0,,0,0,,1,2,3,0,0,0,1,1,6,4.3,-8,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+65,60,2002-03-16,27-202,HOU,,CHI,L (-2),1,38:18,6,9,.667,0,0,,3,4,.750,4,11,15,1,0,6,1,1,15,20.3,+7,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+66,61,2002-03-18,27-204,HOU,@,LAC,L (-7),1,19:48,2,5,.400,0,0,,0,2,.000,3,8,11,0,0,1,0,5,4,3.7,0,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+67,62,2002-03-19,27-205,HOU,@,SAC,L (-23),1,24:56,7,8,.875,0,0,,2,5,.400,3,3,6,0,0,0,0,2,16,14.2,-9,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+68,63,2002-03-22,27-208,HOU,@,SEA,L (-30),1,26:17,2,3,.667,0,0,,0,0,,1,4,5,0,0,2,2,5,4,2.0,-15,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+69,64,2002-03-24,27-210,HOU,@,GSW,W (+12),1,30:22,5,5,1.000,0,0,,1,2,.500,6,6,12,0,0,1,2,4,11,12.2,+17,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+70,65,2002-03-26,27-212,HOU,@,UTA,L (-4),1,35:47,5,7,.714,0,0,,5,6,.833,2,4,6,0,2,3,1,6,15,15.0,+14,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+71,66,2002-03-28,27-214,HOU,,SAC,L (-27),1,18:41,2,2,1.000,0,0,,1,4,.250,2,1,3,0,1,2,0,4,5,5.7,-7,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+72,67,2002-03-30,27-216,HOU,,PHO,L (-2),1,31:54,4,7,.571,0,0,,1,2,.500,5,8,13,2,0,2,0,3,9,12.8,0,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+73,68,2002-04-02,27-219,HOU,,SEA,W (+2),1,25:59,1,1,1.000,0,0,,2,3,.667,5,5,10,1,0,2,1,1,4,9.0,+3,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+74,69,2002-04-04,27-221,HOU,,SAS,L (-24),1,9:56,1,2,.500,0,0,,0,0,,1,1,2,0,0,1,0,2,2,1.9,-4,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+75,,2002-04-05,27-222,HOU,@,MEM,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+76,70,2002-04-08,27-225,HOU,@,ORL,L (-9),1,28:08,4,6,.667,0,0,,0,0,,2,4,6,2,1,0,5,3,8,4.2,-2,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+77,71,2002-04-09,27-226,HOU,@,MIA,L (-3),1,34:39,1,1,1.000,0,0,,2,4,.500,2,11,13,0,1,1,1,6,4,5.9,-1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+78,72,2002-04-11,27-228,HOU,@,DAL,W (+3),1,19:36,3,4,.750,0,0,,1,3,.333,3,3,6,0,0,1,1,0,7,7.3,+5,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+79,73,2002-04-12,27-229,HOU,,POR,L (-1),1,23:26,1,4,.250,0,0,,2,4,.500,0,7,7,2,0,2,0,2,4,4.9,-1,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+80,,2002-04-14,27-231,HOU,,MEM,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+81,74,2002-04-16,27-233,HOU,@,DEN,L (-31),1,21:29,0,3,.000,0,1,.000,2,2,1.000,1,2,3,1,0,2,0,3,2,2.1,-21,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002
+82,75,2002-04-17,27-234,HOU,@,POR,L (-13),1,21:27,1,3,.333,0,0,,0,0,,2,6,8,1,0,0,3,2,2,0.4,-10,2002,catoke01,https://www.basketball-reference.com/players/c/catoke01/gamelog/2002

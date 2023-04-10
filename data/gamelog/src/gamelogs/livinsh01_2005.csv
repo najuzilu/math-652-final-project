@@ -1,0 +1,32 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,2004-11-03,19-053,LAC,,SEA,W (+30),0,16:04,3,3,1.000,0,0,,0,0,,0,5,5,3,0,0,1,2,6,6.9,+5,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+2,2,2004-11-05,19-055,LAC,@,POR,L (-13),0,22:13,3,6,.500,0,1,.000,0,0,,1,0,1,4,1,1,3,4,6,3.6,-7,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+3,3,2004-11-06,19-056,LAC,@,GSW,W (+8),0,21:02,3,5,.600,0,0,,0,0,,0,2,2,1,1,1,4,6,6,0.3,-3,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+4,4,2004-11-08,19-058,LAC,,DET,L (-3),0,16:30,0,6,.000,0,0,,1,2,.500,1,1,2,1,1,1,2,4,1,-3.8,-6,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+5,5,2004-11-10,19-060,LAC,@,IND,W (+34),0,24:31,3,8,.375,0,1,.000,0,0,,1,3,4,6,4,1,2,1,6,9.7,+35,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+6,6,2004-11-12,19-062,LAC,@,NYK,L (-14),0,31:30,2,6,.333,0,0,,1,2,.500,0,1,1,2,2,1,4,3,5,0.4,-9,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+7,7,2004-11-13,19-063,LAC,@,CHI,W (+1),0,11:13,0,3,.000,0,0,,0,0,,0,1,1,2,0,0,0,1,0,-0.8,-12,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+8,8,2004-11-16,19-066,LAC,,TOR,W (+12),0,21:06,2,5,.400,0,0,,0,0,,1,0,1,3,0,0,1,2,4,2.3,-14,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+9,9,2004-11-17,19-067,LAC,@,LAL,L (-14),0,17:24,0,4,.000,0,0,,0,0,,0,0,0,3,0,1,0,1,0,-0.4,-12,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+10,10,2004-11-20,19-070,LAC,,HOU,L (-5),0,31:33,6,13,.462,0,0,,1,2,.500,0,4,4,1,2,1,2,4,13,6.9,+3,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+11,11,2004-11-21,19-071,LAC,,PHO,L (-11),0,19:07,4,7,.571,0,0,,0,0,,1,1,2,3,0,1,2,4,8,4.9,-20,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+12,12,2005-02-13,19-155,LAC,@,TOR,L (-3),0,26:19,4,5,.800,0,0,,2,2,1.000,0,1,1,9,0,0,3,0,10,11.7,-2,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+13,13,2005-02-15,19-157,LAC,@,ORL,L (-5),0,25:11,3,9,.333,0,0,,1,2,.500,1,2,3,5,3,0,3,2,7,5.5,+4,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+14,,2005-02-16,19-158,LAC,@,MIA,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+15,14,2005-03-19,19-189,LAC,,SAC,L (-4),0,26:45,2,7,.286,0,0,,2,3,.667,1,2,3,3,0,0,1,4,6,2.3,-15,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+16,15,2005-03-21,19-191,LAC,,POR,W (+7),0,22:50,2,5,.400,0,0,,2,3,.667,1,1,2,3,1,0,3,5,6,2.0,+5,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+17,16,2005-03-23,19-193,LAC,,MIL,W (+8),1,25:19,1,4,.250,0,0,,0,0,,1,3,4,11,1,0,5,2,2,4.1,0,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+18,17,2005-03-25,19-195,LAC,,WAS,W (+4),1,23:52,1,6,.167,0,0,,1,2,.500,0,0,0,4,1,0,3,1,3,-0.8,+15,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+19,18,2005-03-27,19-197,LAC,@,MIN,L (-4),1,26:03,2,5,.400,0,0,,3,3,1.000,1,3,4,5,0,0,2,4,7,5.8,+11,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+20,19,2005-03-29,19-199,LAC,@,CLE,L (-10),1,25:29,2,5,.400,0,0,,2,2,1.000,0,1,1,5,0,2,2,3,6,5.3,-10,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+21,20,2005-03-30,19-200,LAC,@,NJN,L (-17),1,22:09,3,7,.429,0,0,,4,4,1.000,3,1,4,3,1,0,3,2,10,8.0,-18,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+22,21,2005-04-01,19-202,LAC,@,DET,L (-13),1,38:01,4,8,.500,0,0,,2,2,1.000,0,3,3,6,1,0,2,2,10,9.3,0,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+23,22,2005-04-03,19-204,LAC,@,ATL,W (+20),1,35:44,3,7,.429,0,0,,0,0,,2,1,3,10,0,0,3,4,6,6.4,+30,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+24,23,2005-04-05,19-206,LAC,@,CHA,W (+2),1,33:39,5,12,.417,0,0,,7,9,.778,2,6,8,9,6,1,1,5,17,23.0,+3,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+25,24,2005-04-06,19-207,LAC,@,SAS,L (-9),1,30:49,4,8,.500,0,0,,0,0,,1,2,3,3,1,0,5,3,8,2.2,-5,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+26,25,2005-04-09,19-210,LAC,,SAS,L (-1),1,47:04,5,9,.556,0,0,,8,9,.889,0,5,5,7,1,0,2,4,18,17.1,-8,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+27,26,2005-04-12,19-213,LAC,,UTA,W (+9),1,35:24,6,12,.500,0,0,,3,7,.429,1,3,4,10,1,0,0,0,15,17.0,+20,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+28,27,2005-04-15,19-216,LAC,@,PHO,L (-7),1,38:51,1,8,.125,0,0,,0,0,,1,4,5,11,0,0,7,4,2,-2.2,-5,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+29,28,2005-04-16,19-217,LAC,,NOH,W (+5),1,33:03,3,9,.333,0,0,,1,2,.500,0,2,2,8,1,0,2,4,7,5.1,-1,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+30,29,2005-04-18,19-219,LAC,@,HOU,L (-25),1,35:07,5,10,.500,0,0,,0,0,,0,3,3,7,2,0,2,0,10,10.8,-17,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005
+31,30,2005-04-20,19-221,LAC,@,NOH,W (+11),1,36:11,7,13,.538,0,0,,3,3,1.000,2,6,8,3,1,0,5,1,17,11.6,+16,2005,livinsh01,https://www.basketball-reference.com/players/l/livinsh01/gamelog/2005

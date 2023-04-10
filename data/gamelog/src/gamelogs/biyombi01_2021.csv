@@ -1,0 +1,73 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,2020-12-23,28-117,CHO,@,CLE,L (-7),0,24:21,5,5,1.000,0,0,,1,5,.200,1,3,4,0,0,1,2,1,11,7.8,0,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+2,2,2020-12-26,28-120,CHO,,OKC,L (-2),1,30:19,2,7,.286,0,0,,1,2,.500,3,6,9,4,0,2,0,2,5,7.8,-5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+3,3,2020-12-27,28-121,CHO,,BRK,W (+2),1,29:38,5,6,.833,0,0,,2,4,.500,4,2,6,1,0,1,1,5,12,10.8,-3,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+4,4,2020-12-30,28-124,CHO,@,DAL,W (+19),1,29:53,3,6,.500,0,0,,3,5,.600,4,2,6,4,0,1,2,5,9,8.1,+8,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+5,5,2021-01-01,28-126,CHO,,MEM,L (-15),1,28:22,7,10,.700,0,1,.000,2,4,.500,7,5,12,2,0,1,0,1,16,19.1,-17,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+6,6,2021-01-02,28-127,CHO,@,PHI,L (-15),1,30:35,3,7,.429,0,0,,3,4,.750,3,6,9,5,1,0,2,3,9,10.1,-11,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+7,7,2021-01-04,28-129,CHO,@,PHI,L (-17),1,22:44,2,7,.286,0,0,,0,0,,1,3,4,4,0,1,3,3,4,0.8,-20,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+8,8,2021-01-06,28-131,CHO,@,ATL,W (+8),1,24:18,1,5,.200,0,0,,0,2,.000,2,6,8,1,0,2,0,2,2,2.6,-5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+9,9,2021-01-08,28-133,CHO,@,NOP,W (+8),1,27:00,4,5,.800,0,0,,3,4,.750,1,5,6,0,0,1,1,2,11,9.8,+3,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+10,10,2021-01-09,28-134,CHO,,ATL,W (+8),1,21:10,2,4,.500,0,0,,0,0,,3,4,7,0,0,1,2,4,4,2.4,-5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+11,11,2021-01-11,28-136,CHO,,NYK,W (+21),1,25:20,1,2,.500,0,0,,0,0,,0,3,3,2,0,3,1,3,2,3.2,+11,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+12,12,2021-01-13,28-138,CHO,,DAL,L (-11),1,24:39,2,2,1.000,0,0,,1,4,.250,1,8,9,0,0,4,0,1,5,8.7,-3,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+13,13,2021-01-14,28-139,CHO,@,TOR,L (-3),1,24:51,5,8,.625,0,0,,0,0,,4,4,8,1,0,1,1,1,10,10.4,-6,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+14,14,2021-01-16,28-141,CHO,@,TOR,L (-3),1,33:33,3,7,.429,0,0,,0,1,.000,4,7,11,1,2,1,3,3,6,6.0,+4,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+15,15,2021-01-22,28-147,CHO,,CHI,L (-13),1,27:49,2,3,.667,0,0,,2,3,.667,3,7,10,2,0,0,0,4,6,8.3,+6,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+16,16,2021-01-24,28-149,CHO,@,ORL,W (+3),1,24:53,1,1,1.000,0,0,,0,2,.000,1,4,5,2,2,1,2,4,2,3.3,-11,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+17,17,2021-01-25,28-150,CHO,@,ORL,L (-9),1,26:52,3,7,.429,0,0,,1,2,.500,4,3,7,1,0,1,1,3,7,5.8,-15,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+18,18,2021-01-27,28-152,CHO,,IND,L (-10),0,8:57,0,4,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-2.5,-15,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+19,19,2021-01-29,28-154,CHO,,IND,W (+3),0,5:40,1,2,.500,0,0,,0,0,,1,0,1,1,0,1,0,1,2,2.7,+5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+20,,2021-01-30,28-155,CHO,,MIL,W (+12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+21,,2021-02-01,28-157,CHO,@,MIA,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+22,20,2021-02-03,28-159,CHO,,PHI,L (-7),0,11:52,1,2,.500,0,0,,0,0,,1,3,4,0,1,1,0,1,2,3.9,+2,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+23,21,2021-02-05,28-161,CHO,,UTA,L (-17),0,19:14,6,6,1.000,0,0,,1,2,.500,2,2,4,1,0,0,0,2,13,12.7,+1,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+24,22,2021-02-07,28-163,CHO,,WAS,W (+22),0,10:39,0,1,.000,0,0,,0,0,,1,1,2,0,0,2,0,2,0,0.9,+5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+25,23,2021-02-08,28-164,CHO,,HOU,W (+25),0,10:24,2,2,1.000,0,0,,0,0,,1,2,3,0,0,2,1,2,4,4.3,+16,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+26,24,2021-02-10,28-166,CHO,@,MEM,L (-16),0,13:25,1,1,1.000,0,0,,0,0,,2,2,4,0,0,1,0,1,2,4.0,-7,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+27,25,2021-02-12,28-168,CHO,,MIN,W (+6),0,22:43,2,3,.667,0,0,,0,0,,2,4,6,1,0,1,1,2,4,4.9,-13,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+28,26,2021-02-14,28-170,CHO,,SAS,L (-12),0,26:09,5,6,.833,0,0,,1,3,.333,1,1,2,1,0,2,0,3,11,9.9,-8,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+29,27,2021-02-20,28-176,CHO,,GSW,W (+2),0,20:31,0,1,.000,0,0,,0,0,,1,3,4,4,1,0,2,4,0,1.1,-3,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+30,28,2021-02-22,28-178,CHO,@,UTA,L (-22),0,13:52,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,1,4,2,-0.9,-10,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+31,29,2021-02-24,28-180,CHO,@,PHO,W (+3),0,26:02,0,2,.000,0,0,,3,4,.750,3,8,11,2,1,2,2,5,3,5.5,+11,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+32,30,2021-02-26,28-182,CHO,@,GSW,L (-9),0,12:05,0,3,.000,0,0,,1,2,.500,1,0,1,0,0,1,0,0,1,-0.1,-24,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+33,31,2021-02-28,28-184,CHO,@,SAC,W (+1),1,19:59,2,3,.667,0,0,,2,2,1.000,3,1,4,0,0,0,1,3,6,4.9,-10,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+34,32,2021-03-01,28-185,CHO,@,POR,L (-12),1,28:52,3,4,.750,0,0,,0,2,.000,2,3,5,3,0,1,0,1,6,8.3,+4,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+35,33,2021-03-03,28-187,CHO,@,MIN,W (+33),1,29:13,3,3,1.000,0,0,,2,3,.667,4,4,8,4,1,2,1,3,8,13.7,+23,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+36,34,2021-03-11,28-195,CHO,,DET,W (+3),0,13:38,1,2,.500,0,0,,0,0,,1,4,5,0,2,1,2,2,2,2.8,-1,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+37,35,2021-03-13,28-197,CHO,,TOR,W (+10),0,20:04,1,6,.167,0,0,,1,2,.500,3,0,3,2,0,1,2,2,3,0.2,-2,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+38,36,2021-03-15,28-199,CHO,,SAC,W (+6),0,20:24,3,5,.600,0,0,,0,2,.000,3,7,10,0,0,2,0,1,6,8.1,+5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+39,37,2021-03-17,28-201,CHO,@,DEN,L (-25),0,16:19,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,-17,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+40,38,2021-03-18,28-202,CHO,@,LAL,L (-11),0,13:47,3,4,.750,0,0,,1,2,.500,1,1,2,0,0,4,2,3,7,5.6,-2,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+41,39,2021-03-20,28-204,CHO,@,LAC,L (-27),1,26:01,3,4,.750,0,0,,0,0,,6,1,7,1,0,0,3,4,6,5.0,-19,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+42,40,2021-03-22,28-206,CHO,@,SAS,W (+3),1,23:16,4,5,.800,0,0,,3,4,.750,2,4,6,1,0,1,0,2,11,11.9,+1,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+43,41,2021-03-24,28-208,CHO,@,HOU,W (+25),1,20:13,3,3,1.000,0,0,,1,2,.500,0,1,1,2,0,0,2,2,7,4.6,+10,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+44,42,2021-03-26,28-210,CHO,,MIA,W (+5),1,27:53,1,2,.500,0,0,,0,0,,2,5,7,1,1,2,1,3,2,4.8,-6,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+45,43,2021-03-28,28-212,CHO,,PHO,L (-4),1,15:11,1,2,.500,0,0,,0,0,,1,3,4,2,0,0,2,1,2,1.6,-9,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+46,44,2021-03-30,28-214,CHO,@,WAS,W (+10),1,23:56,2,4,.500,0,0,,2,2,1.000,0,4,4,0,0,3,3,4,6,2.7,-3,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+47,45,2021-04-01,28-216,CHO,@,BRK,L (-22),1,10:31,1,4,.250,0,0,,0,1,.000,2,1,3,1,0,0,2,1,2,-0.8,-19,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+48,46,2021-04-02,28-217,CHO,@,IND,W (+17),1,13:39,3,4,.750,0,0,,0,0,,2,3,5,1,1,0,0,1,6,8.0,-2,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+49,47,2021-04-04,28-219,CHO,@,BOS,L (-30),1,21:15,2,2,1.000,0,0,,2,6,.333,1,2,3,2,0,2,0,3,6,6.7,-10,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+50,,2021-04-07,28-222,CHO,@,OKC,W (+11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+51,,2021-04-09,28-224,CHO,@,MIL,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+52,48,2021-04-11,28-226,CHO,,ATL,L (-4),0,7:44,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,2,2.3,+1,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+53,49,2021-04-13,28-228,CHO,,LAL,L (-8),1,27:46,4,6,.667,0,0,,2,4,.500,5,7,12,1,0,1,1,0,10,12.6,+10,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+54,50,2021-04-14,28-229,CHO,,CLE,L (-13),1,22:46,2,4,.500,0,0,,1,2,.500,2,3,5,0,1,2,1,1,5,5.9,-2,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+55,51,2021-04-16,28-231,CHO,@,BRK,L (-15),0,8:08,0,0,,0,0,,1,2,.500,2,1,3,2,1,0,2,2,1,1.9,-18,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+56,,2021-04-18,28-233,CHO,,POR,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+57,,2021-04-20,28-235,CHO,@,NYK,L (-12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+58,52,2021-04-22,28-237,CHO,@,CHI,L (-17),0,11:16,2,4,.500,0,0,,0,0,,0,4,4,0,0,0,1,2,4,1.4,-8,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+59,53,2021-04-23,28-238,CHO,,CLE,W (+6),0,27:05,2,6,.333,0,0,,0,1,.000,9,2,11,1,0,0,0,3,4,6.6,+8,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+60,54,2021-04-25,28-240,CHO,,BOS,W (+21),0,21:45,2,3,.667,0,0,,0,0,,3,4,7,3,0,1,2,2,4,6.0,-5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+61,55,2021-04-27,28-242,CHO,,MIL,L (-10),0,22:40,1,1,1.000,0,0,,1,2,.500,2,4,6,0,0,3,3,0,3,4.0,-16,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+62,56,2021-04-28,28-243,CHO,@,BOS,L (-9),0,5:08,0,0,,0,0,,0,2,.000,0,0,0,1,0,0,0,0,0,-0.1,-14,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+63,57,2021-05-01,28-246,CHO,,DET,W (+13),0,27:59,3,4,.750,0,0,,0,5,.000,2,7,9,0,1,5,0,1,6,10.0,+5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+64,58,2021-05-02,28-247,CHO,,MIA,L (-10),0,16:27,3,3,1.000,0,0,,1,2,.500,1,2,3,2,0,0,0,0,7,8.4,-9,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+65,59,2021-05-04,28-249,CHO,@,DET,W (+3),1,24:27,1,3,.333,0,0,,0,0,,1,5,6,1,0,2,2,3,2,1.4,-7,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+66,60,2021-05-06,28-251,CHO,,CHI,L (-21),1,18:19,1,2,.500,0,0,,0,0,,3,3,6,3,0,0,2,1,2,3.7,-15,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+67,61,2021-05-07,28-252,CHO,,ORL,W (+10),1,31:58,5,5,1.000,0,0,,1,2,.500,4,7,11,1,1,2,0,4,11,15.5,+8,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+68,62,2021-05-09,28-254,CHO,,NOP,L (-2),1,25:32,0,2,.000,0,0,,0,0,,2,6,8,1,0,3,3,4,0,0.0,-10,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+69,63,2021-05-11,28-256,CHO,,DEN,L (-5),1,16:18,2,4,.500,0,0,,0,0,,0,1,1,1,0,1,2,3,4,0.5,-24,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+70,64,2021-05-13,28-258,CHO,,LAC,L (-23),1,26:14,6,9,.667,0,0,,1,2,.500,5,2,7,1,0,0,3,3,13,9.3,-5,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+71,65,2021-05-15,28-260,CHO,@,NYK,L (-9),0,0:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021
+72,66,2021-05-16,28-261,CHO,@,WAS,L (-5),0,5:14,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.7,-9,2021,biyombi01,https://www.basketball-reference.com/players/b/biyombi01/gamelog/2021

@@ -1,0 +1,34 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,2001-10-30,31-163,MIN,,PHI,W (+9),1,23:44,3,10,.300,0,0,,0,0,,1,1,2,7,1,0,1,0,6,6.1,-5,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+2,2,2001-11-02,31-166,MIN,,MEM,W (+9),1,31:19,6,14,.429,0,0,,3,3,1.000,0,3,3,5,1,0,0,1,15,12.6,+10,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+3,3,2001-11-03,31-167,MIN,@,HOU,W (+2),1,34:25,6,15,.400,0,2,.000,0,0,,0,2,2,9,2,0,1,1,12,11.4,+13,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+4,4,2001-11-06,31-170,MIN,,NYK,W (+10),1,33:49,4,9,.444,0,1,.000,4,4,1.000,0,4,4,12,3,0,1,2,12,18.1,+17,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+5,5,2001-11-08,31-172,MIN,,CHI,W (+53),1,23:18,5,9,.556,0,0,,4,4,1.000,0,3,3,12,4,0,1,0,14,22.0,+48,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+6,6,2001-11-10,31-174,MIN,@,MIL,W (+16),1,29:22,5,12,.417,1,1,1.000,2,2,1.000,0,5,5,4,3,0,1,2,13,12.1,+19,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+7,7,2001-11-13,31-177,MIN,,CLE,L (-4),1,33:12,5,13,.385,0,2,.000,4,4,1.000,0,3,3,12,1,0,1,6,14,13.8,+2,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+8,8,2001-11-16,31-180,MIN,@,IND,W (+7),1,46:01,8,23,.348,0,0,,6,7,.857,1,4,5,8,2,1,3,4,22,14.3,+12,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+9,9,2001-11-17,31-181,MIN,,ORL,W (+8),1,32:07,3,6,.500,0,0,,1,1,1.000,0,1,1,10,0,0,2,2,7,8.5,+15,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+10,10,2001-11-20,31-184,MIN,@,MIA,W (+7),1,35:13,7,13,.538,0,0,,5,5,1.000,0,3,3,5,2,0,1,2,19,17.3,+22,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+11,11,2001-11-21,31-185,MIN,@,ORL,L (-11),1,32:34,4,10,.400,0,0,,1,1,1.000,0,1,1,6,1,0,2,1,9,6.7,-12,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+12,12,2001-11-24,31-188,MIN,,SAS,W (+5),1,37:10,6,12,.500,0,0,,9,9,1.000,1,4,5,7,2,0,1,2,21,22.0,+14,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+13,13,2001-11-27,31-191,MIN,@,SEA,L (-10),1,37:13,9,18,.500,1,3,.333,0,0,,1,3,4,12,1,1,3,2,19,17.9,-18,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+14,14,2001-11-28,31-192,MIN,@,LAC,L (-19),1,31:03,4,11,.364,0,3,.000,0,0,,1,1,2,8,2,0,3,1,8,7.1,-23,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+15,15,2001-12-01,31-195,MIN,@,LAL,L (-26),1,34:01,5,13,.385,0,2,.000,0,0,,0,3,3,9,1,0,4,0,10,7.1,-16,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+16,16,2001-12-04,31-198,MIN,,SEA,W (+25),1,26:39,4,7,.571,0,0,,0,0,,0,1,1,9,2,0,2,0,8,11.3,+2,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+17,17,2001-12-06,31-200,MIN,@,MEM,W (+25),1,32:07,9,15,.600,0,0,,4,4,1.000,2,0,2,10,0,1,1,0,22,23.2,+18,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+18,18,2001-12-08,31-202,MIN,,HOU,W (+10),1,31:28,5,9,.556,0,1,.000,5,5,1.000,0,3,3,11,1,0,0,1,15,19.9,+15,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+19,19,2001-12-11,31-205,MIN,,GSW,W (+21),1,28:39,4,11,.364,0,0,,1,1,1.000,1,3,4,13,4,0,1,1,9,16.2,+11,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+20,20,2001-12-12,31-206,MIN,@,UTA,W (+11),1,32:26,6,16,.375,0,0,,2,2,1.000,2,3,5,9,2,0,0,2,14,15.0,+7,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+21,21,2001-12-14,31-208,MIN,,SAC,W (+20),1,34:58,7,16,.438,0,0,,0,0,,1,4,5,12,3,1,0,2,14,18.8,+13,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+22,22,2001-12-15,31-209,MIN,@,DAL,L (-8),1,33:53,4,16,.250,0,0,,0,0,,2,3,5,8,2,0,1,4,8,5.7,-3,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+23,23,2002-01-19,31-244,MIN,@,GSW,W (+3),0,16:55,1,4,.250,0,0,,6,6,1.000,1,0,1,4,1,0,0,0,8,10.1,-4,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+24,24,2002-01-21,31-246,MIN,,WAS,W (+4),0,23:33,6,10,.600,1,3,.333,4,4,1.000,0,2,2,7,2,1,0,2,17,19.8,-1,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+25,25,2002-01-23,31-248,MIN,@,DET,L (-21),0,25:08,3,11,.273,0,2,.000,5,5,1.000,0,1,1,6,2,0,0,2,11,10.2,+2,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+26,26,2002-01-25,31-250,MIN,@,TOR,L (-7),0,27:19,5,10,.500,1,1,1.000,2,2,1.000,0,0,0,7,1,0,1,1,13,12.5,-18,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+27,27,2002-01-26,31-251,MIN,,ATL,W (+23),1,24:32,6,9,.667,0,0,,2,2,1.000,0,2,2,12,3,0,1,3,14,19.9,+39,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+28,28,2002-01-29,31-254,MIN,@,CLE,L (-33),1,23:15,2,8,.250,0,0,,5,5,1.000,1,1,2,4,0,1,3,3,9,4.5,-31,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+29,29,2002-01-30,31-255,MIN,@,PHI,L (-5),1,26:00,0,7,.000,0,1,.000,1,1,1.000,1,2,3,9,2,0,1,1,1,4.3,-5,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+30,30,2002-02-01,31-257,MIN,@,BOS,W (+3),1,43:57,7,13,.538,0,0,,7,7,1.000,1,8,9,9,1,0,4,0,21,21.1,+13,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+31,31,2002-02-03,31-259,MIN,,SAC,L (-5),1,25:31,4,12,.333,0,1,.000,0,0,,0,1,1,6,0,0,1,0,8,4.7,-4,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+32,32,2002-02-04,31-260,MIN,@,SAS,L (-30),1,12:42,2,3,.667,0,0,,0,0,,0,1,1,2,0,0,2,1,4,2.0,-13,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002
+33,,2002-02-06,31-262,MIN,,POR,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,2002,brandte01,https://www.basketball-reference.com/players/b/brandte01/gamelog/2002

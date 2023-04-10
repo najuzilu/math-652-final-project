@@ -1,0 +1,16 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1983-10-28,34-356,MIL,,IND,W (+21),0,17:00,2,5,0.4,0,1,0.0,4,4,1.0,0,3,3,3,1.0,0,1.0,1,8,7.9,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+2,2,1983-11-01,34-360,MIL,@,DET,L (-13),0,22:00,2,7,0.286,0,1,0.0,0,1,0.0,0,0,0,2,0.0,0,1.0,0,4,-0.1,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+3,3,1983-11-02,34-361,MIL,@,BOS,L (-14),0,14:00,3,4,0.75,0,0,,0,0,,1,1,2,3,0.0,0,1.0,1,6,6.1,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+4,4,1983-11-06,35-000,MIL,,ATL,W (+13),0,17:00,1,3,0.333,0,1,0.0,2,4,0.5,0,2,2,0,1.0,0,0.0,3,4,1.9,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+5,5,1983-11-17,35-011,MIL,@,SDC,L (-19),0,9:00,0,3,0.0,0,1,0.0,0,0,,0,0,0,3,1.0,0,0.0,0,0,1.0,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+6,6,1983-11-19,35-013,MIL,@,DEN,L (-7),0,28:00,3,8,0.375,1,2,0.5,1,2,0.5,1,1,2,6,2.0,0,1.0,2,8,8.6,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+7,7,1984-02-04,35-090,ATL,,PHI,W (+5),0,13:00,2,4,0.5,0,0,,0,0,,0,1,1,3,,0,,2,4,,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+8,8,1984-02-07,35-093,ATL,,NJN,W (+7),0,14:00,1,3,0.333,0,0,,3,3,1.0,0,0,0,4,0.0,0,2.0,0,5,4.1,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+9,9,1984-02-09,35-095,ATL,@,PHO,L (-13),0,9:00,0,1,0.0,0,0,,0,0,,0,0,0,0,0.0,0,1.0,1,0,-2.1,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+10,10,1984-02-10,35-096,ATL,@,SDC,L (-12),0,13:00,1,2,0.5,0,0,,0,0,,0,2,2,6,0.0,0,0.0,0,2,5.8,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+11,11,1984-02-12,35-098,ATL,@,LAL,L (-21),0,9:00,1,1,1.0,0,0,,2,2,1.0,0,0,0,2,2.0,0,1.0,0,4,6.1,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+12,12,1984-02-14,35-100,ATL,@,UTA,L (-2),0,15:00,1,4,0.25,0,0,,0,0,,2,1,3,1,1.0,0,1.0,0,2,2.0,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+13,13,1984-02-16,35-102,ATL,@,DEN,L (-15),0,12:00,0,2,0.0,0,0,,0,0,,0,0,0,0,0.0,0,0.0,0,0,-1.4,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+14,14,1984-02-18,35-104,ATL,@,KCK,L (-5),0,9:00,0,2,0.0,0,0,,0,0,,0,0,0,2,0.0,0,1.0,0,0,-1.0,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984
+15,15,1984-02-21,35-107,ATL,,CLE,W (+18),0,14:00,3,3,1.0,0,0,,0,0,,1,4,5,3,0.0,0,0.0,1,6,8.7,1984,crissch01,https://www.basketball-reference.com/players/c/crissch01/gamelog/1984

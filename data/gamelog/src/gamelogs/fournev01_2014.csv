@@ -1,0 +1,83 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,2013-10-30,21-001,DEN,@,SAC,L (-2),0,21:13,2,8,.250,1,3,.333,0,0,,2,3,5,2,0,0,2,2,5,1.1,0,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+2,2,2013-11-01,21-003,DEN,,POR,L (-15),0,15:20,0,6,.000,0,3,.000,0,0,,0,1,1,0,1,0,0,2,0,-3.7,-4,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+3,3,2013-11-05,21-007,DEN,,SAS,L (-8),0,9:01,0,0,,0,0,,0,0,,1,1,2,1,0,0,1,3,0,-0.5,-1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+4,4,2013-11-07,21-009,DEN,,ATL,W (+2),0,24:17,5,10,.500,2,3,.667,0,0,,0,3,3,1,0,1,1,1,12,7.9,+9,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+5,5,2013-11-08,21-010,DEN,@,PHO,L (-11),0,6:55,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,2,5,3.9,+2,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+6,6,2013-11-11,21-013,DEN,@,UTA,W (+19),0,13:29,1,3,.333,1,2,.500,2,2,1.000,0,0,0,0,0,0,2,3,5,0.1,-5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+7,7,2013-11-13,21-015,DEN,,LAL,W (+12),0,14:50,1,3,.333,0,0,,3,4,.750,1,0,1,1,0,0,0,0,5,4.3,+10,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+8,8,2013-11-15,21-017,DEN,,MIN,W (+4),0,12:50,4,7,.571,1,3,.333,1,1,1.000,0,0,0,2,0,0,0,3,10,6.9,+7,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+9,9,2013-11-16,21-018,DEN,@,HOU,L (-11),0,21:23,4,10,.400,1,3,.333,1,2,.500,1,1,2,0,0,2,1,6,10,3.2,-3,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+10,10,2013-11-18,21-020,DEN,@,OKC,L (-2),0,16:59,4,7,.571,2,3,.667,2,4,.500,0,3,3,2,0,0,0,3,12,9.0,-6,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+11,11,2013-11-21,21-023,DEN,,CHI,W (+10),0,9:49,4,7,.571,1,3,.333,0,2,.000,1,2,3,1,0,0,0,0,9,6.9,0,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+12,12,2013-11-23,21-025,DEN,,DAL,W (+2),0,10:22,1,4,.250,0,2,.000,0,0,,0,3,3,2,0,0,1,3,2,-0.3,0,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+13,13,2013-11-25,21-027,DEN,@,DAL,W (+14),0,6:25,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,+3,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+14,14,2013-11-27,21-029,DEN,@,MIN,W (+7),0,3:36,0,2,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,1,1,-1.2,-10,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+15,15,2013-11-29,21-031,DEN,,NYK,W (+2),0,5:29,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+16,16,2013-12-01,21-033,DEN,@,TOR,W (+14),0,5:56,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+6,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+17,17,2013-12-03,21-035,DEN,@,BRK,W (+24),0,6:28,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+18,18,2013-12-04,21-036,DEN,@,CLE,L (-10),0,4:35,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+19,,2013-12-06,21-038,DEN,@,BOS,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+20,19,2013-12-07,21-039,DEN,@,PHI,W (+11),0,20:55,1,7,.143,0,2,.000,0,0,,0,3,3,1,0,0,3,1,2,-4.3,+6,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+21,20,2013-12-09,21-041,DEN,@,WAS,W (+1),0,14:36,1,1,1.000,0,0,,0,0,,0,0,0,2,1,0,2,2,2,1.3,+5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+22,,2013-12-13,21-045,DEN,,UTA,L (-10),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+23,,2013-12-15,21-047,DEN,,NOP,W (+9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+24,21,2013-12-17,21-049,DEN,,OKC,L (-12),0,12:39,2,5,.400,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,5,1.5,-11,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+25,22,2013-12-20,21-052,DEN,,PHO,L (-4),0,8:49,2,7,.286,0,1,.000,0,0,,1,1,2,0,0,0,1,2,4,-0.9,+4,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+26,23,2013-12-21,21-053,DEN,@,LAC,L (-21),0,6:57,0,1,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,3,1,-1.3,-5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+27,,2013-12-23,21-055,DEN,,GSW,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+28,,2013-12-27,21-059,DEN,@,NOP,L (-16),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+29,24,2013-12-28,21-060,DEN,@,MEM,L (-21),0,4:19,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+4,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+30,,2013-12-30,21-062,DEN,,MIA,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+31,25,2014-01-01,21-064,DEN,,PHI,L (-12),0,14:24,3,6,.500,0,3,.000,1,2,.500,0,2,2,1,0,0,2,5,7,0.9,-5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+32,26,2014-01-03,21-066,DEN,,MEM,W (+3),0,21:07,4,8,.500,1,3,.333,3,3,1.000,1,2,3,0,1,0,2,3,12,7.1,+6,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+33,27,2014-01-05,21-068,DEN,@,LAL,W (+22),0,25:25,5,10,.500,2,3,.667,0,0,,0,7,7,3,0,0,3,2,12,7.4,+21,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+34,28,2014-01-07,21-070,DEN,,BOS,W (+31),0,18:47,2,4,.500,2,4,.500,0,0,,0,4,4,2,0,0,3,4,6,2.0,+2,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+35,29,2014-01-09,21-072,DEN,,OKC,W (+13),0,17:46,7,13,.538,4,7,.571,1,1,1.000,1,3,4,1,1,0,1,5,19,13.0,+11,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+36,30,2014-01-11,21-074,DEN,,ORL,W (+26),0,21:33,7,8,.875,3,3,1.000,1,3,.333,0,5,5,2,0,0,1,3,18,15.1,+10,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+37,31,2014-01-13,21-076,DEN,@,UTA,L (-15),0,36:59,6,15,.400,3,7,.429,1,3,.333,0,3,3,2,2,0,3,3,16,7.2,-1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+38,32,2014-01-15,21-078,DEN,@,GSW,W (+7),0,15:17,2,4,.500,1,2,.500,0,0,,0,2,2,1,1,0,1,2,5,3.5,+11,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+39,33,2014-01-17,21-080,DEN,,CLE,L (-8),0,16:15,3,8,.375,0,4,.000,0,0,,0,1,1,3,1,1,2,1,6,3.3,+1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+40,34,2014-01-19,21-082,DEN,@,PHO,L (-14),1,32:49,6,11,.545,3,4,.750,2,2,1.000,0,4,4,1,0,0,2,3,17,10.4,+4,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+41,35,2014-01-23,21-086,DEN,@,POR,L (-5),0,14:01,2,7,.286,0,2,.000,0,0,,0,2,2,0,0,0,1,0,4,-0.5,-1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+42,36,2014-01-25,21-088,DEN,,IND,W (+13),0,12:56,0,2,.000,0,0,,1,2,.500,0,1,1,0,0,0,1,2,1,-2.3,+3,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+43,37,2014-01-26,21-089,DEN,@,SAC,W (+8),0,14:46,2,4,.500,1,2,.500,4,4,1.000,0,2,2,2,0,0,1,1,9,7.6,+4,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+44,38,2014-01-29,21-092,DEN,,CHA,L (-3),0,38:23,8,21,.381,3,9,.333,0,0,,1,4,5,6,3,0,2,4,19,13.0,+10,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+45,39,2014-01-31,21-094,DEN,,TOR,L (-10),1,38:32,7,20,.350,3,8,.375,1,1,1.000,3,3,6,0,2,0,7,2,18,4.0,+1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+46,40,2014-02-03,21-097,DEN,,LAC,W (+1),0,9:16,0,1,.000,0,0,,1,2,.500,1,1,2,1,0,0,0,2,1,0.8,-15,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+47,41,2014-02-05,21-099,DEN,,MIL,W (+10),0,15:29,2,5,.400,2,2,1.000,0,0,,1,3,4,0,0,0,3,1,6,1.5,-5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+48,42,2014-02-07,21-101,DEN,@,NYK,L (-27),0,20:19,2,6,.333,1,4,.250,0,2,.000,0,2,2,2,1,0,3,1,5,0.4,-12,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+49,43,2014-02-08,21-102,DEN,@,DET,L (-17),0,20:47,5,10,.500,2,3,.667,0,0,,1,2,3,0,0,0,2,3,12,5.1,+1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+50,44,2014-02-10,21-104,DEN,@,IND,L (-39),0,18:55,2,5,.400,1,3,.333,3,3,1.000,1,1,2,0,0,0,0,2,8,5.5,-19,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+51,45,2014-02-12,21-106,DEN,@,MIN,L (-27),0,32:38,4,9,.444,1,3,.333,4,4,1.000,1,4,5,1,0,0,3,4,13,6.3,-10,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+52,46,2014-02-18,21-112,DEN,,PHO,L (-5),0,32:56,8,19,.421,3,8,.375,6,7,.857,3,5,8,4,2,0,1,4,25,20.3,+13,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+53,47,2014-02-20,21-114,DEN,@,MIL,W (+11),0,27:21,3,9,.333,1,4,.250,0,0,,2,3,5,3,0,0,2,2,7,3.5,+6,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+54,48,2014-02-21,21-115,DEN,@,CHI,L (-28),0,24:36,4,11,.364,1,3,.333,0,0,,1,7,8,0,1,0,1,3,9,4.5,-9,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+55,49,2014-02-23,21-117,DEN,,SAC,L (-14),0,35:37,8,11,.727,4,5,.800,7,8,.875,0,4,4,5,1,1,3,1,27,25.1,+4,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+56,50,2014-02-25,21-119,DEN,,POR,L (-5),0,30:49,2,13,.154,0,4,.000,5,6,.833,0,2,2,3,2,0,1,3,9,2.8,+10,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+57,51,2014-02-27,21-121,DEN,,BRK,L (-23),1,44:08,3,9,.333,0,3,.000,2,2,1.000,0,3,3,5,0,0,4,5,8,1.3,-30,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+58,52,2014-03-01,21-123,DEN,@,POR,L (-6),0,32:25,4,9,.444,1,5,.200,7,8,.875,1,6,7,4,2,0,0,4,16,16.6,+6,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+59,53,2014-03-03,21-125,DEN,,MIN,L (-4),0,14:24,1,5,.200,1,4,.250,2,2,1.000,0,0,0,1,0,0,1,3,5,0.4,-16,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+60,54,2014-03-05,21-127,DEN,,DAL,W (+5),0,14:39,3,5,.600,2,2,1.000,1,2,.500,0,0,0,2,1,0,1,3,9,6.5,+4,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+61,55,2014-03-07,21-129,DEN,,LAL,W (+8),0,23:31,4,6,.667,1,2,.500,4,6,.667,0,4,4,2,0,0,2,1,13,9.8,-18,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+62,56,2014-03-09,21-131,DEN,@,NOP,L (-4),0,13:09,2,3,.667,2,3,.667,0,0,,0,2,2,2,1,0,1,3,6,5.5,-2,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+63,57,2014-03-10,21-132,DEN,@,CHA,L (-7),0,15:31,0,1,.000,0,0,,0,0,,0,2,2,2,0,0,1,5,0,-1.7,-5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+64,58,2014-03-12,21-134,DEN,@,ORL,W (+8),0,19:17,1,3,.333,0,0,,0,0,,0,3,3,2,0,1,1,0,2,2.3,-6,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+65,59,2014-03-14,21-136,DEN,@,MIA,W (+4),0,30:24,6,14,.429,2,5,.400,0,0,,1,5,6,4,1,0,0,3,14,11.4,+9,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+66,60,2014-03-15,21-137,DEN,@,ATL,L (-5),0,23:48,4,10,.400,2,7,.286,0,0,,1,4,5,0,1,0,2,3,10,4.3,+11,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+67,61,2014-03-17,21-139,DEN,,LAC,W (+10),0,14:20,2,6,.333,1,4,.250,0,0,,0,1,1,1,0,0,1,2,5,0.8,-2,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+68,62,2014-03-19,21-141,DEN,,DET,W (+9),1,24:23,5,9,.556,1,3,.333,0,0,,0,1,1,0,1,0,2,3,11,4.8,-5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+69,63,2014-03-21,21-143,DEN,@,DAL,L (-16),0,18:17,2,6,.333,1,4,.250,2,2,1.000,0,1,1,1,1,1,0,2,7,5.5,-1,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+70,64,2014-03-23,21-145,DEN,,WAS,W (+3),0,21:24,4,10,.400,1,4,.250,0,0,,1,2,3,4,3,0,1,2,9,8.9,+12,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+71,65,2014-03-24,21-146,DEN,@,OKC,L (-21),0,23:40,2,5,.400,1,2,.500,1,3,.333,0,5,5,1,0,0,2,4,6,1.1,-8,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+72,66,2014-03-26,21-148,DEN,@,SAS,L (-5),0,22:01,2,2,1.000,1,1,1.000,0,0,,0,1,1,1,1,0,3,2,5,2.6,+8,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+73,67,2014-03-28,21-150,DEN,,SAS,L (-31),0,28:37,6,10,.600,0,3,.000,3,3,1.000,2,3,5,1,0,0,0,3,15,12.2,-14,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+74,68,2014-03-31,21-153,DEN,,MEM,L (-2),0,17:09,2,3,.667,1,1,1.000,0,0,,0,3,3,1,0,0,1,2,5,3.5,-8,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+75,69,2014-04-02,21-155,DEN,,NOP,W (+30),0,23:56,5,13,.385,2,5,.400,0,1,.000,2,2,4,6,0,0,1,3,12,8.5,+13,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+76,70,2014-04-04,21-157,DEN,@,MEM,L (-8),0,19:45,2,7,.286,0,4,.000,2,2,1.000,0,2,2,0,0,0,2,2,6,-0.3,+5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+77,71,2014-04-06,21-159,DEN,@,HOU,L (-5),0,38:59,9,16,.563,6,10,.600,2,2,1.000,1,3,4,4,0,0,2,3,26,19.6,-5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+78,72,2014-04-09,21-162,DEN,,HOU,W (+7),0,26:56,5,9,.556,3,6,.500,1,2,.500,0,1,1,1,0,0,2,3,14,7.1,-11,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+79,73,2014-04-10,21-163,DEN,@,GSW,W (+1),0,28:19,3,11,.273,2,6,.333,1,2,.500,1,1,2,4,2,0,3,2,9,4.1,+9,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+80,74,2014-04-12,21-165,DEN,,UTA,W (+7),0,31:09,7,16,.438,3,8,.375,6,7,.857,0,3,3,2,0,0,1,2,23,14.7,+12,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+81,75,2014-04-15,21-168,DEN,@,LAC,L (-12),0,25:47,3,10,.300,1,5,.200,2,2,1.000,0,5,5,1,0,0,0,5,9,3.4,+5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014
+82,76,2014-04-16,21-169,DEN,,GSW,L (-4),0,22:34,3,11,.273,1,7,.143,5,5,1.000,0,2,2,1,0,0,0,2,12,6.0,-5,2014,fournev01,https://www.basketball-reference.com/players/f/fournev01/gamelog/2014

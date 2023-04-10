@@ -1,0 +1,26 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1990-11-06,22-235,ATL,@,SAC,W (+17),0,2:00,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+2,2,1990-11-09,22-238,ATL,@,GSW,L (-15),0,3:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+3,3,1990-11-10,22-239,ATL,@,LAC,W (+18),0,2:00,1,1,1.000,0,0,,0,0,,2,1,3,0,0,0,1,0,2,2.4,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+4,4,1990-11-14,22-243,ATL,@,PHI,L (-8),0,5:00,0,3,.000,0,0,,0,0,,2,1,3,0,0,0,0,0,0,-0.4,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+5,5,1990-11-17,22-246,ATL,@,DET,L (-8),0,23:00,1,4,.250,0,0,,0,0,,1,2,3,0,0,0,1,3,2,-1.3,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+6,6,1990-11-21,22-250,ATL,@,MIL,L (-12),0,7:00,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,2,1,0,-2.4,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+7,7,1990-11-27,22-256,ATL,,DET,L (-23),0,2:00,2,3,.667,0,0,,0,2,.000,0,1,1,1,0,0,1,0,4,1.9,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+8,8,1990-12-12,22-271,ATL,@,MIA,W (+25),0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+9,9,1990-12-20,22-279,ATL,,UTA,W (+18),0,6:00,0,2,.000,0,0,,2,4,.500,0,1,1,0,0,0,1,0,2,-0.9,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+10,10,1990-12-21,22-280,ATL,@,DET,L (-26),0,12:00,2,7,.286,0,1,.000,1,2,.500,2,1,3,3,1,0,1,1,5,3.9,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+11,11,1990-12-23,22-282,ATL,@,BOS,L (-28),0,16:00,2,8,.250,0,1,.000,0,0,,0,4,4,2,2,1,1,2,4,2.7,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+12,12,1990-12-28,22-287,ATL,,BOS,W (+17),0,4:00,2,3,.667,0,0,,0,2,.000,0,1,1,0,1,0,0,1,4,2.8,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+13,13,1990-12-29,22-288,ATL,,GSW,W (+4),0,1:00,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+14,14,1991-01-02,22-292,ATL,,LAC,W (+13),0,1:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+15,15,1991-01-04,22-294,ATL,,IND,W (+15),0,2:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+16,16,1991-01-19,22-309,ATL,,NJN,W (+30),0,8:00,1,4,.250,0,0,,2,4,.500,1,1,2,0,0,0,1,0,4,0.8,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+17,17,1991-01-22,22-312,ATL,,MIA,W (+11),0,3:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+18,18,1991-01-23,22-313,ATL,@,WSB,L (-5),0,4:00,1,3,.333,0,0,,0,0,,0,1,1,1,0,0,0,1,2,0.9,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+19,19,1991-01-29,22-319,ATL,@,UTA,L (-11),0,12:00,2,3,.667,0,0,,2,2,1.000,1,1,2,0,0,0,0,2,6,4.9,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+20,20,1991-01-31,22-321,ATL,@,LAL,L (-13),0,5:00,1,2,.500,0,0,,4,6,.667,1,2,3,0,1,0,1,0,6,5.5,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+21,21,1991-02-07,22-328,ATL,,CHH,W (+13),0,7:00,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,3,1,0,-3.8,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+22,22,1991-02-13,22-334,ATL,@,NJN,L (-34),0,11:00,1,4,.250,0,0,,0,0,,1,1,2,0,0,0,2,0,2,-1.4,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+23,23,1991-02-23,22-344,ATL,,DAL,W (+15),0,4:00,0,4,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-2.1,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+24,24,1991-03-05,22-354,ATL,,DEN,W (+12),0,2:00,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,4,3.4,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991
+25,25,1991-03-10,22-359,ATL,,CHI,L (-35),0,18:00,3,10,.300,0,0,,2,4,.500,2,1,3,2,0,0,1,0,8,3.5,1991,wilsotr01,https://www.basketball-reference.com/players/w/wilsotr01/gamelog/1991

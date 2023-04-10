@@ -1,0 +1,83 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,2009-10-28,28-305,IND,@,ATL,L (-11),0,26:29,4,9,.444,0,0,,9,9,1.000,2,3,5,0,0,0,6,4,17,7.0,-4,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+2,2,2009-10-30,28-307,IND,,MIA,L (-13),0,30:09,2,9,.222,0,0,,2,2,1.000,0,0,0,2,2,0,3,4,6,-0.7,+3,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+3,3,2009-11-03,28-311,IND,,DEN,L (-18),0,28:43,8,15,.533,0,1,.000,4,6,.667,0,3,3,1,0,1,0,3,20,13.0,-13,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+4,4,2009-11-04,28-312,IND,@,NYK,W (+12),1,38:22,8,15,.533,0,0,,3,4,.750,1,11,12,1,0,0,2,3,19,12.8,+5,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+5,5,2009-11-06,28-314,IND,,WAS,W (+16),1,40:22,6,11,.545,0,0,,6,9,.667,1,4,5,5,2,1,2,5,18,15.6,+19,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+6,6,2009-11-11,28-319,IND,,GSW,W (+14),1,36:34,4,10,.400,0,0,,2,2,1.000,0,0,0,1,0,4,4,4,10,2.5,+17,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+7,7,2009-11-14,28-322,IND,,BOS,W (+9),1,33:13,7,15,.467,0,1,.000,11,15,.733,0,4,4,4,0,1,3,4,25,15.8,+8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+8,8,2009-11-17,28-325,IND,@,NJN,W (+8),1,35:54,5,12,.417,0,0,,7,9,.778,0,5,5,4,3,1,1,2,17,16.0,+11,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+9,9,2009-11-18,28-326,IND,,NYK,L (-7),1,35:48,9,15,.600,2,3,.667,5,6,.833,0,6,6,3,2,2,5,4,25,18.4,+2,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+10,10,2009-11-20,28-328,IND,,CLE,L (-10),1,35:14,7,13,.538,0,1,.000,3,4,.750,0,3,3,0,1,2,1,1,17,12.2,-8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+11,11,2009-11-22,28-330,IND,@,CHA,L (-16),1,37:30,7,15,.467,0,0,,5,7,.714,1,3,4,4,2,2,2,2,19,15.5,-5,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+12,12,2009-11-24,28-332,IND,@,TOR,L (-11),0,26:40,4,8,.500,0,1,.000,4,4,1.000,0,0,0,4,0,0,3,4,12,6.2,-14,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+13,13,2009-11-25,28-333,IND,,LAC,W (+13),1,37:29,6,19,.316,1,3,.333,5,5,1.000,0,7,7,2,0,0,2,4,18,7.0,+11,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+14,14,2009-11-27,28-335,IND,,DAL,L (-21),0,24:48,2,11,.182,0,1,.000,2,2,1.000,0,3,3,0,0,1,3,3,6,-3.5,-18,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+15,15,2009-11-30,28-338,IND,@,GSW,L (-19),0,32:09,8,16,.500,0,1,.000,5,6,.833,1,1,2,2,1,1,1,3,21,14.5,-8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+16,16,2009-12-02,28-340,IND,@,SAC,L (-5),1,30:22,7,12,.583,0,2,.000,2,2,1.000,2,0,2,1,1,0,4,5,16,7.5,-15,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+17,17,2009-12-04,28-342,IND,@,UTA,L (-9),1,28:14,1,6,.167,0,2,.000,2,2,1.000,0,2,2,0,1,0,3,3,4,-2.4,-16,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+18,18,2009-12-05,28-343,IND,@,LAC,L (-16),1,31:31,3,8,.375,0,1,.000,0,0,,0,5,5,1,0,0,5,4,6,-2.8,-19,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+19,19,2009-12-09,28-347,IND,,POR,L (-11),1,31:40,8,13,.615,0,1,.000,3,4,.750,0,3,3,2,0,0,3,5,19,10.0,-12,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+20,20,2009-12-11,28-349,IND,,NJN,W (+16),1,33:24,1,4,.250,0,0,,3,4,.750,1,2,3,3,0,1,2,2,5,3.5,+18,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+21,21,2009-12-12,28-350,IND,@,WAS,W (+1),1,31:18,3,12,.250,0,1,.000,5,6,.833,3,0,3,0,1,1,1,1,11,5.8,-8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+22,22,2009-12-14,28-352,IND,@,ORL,L (-8),0,23:42,2,7,.286,0,0,,1,1,1.000,1,3,4,4,0,0,1,3,5,3.1,-7,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+23,23,2009-12-16,28-354,IND,,CHA,W (+3),0,26:22,2,8,.250,0,1,.000,0,2,.000,1,2,3,2,0,0,2,4,4,-2.5,-11,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+24,24,2009-12-18,28-356,IND,@,MEM,L (-13),0,31:04,6,6,1.000,0,0,,2,4,.500,2,3,5,3,1,1,1,2,14,15.7,+7,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+25,25,2009-12-19,28-357,IND,@,SAS,L (-1),1,25:41,0,2,.000,0,1,.000,3,4,.750,1,0,1,0,0,0,2,4,3,-1.7,-5,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+26,26,2009-12-21,28-359,IND,,MIL,L (-3),1,28:33,2,8,.250,0,0,,3,6,.500,2,3,5,1,1,2,2,4,7,2.8,-8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+27,27,2009-12-22,28-360,IND,@,BOS,L (-9),1,35:00,2,8,.250,0,0,,4,5,.800,1,0,1,8,1,0,3,4,8,5.5,-2,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+28,28,2009-12-26,28-364,IND,,ATL,L (-12),1,25:54,2,7,.286,0,0,,0,0,,0,1,1,0,0,0,1,2,4,-1.6,-26,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+29,29,2009-12-27,29-000,IND,@,MIA,L (-34),1,16:08,0,3,.000,0,0,,0,2,.000,0,1,1,0,0,0,2,5,0,-6.6,-38,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+30,30,2009-12-29,29-002,IND,@,CHI,L (-9),1,20:21,3,8,.375,0,0,,0,0,,1,3,4,7,0,0,1,4,6,5.5,-4,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+31,31,2009-12-30,29-003,IND,,MEM,L (-11),1,24:23,7,11,.636,0,0,,0,0,,0,1,1,2,0,0,4,5,14,4.8,-20,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+32,32,2010-01-02,29-006,IND,,MIN,W (+11),0,24:45,5,9,.556,0,0,,2,2,1.000,0,2,2,3,1,2,0,6,12,10.4,+11,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+33,33,2010-01-03,29-007,IND,@,NYK,L (-43),0,32:46,4,11,.364,0,2,.000,2,2,1.000,0,3,3,3,0,2,0,4,10,6.7,-24,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+34,34,2010-01-05,29-009,IND,,ORL,W (+7),1,34:59,5,11,.455,0,0,,3,6,.500,0,4,4,2,0,1,2,3,13,6.2,+7,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+35,35,2010-01-08,29-012,IND,@,MIN,L (-7),0,14:12,4,9,.444,0,0,,1,1,1.000,3,0,3,1,0,1,1,3,9,5.6,-5,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+36,36,2010-01-09,29-013,IND,@,OKC,L (-6),0,5:40,1,4,.250,0,0,,0,0,,0,1,1,1,0,0,1,1,2,-0.8,+1,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+37,,2010-01-11,29-015,IND,,TOR,W (+4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+38,37,2010-01-13,29-017,IND,,PHO,W (+8),0,25:24,3,6,.500,0,0,,5,7,.714,0,9,9,3,0,1,0,1,11,12.3,+13,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+39,38,2010-01-15,29-019,IND,@,NJN,W (+16),0,16:26,3,5,.600,0,0,,0,0,,0,5,5,2,0,0,0,3,6,5.4,-5,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+40,39,2010-01-16,29-020,IND,,NOH,L (-5),0,19:13,7,12,.583,0,1,.000,2,2,1.000,0,2,2,3,1,1,1,4,16,12.2,+7,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+41,40,2010-01-19,29-023,IND,@,MIA,L (-30),0,25:28,5,12,.417,0,0,,3,4,.750,2,2,4,5,1,0,1,1,13,11.3,-11,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+42,41,2010-01-20,29-024,IND,@,ORL,L (-11),0,37:23,6,8,.750,0,0,,5,6,.833,0,0,0,3,0,0,1,4,17,12.9,-2,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+43,42,2010-01-22,29-026,IND,@,DET,W (+12),0,16:20,2,3,.667,0,0,,0,0,,0,1,1,2,1,0,1,3,4,3.2,-1,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+44,43,2010-01-23,29-027,IND,,PHI,L (-10),0,24:06,3,6,.500,0,2,.000,0,0,,0,2,2,3,0,2,2,3,6,3.9,+4,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+45,44,2010-01-25,29-029,IND,@,PHI,W (+11),0,25:43,8,14,.571,0,0,,2,3,.667,3,1,4,4,1,0,2,2,18,14.4,+12,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+46,45,2010-01-27,29-031,IND,,LAL,L (-22),1,28:48,3,10,.300,0,0,,2,2,1.000,0,3,3,1,1,0,0,5,8,2.8,-18,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+47,46,2010-01-29,29-033,IND,,CLE,L (-21),1,32:47,5,11,.455,0,0,,1,1,1.000,1,2,3,1,0,0,2,3,11,4.1,-24,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+48,47,2010-01-31,29-035,IND,@,TOR,L (-15),0,12:47,4,5,.800,0,0,,0,0,,0,3,3,0,0,0,0,2,8,6.2,-2,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+49,48,2010-02-02,29-037,IND,,TOR,W (+15),0,22:16,1,5,.200,0,0,,6,6,1.000,0,1,1,3,1,1,2,3,8,5.8,+8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+50,49,2010-02-05,29-040,IND,,DET,W (+24),0,24:31,5,7,.714,1,2,.500,2,2,1.000,0,4,4,1,0,1,2,3,13,9.5,+8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+51,50,2010-02-06,29-041,IND,@,MIL,L (-12),0,17:16,3,4,.750,0,0,,0,0,,0,0,0,1,0,0,3,2,6,1.3,+1,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+52,51,2010-02-09,29-044,IND,,CHI,L (-8),0,18:49,4,6,.667,0,0,,1,2,.500,0,2,2,1,2,0,2,3,9,6.1,-1,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+53,52,2010-02-17,29-052,IND,,SAS,L (-3),0,8:42,0,1,.000,0,0,,1,2,.500,0,1,1,0,0,0,2,2,1,-2.6,-6,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+54,53,2010-02-19,29-054,IND,@,NOH,L (-6),0,19:18,0,3,.000,0,0,,3,4,.750,1,3,4,2,2,0,0,4,3,3.9,-3,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+55,54,2010-02-20,29-055,IND,@,HOU,W (+10),0,8:06,1,4,.250,0,0,,1,3,.333,2,2,4,0,0,0,1,1,3,0.4,-6,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+56,55,2010-02-22,29-057,IND,@,DAL,L (-9),0,13:39,1,2,.500,0,0,,1,2,.500,0,2,2,1,1,0,2,2,3,1.1,-2,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+57,56,2010-02-24,29-059,IND,@,CHI,L (-10),0,23:48,2,7,.286,0,2,.000,9,10,.900,0,6,6,2,0,0,1,4,13,9.1,+6,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+58,57,2010-02-25,29-060,IND,,MIL,L (-2),0,11:32,2,5,.400,0,0,,1,2,.500,1,1,2,1,0,0,0,1,5,3.2,-14,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+59,58,2010-02-27,29-062,IND,,CHI,W (+10),0,20:12,7,11,.636,0,0,,3,4,.750,0,1,1,1,0,0,1,4,17,10.1,+7,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+60,59,2010-03-02,29-065,IND,@,LAL,L (-23),0,29:28,8,15,.533,0,0,,0,0,,2,2,4,3,1,0,2,2,16,11.0,-12,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+61,60,2010-03-03,29-066,IND,@,POR,L (-23),0,19:47,4,5,.800,0,0,,0,1,.000,0,0,0,0,0,0,3,4,8,1.1,-16,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+62,61,2010-03-05,29-068,IND,@,DEN,L (-8),0,21:45,1,5,.200,0,0,,3,4,.750,0,8,8,1,0,0,2,4,5,1.0,-14,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+63,,2010-03-06,29-069,IND,@,PHO,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+64,62,2010-03-09,29-072,IND,,PHI,W (+11),0,29:08,9,15,.600,0,0,,7,8,.875,3,1,4,1,0,2,3,5,25,17.2,+9,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+65,63,2010-03-12,29-075,IND,@,BOS,L (-19),0,21:45,1,5,.200,0,0,,3,4,.750,1,2,3,2,0,0,2,3,5,1.0,-8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+66,64,2010-03-14,29-077,IND,@,MIL,L (-4),0,20:31,0,2,.000,0,1,.000,2,2,1.000,0,2,2,2,0,0,1,3,2,0.4,-2,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+67,65,2010-03-16,29-079,IND,,CHA,W (+5),0,19:48,3,4,.750,0,0,,3,5,.600,0,2,2,0,0,0,0,5,9,5.2,-3,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+68,66,2010-03-17,29-080,IND,@,CLE,L (-5),1,29:22,5,8,.625,0,0,,0,0,,0,2,2,6,1,0,2,2,10,9.4,-21,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+69,67,2010-03-19,29-082,IND,,DET,W (+4),0,7:10,1,1,1.000,0,0,,3,4,.750,1,0,1,1,0,0,0,2,5,4.9,-7,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+70,68,2010-03-21,29-084,IND,,OKC,W (+20),0,26:49,4,8,.500,0,0,,1,2,.500,3,2,5,5,1,0,2,3,9,8.6,-1,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+71,69,2010-03-23,29-086,IND,@,DET,W (+15),0,14:40,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-2.3,+1,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+72,70,2010-03-24,29-087,IND,,WAS,W (+17),0,20:09,2,4,.500,0,0,,2,4,.500,2,4,6,4,0,2,4,4,6,4.4,+6,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+73,,2010-03-26,29-089,IND,,UTA,W (+16),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+74,71,2010-03-28,29-091,IND,@,ATL,L (-10),0,12:56,0,3,.000,0,1,.000,2,2,1.000,0,0,0,2,1,0,0,3,2,1.1,+5,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+75,,2010-03-30,29-093,IND,,SAC,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+76,,2010-04-02,29-096,IND,,MIA,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+77,72,2010-04-04,29-098,IND,,HOU,W (+31),0,25:41,4,4,1.000,0,0,,3,3,1.000,0,2,2,2,2,2,0,3,11,14.0,+32,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+78,73,2010-04-07,29-101,IND,,NYK,W (+8),0,13:32,4,8,.500,0,0,,0,0,,0,2,2,0,0,0,0,1,8,4.2,-13,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+79,,2010-04-09,29-103,IND,@,CLE,W (+3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+80,74,2010-04-10,29-104,IND,,NJN,W (+13),0,31:23,6,12,.500,0,0,,6,6,1.000,1,2,3,1,1,0,1,1,18,13.6,+19,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+81,75,2010-04-12,29-106,IND,,ORL,L (-20),0,22:45,1,6,.167,0,0,,3,4,.750,0,2,2,2,1,0,1,3,5,1.6,-15,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010
+82,76,2010-04-14,29-108,IND,@,WAS,L (-1),0,17:13,4,9,.444,0,0,,3,3,1.000,1,2,3,1,1,0,1,2,11,7.5,+8,2010,jonesda02,https://www.basketball-reference.com/players/j/jonesda02/gamelog/2010

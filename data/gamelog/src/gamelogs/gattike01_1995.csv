@@ -1,0 +1,22 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1994-11-04,30-165,CHH,@,CHI,L (-6),0,23:00,2,4,.500,0,0,,0,0,,1,1,2,0,1,0,0,2,4,3.2,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+2,2,1994-11-05,30-166,CHH,,CLE,L (-8),0,18:00,2,2,1.000,0,0,,2,3,.667,1,4,5,1,0,1,3,5,6,3.3,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+3,3,1994-11-09,30-170,CHH,,ORL,L (-2),0,20:00,1,3,.333,0,0,,4,4,1.000,1,0,1,1,0,1,0,3,6,5.2,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+4,4,1994-11-11,30-172,CHH,@,MIL,W (+8),0,12:00,1,3,.333,0,0,,5,7,.714,2,1,3,1,0,2,2,4,7,4.7,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+5,5,1994-11-12,30-173,CHH,,DET,W (+13),0,20:00,3,6,.500,0,0,,3,5,.600,0,3,3,1,1,0,2,2,9,5.0,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+6,6,1994-11-15,30-176,CHH,@,CLE,L (-3),0,35:00,7,9,.778,0,0,,2,3,.667,4,4,8,1,1,4,0,3,16,19.4,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+7,7,1995-03-23,30-304,CHH,@,ORL,L (-12),0,7:00,0,0,,0,0,,0,0,,1,3,4,0,0,0,0,2,0,0.8,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+8,8,1995-03-25,30-306,CHH,,CLE,W (+8),0,5:00,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-1.9,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+9,9,1995-03-29,30-310,CHH,@,PHI,L (-18),0,10:00,2,3,.667,0,0,,2,2,1.000,0,1,1,0,1,0,1,1,6,4.6,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+10,10,1995-03-30,30-311,CHH,,DAL,L (-18),0,17:00,1,4,.250,0,0,,1,2,.500,0,0,0,1,0,0,1,3,3,-1.3,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+11,11,1995-04-02,30-314,CHH,@,MIA,W (+13),0,20:00,3,6,.500,0,0,,0,2,.000,2,5,7,1,1,1,2,2,6,4.7,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+12,12,1995-04-05,30-317,CHH,,PHI,W (+18),0,22:00,5,10,.500,0,0,,0,2,.000,1,5,6,1,0,0,2,4,10,3.5,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+13,13,1995-04-07,30-319,CHH,@,WSB,W (+5),0,23:00,2,5,.400,0,1,.000,2,2,1.000,2,1,3,1,0,2,0,4,6,5.5,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+14,14,1995-04-09,30-321,CHH,@,IND,L (-29),0,27:00,2,8,.250,0,0,,0,3,.000,2,4,6,1,0,0,2,3,4,-1.9,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+15,15,1995-04-10,30-322,CHH,,BOS,W (+24),0,26:00,6,10,.600,0,0,,1,2,.500,1,4,5,2,0,0,2,4,13,7.7,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+16,16,1995-04-12,30-324,CHH,,NJN,W (+28),0,19:00,3,5,.600,0,0,,2,2,1.000,0,3,3,2,1,2,1,3,8,8.2,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+17,17,1995-04-14,30-326,CHH,@,DET,W (+8),0,20:00,2,3,.667,0,0,,0,0,,1,1,2,2,1,0,1,3,4,3.9,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+18,18,1995-04-16,30-328,CHH,,ATL,L (-1),0,26:00,0,3,.000,0,0,,1,4,.250,0,3,3,0,0,0,1,4,1,-4.0,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+19,19,1995-04-17,30-329,CHH,@,PHI,W (+11),0,17:00,2,7,.286,0,0,,5,6,.833,0,0,0,1,0,1,0,2,9,5.1,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+20,20,1995-04-20,30-332,CHH,,NYK,L (-5),0,21:00,2,2,1.000,0,0,,0,0,,0,7,7,0,0,1,1,6,4,2.8,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995
+21,21,1995-04-22,30-334,CHH,@,CHI,L (-16),0,21:00,1,5,.200,0,0,,1,2,.500,2,3,5,0,0,0,1,2,3,0.0,1995,gattike01,https://www.basketball-reference.com/players/g/gattike01/gamelog/1995

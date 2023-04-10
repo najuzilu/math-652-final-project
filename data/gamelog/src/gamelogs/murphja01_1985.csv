@@ -1,0 +1,24 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1984-11-03,22-130,LAC,,POR,L (-19),0,2:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+2,2,1984-11-07,22-134,LAC,@,BOS,L (-27),0,3:00,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,1,0,1,-1.1,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+3,3,1984-11-10,22-137,LAC,@,HOU,L (-25),0,2:00,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.1,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+4,4,1984-11-17,22-144,LAC,,KCK,W (+8),0,9:00,1,4,.250,0,0,,0,0,,0,1,1,0,1,0,0,2,2,0.1,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+5,5,1984-11-27,22-154,LAC,@,DEN,L (-29),0,13:00,0,3,.000,0,0,,1,4,.250,1,4,5,0,0,0,0,2,1,-1.2,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+6,6,1984-11-28,22-155,LAC,,SEA,W (+16),0,2:00,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+7,7,1984-12-01,22-158,LAC,@,SAS,L (-32),0,8:00,1,2,.500,0,0,,2,2,1.000,0,3,3,0,0,1,0,2,4,3.8,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+8,8,1984-12-16,22-173,LAC,,GSW,W (+18),0,2:00,0,3,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2.1,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+9,9,1984-12-27,22-184,LAC,,BOS,L (-15),0,1:00,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+10,10,1985-01-03,22-191,LAC,@,MIL,L (-24),0,2:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-1.4,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+11,11,1985-01-04,22-192,LAC,@,KCK,L (-20),0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+12,12,1985-01-07,22-195,LAC,,UTA,W (+10),0,6:00,0,2,.000,0,0,,0,0,,0,2,2,0,0,0,0,1,0,-1.2,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+13,13,1985-01-15,22-203,LAC,@,SEA,L (-18),0,4:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+14,14,1985-01-19,22-207,LAC,,DAL,L (-1),0,19:00,0,3,.000,0,0,,3,4,.750,0,6,6,2,0,0,0,4,3,2.1,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+15,15,1985-01-28,22-216,LAC,@,NYK,L (-26),0,15:00,0,3,.000,0,0,,0,2,.000,0,5,5,1,0,0,1,2,0,-2.5,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+16,16,1985-01-29,22-217,LAC,@,CLE,L (-16),0,9:00,1,5,.200,0,0,,0,0,,1,0,1,0,0,1,1,1,2,-1.1,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+17,17,1985-01-31,22-219,LAC,@,NJN,L (-23),0,2:00,1,2,.500,0,0,,4,4,1.000,0,0,0,0,0,0,0,0,6,5.0,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+18,18,1985-02-02,22-221,LAC,,LAL,L (-9),0,1:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+19,19,1985-02-07,22-226,LAC,@,SAS,L (-12),0,10:00,0,3,.000,0,0,,1,2,.500,1,4,5,0,0,0,1,0,1,-0.6,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+20,20,1985-02-12,22-231,LAC,@,LAL,L (-11),0,3:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+21,21,1985-02-20,22-239,LAC,,SEA,L (-13),0,11:00,0,5,.000,0,0,,0,0,,1,1,2,2,0,0,1,2,0,-2.9,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+22,22,1985-02-24,22-243,LAC,@,SEA,L (-6),0,15:00,2,6,.333,0,0,,0,1,.000,2,4,6,1,0,0,1,1,4,2.1,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985
+23,23,1985-02-26,22-245,LAC,@,POR,L (-11),0,8:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,1985,murphja01,https://www.basketball-reference.com/players/m/murphja01/gamelog/1985

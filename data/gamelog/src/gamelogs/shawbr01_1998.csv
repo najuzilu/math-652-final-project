@@ -1,0 +1,65 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,1997-11-09,31-232,GSW,@,LAL,L (-35),0,14:39,1,7,.143,0,0,,0,0,,0,2,2,3,1,1,1,2,2,0.1,-12,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+2,2,1997-11-12,31-235,GSW,,DET,L (-31),1,19:19,4,9,.444,0,0,,0,0,,2,5,7,3,2,0,1,1,8,8.9,-6,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+3,3,1997-11-15,31-238,GSW,,POR,L (-12),0,5:33,0,2,.000,0,0,,0,0,,0,1,1,2,0,0,0,1,0,-0.1,-9,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+4,4,1997-11-19,31-242,GSW,@,SAS,L (-21),0,20:47,1,11,.091,0,1,.000,4,6,.667,3,5,8,4,0,0,3,1,6,0.9,-1,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+5,5,1997-11-20,31-243,GSW,@,DAL,W (+4),0,9:36,0,1,.000,0,0,,0,0,,0,1,1,1,0,1,1,2,0,-0.8,-10,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+6,6,1997-11-22,31-245,GSW,@,HOU,L (-6),0,4:27,0,3,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,2,0,-1.9,-7,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+7,,1997-11-25,31-248,GSW,,NJN,L (-14),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+8,7,1997-11-28,31-251,GSW,@,UTA,L (-29),0,13:45,3,6,.500,1,3,.333,1,1,1.000,1,5,6,2,0,1,1,1,8,7.9,+8,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+9,8,1997-11-29,31-252,GSW,,HOU,L (-7),0,19:02,3,6,.500,1,1,1.000,0,0,,0,0,0,1,1,0,1,3,7,3.5,+9,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+10,9,1997-12-03,31-256,GSW,,CLE,L (-28),1,24:31,1,6,.167,0,0,,0,0,,0,5,5,3,0,0,2,2,2,-1.0,-24,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+11,10,1997-12-05,31-258,GSW,,ORL,W (+15),1,37:57,5,10,.500,3,4,.750,2,2,1.000,0,4,4,5,0,0,3,2,15,10.9,+11,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+12,11,1997-12-07,31-260,GSW,@,SAC,L (-15),1,34:45,4,11,.364,1,4,.250,0,0,,0,7,7,8,1,0,2,6,9,7.2,-11,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+13,12,1997-12-10,31-263,GSW,,LAL,W (+1),1,24:52,3,7,.429,1,3,.333,0,0,,0,0,0,4,3,1,2,1,7,7.4,-1,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+14,13,1997-12-12,31-265,GSW,@,VAN,L (-7),1,32:49,4,13,.308,0,0,,2,2,1.000,2,7,9,4,3,2,5,4,10,6.6,-12,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+15,14,1997-12-13,31-266,GSW,,SAC,W (+4),1,37:19,5,15,.333,0,2,.000,2,4,.500,1,1,2,3,0,1,3,2,12,2.7,+7,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+16,15,1997-12-16,31-269,GSW,,DAL,W (+11),1,24:18,2,6,.333,0,2,.000,0,0,,0,0,0,4,1,0,1,0,4,3.4,+6,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+17,16,1997-12-18,31-271,GSW,@,LAC,L (-4),1,23:16,3,11,.273,0,2,.000,0,0,,2,3,5,0,0,0,3,6,6,-3.6,-11,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+18,17,1997-12-20,31-273,GSW,@,SEA,L (-19),1,26:43,3,12,.250,1,1,1.000,2,2,1.000,0,4,4,5,1,0,2,1,9,5.1,-20,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+19,18,1997-12-22,31-275,GSW,@,PHO,L (-15),1,25:06,2,10,.200,0,1,.000,0,0,,0,2,2,3,3,0,0,1,4,3.1,-10,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+20,19,1997-12-23,31-276,GSW,,DEN,W (+12),1,21:06,2,7,.286,0,2,.000,1,1,1.000,0,3,3,7,1,0,1,2,5,5.9,+6,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+21,20,1997-12-26,31-279,GSW,@,DEN,W (+12),1,20:58,2,3,.667,1,1,1.000,4,6,.667,0,3,3,1,2,1,5,2,9,5.4,+15,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+22,21,1997-12-27,31-280,GSW,,PHI,L (-7),1,34:36,2,8,.250,0,4,.000,0,0,,0,5,5,7,0,0,1,4,4,3.0,-6,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+23,22,1997-12-30,31-283,GSW,,SEA,L (-14),1,36:59,6,11,.545,2,3,.667,0,0,,0,4,4,8,0,0,3,2,14,11.7,-9,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+24,23,1998-01-02,31-286,GSW,,LAC,L (-15),1,28:03,0,8,.000,0,1,.000,0,0,,1,1,2,5,1,0,1,2,0,-1.9,-14,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+25,24,1998-01-07,31-291,GSW,,ATL,L (-20),1,31:54,1,4,.250,0,2,.000,0,0,,1,3,4,6,0,1,1,4,2,3.5,-1,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+26,25,1998-01-09,31-293,GSW,@,DET,L (-29),1,25:56,2,6,.333,2,3,.667,0,0,,0,6,6,5,0,0,4,2,6,3.1,-10,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+27,26,1998-01-10,31-294,GSW,@,CHI,L (-5),1,34:01,4,9,.444,2,4,.500,0,0,,1,9,10,5,0,0,1,5,10,9.2,-2,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+28,27,1998-01-12,31-296,GSW,@,MIN,L (-16),1,32:22,4,11,.364,0,2,.000,1,2,.500,1,3,4,4,0,1,3,1,9,4.2,-5,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+29,28,1998-01-14,31-298,GSW,@,MIL,L (-6),1,35:08,4,6,.667,0,0,,3,4,.750,0,2,2,8,0,1,1,6,11,11.5,-1,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+30,29,1998-01-16,31-300,GSW,@,ATL,L (-13),1,29:20,2,10,.200,0,3,.000,0,0,,0,3,3,6,0,0,2,1,4,0.5,-13,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+31,30,1998-01-17,31-301,GSW,@,PHI,L (-28),1,23:57,0,5,.000,0,3,.000,0,0,,2,0,2,2,2,1,2,1,0,-0.4,-20,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+32,31,1998-01-20,31-304,GSW,,PHO,L (-18),1,29:24,3,7,.429,0,0,,0,0,,0,6,6,4,2,0,1,3,6,6.7,-9,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+33,32,1998-01-21,31-305,GSW,@,UTA,L (-13),1,29:59,2,8,.250,0,0,,0,0,,0,4,4,8,0,1,3,4,4,2.1,-5,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+34,33,1998-01-23,31-307,GSW,,VAN,L (-8),1,30:35,1,5,.200,1,3,.333,2,2,1.000,0,6,6,6,1,0,0,2,5,8.1,+8,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+35,34,1998-01-24,31-308,GSW,@,VAN,L (-11),1,34:23,9,15,.600,2,3,.667,0,0,,0,7,7,2,2,1,1,2,20,17.5,+3,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+36,35,1998-01-27,31-311,GSW,@,POR,W (+4),1,45:37,3,7,.429,1,2,.500,0,0,,0,4,4,14,2,0,1,1,7,14.9,+6,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+37,36,1998-01-29,31-313,GSW,@,SEA,L (-12),1,26:57,5,14,.357,0,2,.000,0,1,.000,0,2,2,4,2,0,6,4,10,-0.4,-2,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+38,37,1998-01-30,31-314,GSW,,CHI,L (-7),1,29:47,1,5,.200,0,1,.000,0,0,,1,5,6,6,1,0,3,3,2,2.1,-8,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+39,38,1998-02-01,31-316,GSW,,UTA,L (-27),1,32:12,4,10,.400,2,3,.667,0,0,,2,3,5,6,1,0,4,4,10,6.5,-24,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+40,39,1998-02-03,31-318,GSW,,SAS,L (-9),1,13:19,2,2,1.000,0,0,,0,0,,0,0,0,4,1,0,0,0,4,7.2,+2,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+41,,1998-02-19,31-334,PHI,@,IND,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+42,,1998-02-21,31-336,PHI,@,NJN,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+43,,1998-02-22,31-337,PHI,,IND,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+44,40,1998-02-24,31-339,PHI,@,PHO,W (+1),0,10:55,1,5,.200,1,1,1.000,0,0,,0,0,0,2,0,0,1,0,3,0.3,-11,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+45,41,1998-02-25,31-340,PHI,@,LAC,L (-9),0,30:54,10,14,.714,2,2,1.000,2,4,.500,1,3,4,3,0,0,1,2,24,19.3,+11,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+46,42,1998-02-27,31-342,PHI,@,DEN,W (+1),1,29:24,3,8,.375,0,1,.000,0,0,,0,1,1,3,1,0,1,6,6,1.6,-10,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+47,43,1998-02-28,31-343,PHI,@,SAS,L (-12),0,33:11,1,12,.083,0,3,.000,1,2,.500,3,2,5,5,0,1,0,5,3,-0.5,-21,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+48,44,1998-03-04,31-347,PHI,,MIL,W (+7),0,26:13,2,7,.286,0,0,,0,0,,0,2,2,3,0,0,1,2,4,0.8,-1,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+49,45,1998-03-06,31-349,PHI,,NYK,W (+9),0,24:12,0,5,.000,0,1,.000,0,0,,0,4,4,7,0,1,0,1,0,2.9,+11,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+50,46,1998-03-08,31-351,PHI,@,WAS,L (-9),0,26:28,3,8,.375,0,1,.000,1,2,.500,0,6,6,3,1,0,1,3,7,4.9,-1,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+51,47,1998-03-09,31-352,PHI,,ORL,L (-10),0,13:28,0,1,.000,0,1,.000,0,0,,0,1,1,3,0,0,0,5,0,-0.3,+5,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+52,48,1998-03-11,31-354,PHI,,WAS,W (+2),0,30:03,0,6,.000,0,2,.000,0,0,,2,6,8,7,2,1,2,2,0,3.8,-5,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+53,49,1998-03-13,31-356,PHI,,ATL,W (+21),0,23:55,2,4,.500,0,1,.000,0,0,,2,1,3,5,0,0,3,4,4,2.6,+9,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+54,50,1998-03-14,31-357,PHI,@,MIL,W (+4),0,26:34,6,10,.600,0,1,.000,0,0,,1,3,4,3,1,0,1,0,12,11.1,+1,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+55,51,1998-03-17,31-360,PHI,@,NYK,L (-4),0,26:22,2,6,.333,0,2,.000,1,1,1.000,1,1,2,6,2,0,1,2,5,7.0,+12,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+56,52,1998-03-18,31-361,PHI,@,DET,W (+8),0,18:16,3,9,.333,0,2,.000,0,0,,1,3,4,2,0,0,1,5,6,0.9,+8,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+57,53,1998-03-20,31-363,PHI,,UTA,L (-12),0,24:56,4,9,.444,1,3,.333,0,1,.000,0,2,2,6,0,0,2,2,9,5.9,-9,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+58,54,1998-03-22,32-000,PHI,@,BOS,L (-18),0,27:43,0,3,.000,0,0,,2,2,1.000,2,3,5,6,1,0,2,3,2,4.2,-15,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+59,55,1998-03-23,32-001,PHI,,DET,L (-15),0,25:20,3,10,.300,1,3,.333,4,6,.667,0,0,0,2,2,0,2,5,11,3.8,-2,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+60,56,1998-03-25,32-003,PHI,,NJN,L (-5),0,26:48,2,4,.500,1,1,1.000,0,0,,0,1,1,3,1,0,1,2,5,4.6,+5,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+61,57,1998-03-27,32-005,PHI,,SAS,L (-25),1,29:35,0,2,.000,0,0,,0,0,,0,2,2,6,1,0,1,2,0,2.6,-23,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+62,58,1998-03-29,32-007,PHI,,BOS,W (+5),0,27:29,3,8,.375,0,2,.000,1,1,1.000,3,4,7,6,0,0,3,1,7,6.7,-1,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+63,59,1998-03-31,32-009,PHI,@,CHH,L (-8),0,21:00,6,8,.750,1,1,1.000,0,0,,1,2,3,7,2,0,0,3,13,16.8,+5,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998
+64,,1998-04-01,32-010,PHI,@,WAS,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,1998,shawbr01,https://www.basketball-reference.com/players/s/shawbr01/gamelog/1998

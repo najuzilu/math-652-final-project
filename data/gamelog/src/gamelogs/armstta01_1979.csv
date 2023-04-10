@@ -1,0 +1,27 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1978-12-05,23-061,CHI,,PHI,W (+5),0,3:00,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+2,2,1978-12-15,23-071,CHI,,NYK,L (-24),0,16:00,1,3,.333,2,2,1.000,0,0,0,2,1,0,2,0,4,2.7,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+3,3,1978-12-17,23-073,CHI,@,MIL,L (-16),0,12:00,2,3,.667,0,0,,1,1,2,0,0,0,1,2,4,1.9,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+4,4,1978-12-19,23-075,CHI,,ATL,W (+6),0,3:00,0,2,.000,0,0,,0,0,0,0,0,0,2,0,0,-3.4,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+5,5,1978-12-20,23-076,CHI,@,SAS,L (-29),0,8:00,2,5,.400,0,0,,2,2,4,0,2,0,2,0,4,3.3,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+6,6,1978-12-22,23-078,CHI,,SAS,L (-11),0,1:00,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+7,7,1979-02-23,23-141,CHI,@,NOJ,L (-9),0,8:00,3,3,1.000,0,0,,0,1,1,0,0,0,0,2,6,4.6,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+8,8,1979-02-25,23-143,CHI,,CLE,L (-9),0,5:00,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+9,9,1979-02-27,23-145,CHI,,DET,W (+7),0,22:00,2,3,.667,4,4,1.000,0,0,0,3,0,0,2,4,8,5.2,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+10,10,1979-02-28,23-146,CHI,@,WSB,L (-11),0,12:00,2,4,.500,0,0,,1,2,3,1,0,0,0,2,4,3.2,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+11,11,1979-03-03,23-149,CHI,@,ATL,L (-18),0,14:00,0,2,.000,1,2,.500,0,1,1,1,0,0,0,1,1,-0.2,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+12,12,1979-03-08,23-154,CHI,@,PHO,L (-15),0,2:00,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+13,13,1979-03-11,23-157,CHI,@,GSW,W (+2),0,14:00,2,4,.500,0,0,,0,0,0,3,0,0,2,4,4,0.5,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+14,14,1979-03-13,23-159,CHI,,NJN,W (+3),0,1:00,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,1.3,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+15,15,1979-03-16,23-162,CHI,@,HOU,L (-6),0,9:00,2,4,.500,0,0,,1,1,2,1,0,0,1,0,4,2.7,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+16,16,1979-03-17,23-163,CHI,,SEA,L (-18),0,15:00,1,5,.200,0,0,,0,1,1,5,0,0,0,1,2,2.3,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+17,17,1979-03-18,23-164,CHI,@,KCK,L (-11),0,1:00,0,0,,1,3,.333,0,0,0,0,0,0,1,0,1,-0.8,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+18,18,1979-03-21,23-167,CHI,@,IND,L (-9),0,1:00,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+19,19,1979-03-23,23-169,CHI,,NOJ,W (+17),0,13:00,2,3,.667,0,0,,0,0,0,3,1,0,0,1,4,5.4,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+20,20,1979-03-24,23-170,CHI,@,NYK,W (+5),0,13:00,1,2,.500,0,0,,0,0,0,1,0,0,3,0,2,-1.3,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+21,21,1979-03-25,23-171,CHI,@,NJN,L (-11),0,12:00,2,3,.667,0,0,,1,1,2,5,2,0,0,0,4,9.2,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+22,22,1979-03-28,23-174,CHI,@,PHI,L (-16),0,34:00,1,9,.111,0,0,,1,1,2,2,2,0,2,0,2,-1.5,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+23,23,1979-03-30,23-176,CHI,@,BOS,W (+16),0,9:00,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+24,24,1979-03-31,23-177,CHI,,MIL,L (-9),0,14:00,3,7,.429,0,0,,0,0,0,3,2,0,0,1,6,6.0,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+25,25,1979-04-06,23-183,CHI,,WSB,W (+14),0,7:00,1,3,.333,0,0,,0,0,0,0,0,0,0,0,2,0.3,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979
+26,26,1979-04-08,23-185,CHI,@,DET,W (+10),0,8:00,1,4,.250,0,0,,0,0,0,0,0,0,1,1,2,-1.8,1979,armstta01,https://www.basketball-reference.com/players/a/armstta01/gamelog/1979

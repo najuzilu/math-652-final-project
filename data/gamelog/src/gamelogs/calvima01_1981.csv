@@ -1,0 +1,22 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1980-12-20,33-146,CLE,,BOS,L (-5),0,16:00,1,4,.250,0,0,,1,1,1.000,0,0,0,5,0,0,1,3,3,1.9,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+2,2,1980-12-23,33-149,CLE,,KCK,L (-2),0,9:00,1,3,.333,0,0,,1,2,.500,0,1,1,3,0,0,1,1,3,1.9,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+3,3,1980-12-26,33-152,CLE,,CHI,L (-2),0,4:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+4,4,1981-01-02,33-159,CLE,@,NJN,W (+6),0,8:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+5,5,1981-01-03,33-160,CLE,,WSB,W (+20),0,7:00,0,3,.000,0,0,,5,7,.714,0,2,2,2,0,0,1,0,5,3.1,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+6,6,1981-01-14,33-171,CLE,@,BOS,L (-7),0,14:00,1,2,.500,0,0,,0,0,,0,1,1,2,0,0,2,2,2,-0.1,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+7,7,1981-01-16,33-173,CLE,@,PHI,L (-18),0,9:00,0,3,.000,0,0,,0,2,.000,0,0,0,3,1,0,1,2,0,-1.6,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+8,8,1981-01-22,33-179,CLE,,NJN,W (+14),0,3:00,1,3,.333,0,0,,2,2,1.000,0,0,0,1,0,0,1,0,4,2.0,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+9,9,1981-01-23,33-180,CLE,@,ATL,W (+8),0,8:00,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,1,0,4,3.0,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+10,10,1981-01-24,33-181,CLE,@,DET,L (-23),0,11:00,1,4,.250,0,0,,4,4,1.000,0,1,1,4,1,0,0,1,6,7.3,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+11,11,1981-01-29,33-186,CLE,,PHO,W (+4),0,4:00,0,1,.000,0,0,,1,3,.333,0,1,1,1,0,0,0,1,1,0.1,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+12,12,1981-02-07,33-195,CLE,@,IND,L (-3),0,4:00,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+13,13,1981-02-14,33-202,CLE,,GSW,W (+18),0,3:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,3,0,0,-2.7,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+14,14,1981-02-25,33-213,CLE,@,BOS,L (-21),0,4:00,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,0,0,0,0.7,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+15,15,1981-03-01,33-217,CLE,@,DEN,L (-10),0,2:00,1,1,1.000,0,0,,3,4,.750,0,0,0,1,1,0,0,0,5,6.0,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+16,16,1981-03-04,33-220,CLE,@,PHO,L (-20),0,3:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+17,17,1981-03-09,33-225,CLE,@,MIL,L (-18),0,3:00,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-1.4,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+18,18,1981-03-24,33-240,CLE,@,CHI,L (-13),0,3:00,1,2,.500,0,1,.000,1,1,1.000,0,0,0,0,1,0,0,0,3,3.0,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+19,19,1981-03-26,33-242,CLE,@,MIL,L (-28),0,3:00,2,2,1.000,1,1,1.000,1,2,.500,0,1,1,0,1,0,1,0,6,5.3,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+20,20,1981-03-27,33-243,CLE,,PHI,L (-21),0,4:00,2,3,.667,0,0,,0,0,,0,0,0,2,0,0,0,1,4,3.7,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981
+21,21,1981-03-29,33-245,CLE,@,WSB,L (-35),0,6:00,1,3,.333,0,1,.000,4,5,.800,1,0,1,2,0,0,1,0,6,5.0,1981,calvima01,https://www.basketball-reference.com/players/c/calvima01/gamelog/1981

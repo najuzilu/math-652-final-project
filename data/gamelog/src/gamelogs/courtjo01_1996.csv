@@ -1,0 +1,24 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1995-11-12,26-026,CLE,,SAS,L (-3),0,7:00,1,2,.500,0,0,,0,1,.000,1,0,1,0,0,0,0,2,2,0.5,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+2,2,1995-11-15,26-029,CLE,@,CHI,L (-19),0,13:00,1,1,1.000,0,0,,0,2,.000,0,2,2,2,1,0,0,4,2,2.3,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+3,3,1995-11-17,26-031,CLE,@,PHI,W (+32),0,13:00,1,3,.333,0,0,,1,2,.500,6,3,9,1,0,0,1,3,3,4.5,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+4,4,1995-11-18,26-032,CLE,,DET,W (+3),0,5:00,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-0.7,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+5,5,1995-11-25,26-039,CLE,,MIL,W (+2),0,8:00,1,2,.500,0,0,,0,0,,0,2,2,0,0,1,2,2,2,-0.5,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+6,6,1995-11-28,26-042,CLE,,TOR,W (+4),0,6:00,0,0,,0,0,,0,0,,0,1,1,0,1,0,1,1,0,-0.1,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+7,7,1995-12-03,26-047,CLE,,DAL,W (+1),0,7:00,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,0,0,0,0.3,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+8,8,1995-12-08,26-052,CLE,,PHI,W (+28),0,12:00,0,2,.000,0,0,,0,0,,0,2,2,1,1,1,0,0,0,1.6,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+9,9,1995-12-09,26-053,CLE,,NJN,L (-12),0,4:00,1,3,.333,0,0,,0,0,,0,2,2,1,0,0,1,1,2,0.2,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+10,10,1995-12-12,26-056,CLE,,LAC,W (+11),0,12:00,1,3,.333,0,0,,0,0,,2,1,3,0,0,0,1,2,2,0.2,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+11,11,1995-12-15,26-059,CLE,@,MIN,W (+12),0,12:00,1,2,.500,0,0,,2,3,.667,2,0,2,0,1,0,2,3,4,1.8,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+12,12,1995-12-17,26-061,CLE,,DEN,W (+13),0,1:00,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+13,13,1995-12-19,26-063,CLE,,MIN,W (+5),0,7:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,4,0,-1.6,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+14,14,1995-12-21,26-065,CLE,,UTA,L (-2),0,7:00,0,2,.000,0,0,,1,2,.500,1,1,2,0,0,0,0,0,1,0.2,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+15,15,1995-12-23,26-067,CLE,,IND,W (+1),0,11:00,0,1,.000,0,0,,1,2,.500,1,1,2,1,0,0,0,3,1,0.4,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+16,16,1995-12-28,26-072,CLE,@,NYK,W (+10),0,11:00,1,3,.333,0,0,,0,0,,1,0,1,0,0,0,1,1,2,-0.4,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+17,17,1995-12-30,26-074,CLE,,POR,W (+3),0,11:00,1,1,1.000,0,0,,2,4,.500,4,2,6,0,1,1,2,0,4,6.0,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+18,18,1996-01-02,26-077,CLE,@,WSB,W (+8),0,13:00,2,2,1.000,0,0,,1,2,.500,1,3,4,0,0,0,2,2,5,2.8,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+19,19,1996-01-05,26-080,CLE,@,BOS,L (-16),0,7:00,0,0,,0,0,,0,0,,2,0,2,0,0,0,0,1,0,1.0,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+20,20,1996-01-06,26-081,CLE,,ORL,W (+11),0,10:00,2,3,.667,0,0,,0,0,,0,1,1,1,0,1,0,1,4,4.0,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+21,21,1996-01-08,26-083,CLE,,WSB,W (+18),0,17:00,2,2,1.000,0,0,,0,0,,1,2,3,2,0,1,2,2,4,4.0,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+22,22,1996-01-10,26-085,CLE,@,SAS,L (-6),0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996
+23,23,1996-01-12,26-087,CLE,@,DEN,L (-7),0,4:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,3,0,-1.9,1996,courtjo01,https://www.basketball-reference.com/players/c/courtjo01/gamelog/1996

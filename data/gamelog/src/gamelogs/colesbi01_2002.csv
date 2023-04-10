@@ -1,0 +1,51 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,session,player,gamelog_url
+1,1,2001-10-30,33-191,CLE,,BOS,L (-19),0,15:04,2,4,.500,0,0,,2,2,1.000,1,0,1,3,0,0,0,0,6,6.8,-7,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+2,2,2001-10-31,33-192,CLE,@,CHH,L (-6),0,11:03,1,3,.333,0,0,,0,0,,0,1,1,2,0,0,1,0,2,1.0,-6,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+3,3,2001-11-02,33-194,CLE,@,MIA,W (+7),0,13:28,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,3,0,-0.6,-12,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+4,4,2001-11-03,33-195,CLE,,ORL,L (-30),0,19:12,2,4,.500,0,0,,0,0,,0,0,0,1,0,0,0,1,4,2.3,-18,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+5,5,2001-11-06,33-198,CLE,,SAC,L (-16),0,14:14,2,3,.667,0,0,,0,0,,0,2,2,2,0,1,1,2,4,3.6,-18,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+6,6,2001-11-07,33-199,CLE,@,NYK,L (-18),0,17:26,1,4,.250,0,0,,2,2,1.000,0,4,4,2,0,0,0,1,4,3.8,-10,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+7,7,2001-11-10,33-202,CLE,@,NJN,L (-3),0,7:18,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,0,2,0,-0.1,-8,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+8,8,2001-11-13,33-205,CLE,@,MIN,W (+4),0,15:38,2,5,.400,0,1,.000,4,4,1.000,0,2,2,0,0,0,0,2,8,5.1,+11,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+9,9,2001-11-14,33-206,CLE,,DAL,L (-13),0,22:21,0,3,.000,0,0,,0,0,,1,1,2,1,0,0,1,0,0,-1.4,-2,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+10,10,2001-11-16,33-208,CLE,@,SAS,L (-14),0,18:06,2,7,.286,1,2,.500,1,2,.500,0,0,0,1,0,0,0,3,6,1.0,-26,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+11,11,2001-11-17,33-209,CLE,@,MEM,L (-5),0,15:09,4,5,.800,0,0,,0,0,,0,2,2,3,0,0,0,1,8,8.4,-3,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+12,12,2001-11-21,33-213,CLE,,MEM,W (+7),0,10:29,0,2,.000,0,0,,2,2,1.000,1,1,2,3,0,0,1,2,2,1.9,+3,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+13,13,2001-11-23,33-215,CLE,@,PHI,L (-11),0,5:45,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.7,-6,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+14,14,2001-11-24,33-216,CLE,,MIA,W (+4),0,11:22,0,3,.000,0,0,,0,0,,0,1,1,2,0,0,2,2,0,-3.2,-5,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+15,15,2001-11-27,33-219,CLE,,WAS,W (+19),0,20:05,3,5,.600,0,1,.000,0,0,,0,1,1,5,0,0,1,0,6,6.5,+10,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+16,16,2001-11-29,33-221,CLE,,ATL,L (-9),0,11:51,2,3,.667,0,0,,0,0,,0,2,2,2,0,0,2,1,4,2.3,-8,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+17,17,2001-12-01,33-223,CLE,,CHH,W (+12),0,14:16,0,1,.000,0,0,,2,2,1.000,1,1,2,1,0,0,1,0,2,2.0,-1,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+18,18,2001-12-04,33-226,CLE,,DET,W (+12),0,12:54,2,4,.500,1,1,1.000,2,2,1.000,0,0,0,4,1,0,0,0,7,8.8,+5,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+19,19,2001-12-07,33-229,CLE,@,NJN,L (-12),0,17:13,2,3,.667,0,0,,0,0,,0,2,2,2,1,0,0,1,4,5.3,+5,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+20,20,2001-12-08,33-230,CLE,,DEN,W (+10),0,17:20,1,4,.250,1,1,1.000,0,0,,0,1,1,3,0,0,1,1,3,1.6,+3,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+21,21,2001-12-11,33-233,CLE,@,HOU,W (+5),0,19:36,4,4,1.000,1,1,1.000,2,2,1.000,0,0,0,4,2,1,0,2,11,14.5,-4,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+22,22,2001-12-13,33-235,CLE,@,DAL,L (-20),1,30:21,5,9,.556,0,2,.000,3,3,1.000,0,2,2,5,2,0,2,3,13,11.6,-4,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+23,23,2001-12-15,33-237,CLE,,PHI,L (-3),0,4:17,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-5,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+24,24,2001-12-18,33-240,CLE,,CHI,W (+18),0,19:09,1,7,.143,0,3,.000,0,0,,0,2,2,5,0,0,1,1,2,0.2,+6,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+25,25,2001-12-19,33-241,CLE,@,BOS,L (-6),0,13:31,0,1,.000,0,0,,0,0,,0,1,1,3,0,0,3,1,0,-1.7,-4,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+26,26,2001-12-21,33-243,CLE,@,MIA,W (+5),0,14:41,0,0,,0,0,,0,0,,1,2,3,0,0,0,1,1,0,-0.1,+9,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+27,27,2001-12-22,33-244,CLE,,IND,L (-6),0,9:46,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,0,2,2.7,-9,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+28,28,2001-12-26,33-248,CLE,,NJN,L (-2),0,11:58,1,4,.250,0,0,,0,0,,1,0,1,0,0,1,1,0,2,0.0,-7,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+29,29,2001-12-28,33-250,CLE,,NYK,W (+10),0,14:55,0,2,.000,0,0,,2,2,1.000,0,0,0,2,0,1,2,2,2,-0.1,-10,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+30,30,2001-12-29,33-251,CLE,@,CHI,L (-23),0,24:01,2,7,.286,0,0,,0,0,,0,0,0,6,1,0,0,0,4,5.1,-11,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+31,31,2002-01-02,33-255,CLE,,GSW,W (+15),0,17:30,0,4,.000,0,0,,0,0,,1,1,2,7,1,0,0,4,0,2.5,-2,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+32,32,2002-01-04,33-257,CLE,@,TOR,L (-10),0,18:38,1,3,.333,0,1,.000,0,0,,1,1,2,4,0,0,2,0,2,2.1,+7,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+33,33,2002-01-05,33-258,CLE,@,DET,L (-10),0,13:47,2,4,.500,0,1,.000,2,2,1.000,0,1,1,2,0,0,0,1,6,5.3,+5,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+34,34,2002-01-07,33-260,CLE,,POR,L (-26),0,20:49,2,5,.400,0,2,.000,0,0,,2,0,2,3,0,0,1,1,4,3.4,-21,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+35,35,2002-01-10,33-263,CLE,@,DEN,L (-5),0,20:17,4,6,.667,0,0,,3,4,.750,1,1,2,2,1,0,0,1,11,11.0,-7,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+36,36,2002-01-11,33-264,CLE,@,SEA,L (-2),0,14:05,0,1,.000,0,0,,0,0,,0,1,1,3,0,0,0,1,0,1.3,-5,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+37,37,2002-01-13,33-266,CLE,@,POR,L (-32),0,16:28,0,2,.000,0,1,.000,0,0,,0,1,1,2,0,0,1,3,0,-1.9,-15,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+38,38,2002-01-15,33-268,CLE,@,SAC,L (-7),0,10:36,0,2,.000,0,2,.000,2,2,1.000,0,0,0,2,0,0,1,1,2,0.6,-4,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+39,39,2002-01-16,33-269,CLE,@,GSW,L (-29),0,20:47,1,3,.333,0,1,.000,2,2,1.000,0,0,0,2,0,0,3,3,4,-0.5,-24,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+40,40,2002-01-18,33-271,CLE,@,LAC,L (-6),0,12:59,0,0,,0,0,,0,0,,0,0,0,2,1,0,0,1,0,2.0,+10,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+41,41,2002-01-21,33-274,CLE,,MIA,L (-2),0,7:47,1,2,.500,0,0,,1,1,1.000,1,0,1,2,0,0,1,1,3,2.7,+4,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+42,42,2002-01-24,33-277,CLE,@,WAS,L (-9),0,13:58,1,5,.200,0,0,,0,0,,0,1,1,3,0,0,0,2,2,0.5,0,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+43,43,2002-01-26,33-279,CLE,,BOS,L (-7),0,10:49,1,2,.500,0,0,,1,3,.333,0,0,0,0,1,0,0,1,3,1.8,-7,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+44,44,2002-01-29,33-282,CLE,,MIN,W (+33),0,16:18,0,0,,0,0,,0,0,,0,3,3,4,0,0,0,2,0,2.9,0,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+45,45,2002-01-31,33-284,CLE,,WAS,L (-1),0,11:22,1,3,.333,0,0,,0,0,,0,0,0,2,1,0,0,3,2,1.5,+5,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+46,46,2002-02-02,33-286,CLE,,DET,L (-8),0,12:04,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,1,2,1.3,-1,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+47,,2002-02-05,33-289,CLE,@,ORL,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+48,47,2002-02-06,33-290,CLE,,HOU,W (+2),0,2:59,0,1,.000,0,0,,0,0,,0,1,1,0,1,0,0,0,0,0.6,0,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+49,,2002-02-12,33-296,CLE,,TOR,W (+18),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002
+50,,2002-02-13,33-297,CLE,@,MIL,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,2002,colesbi01,https://www.basketball-reference.com/players/c/colesbi01/gamelog/2002

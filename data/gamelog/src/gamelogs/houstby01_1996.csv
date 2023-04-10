@@ -1,0 +1,26 @@
+Rk,G,Date,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,session,player,gamelog_url
+1,1,1995-11-05,25-348,SAC,,LAC,W (+17),0,9:00,3,3,1.000,0,0,,1,1,1.000,0,1,1,0,1,1,0,0,7,8.1,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+2,2,1995-11-07,25-350,SAC,@,PHI,W (+3),0,7:00,1,1,1.000,0,0,,2,2,1.000,1,2,3,0,1,0,0,3,4,4.8,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+3,3,1995-11-08,25-351,SAC,@,TOR,W (+19),0,12:00,2,4,.500,0,0,,0,0,,3,2,5,0,0,0,2,2,4,1.9,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+4,4,1995-11-10,25-353,SAC,@,IND,W (+24),0,17:00,3,5,.600,0,0,,2,2,1.000,2,1,3,1,1,1,0,5,8,7.8,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+5,5,1995-11-14,25-357,SAC,,LAL,L (-6),0,17:00,3,7,.429,0,0,,2,4,.500,7,5,12,0,2,1,3,5,8,7.6,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+6,6,1995-11-16,25-359,SAC,@,POR,W (+3),0,4:00,0,2,.000,0,0,,1,2,.500,1,0,1,0,0,0,0,0,1,-0.1,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+7,7,1995-11-17,25-360,SAC,,PHO,W (+9),0,9:00,2,2,1.000,0,0,,0,0,,0,4,4,0,0,0,1,2,4,2.8,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+8,8,1995-11-22,26-000,SAC,@,UTA,L (-21),0,2:00,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+9,9,1995-11-24,26-002,SAC,@,LAL,W (+1),0,3:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+10,10,1995-11-26,26-004,SAC,,NJN,W (+7),0,13:00,2,2,1.000,0,0,,1,1,1.000,0,3,3,0,0,0,0,3,5,4.1,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+11,11,1995-11-30,26-008,SAC,,IND,W (+10),0,1:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+12,12,1995-12-08,26-016,SAC,,SEA,L (-17),0,5:00,2,4,.500,1,1,1.000,0,0,,3,1,4,0,0,0,1,1,5,4.0,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+13,13,1996-01-04,26-043,SAC,,DEN,W (+30),0,9:00,2,4,.500,0,1,.000,2,2,1.000,0,1,1,0,0,0,0,1,6,3.9,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+14,14,1996-01-06,26-045,SAC,,GSW,W (+9),0,11:00,0,0,,0,0,,0,0,,0,3,3,1,1,0,1,3,0,0.4,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+15,15,1996-01-09,26-048,SAC,@,ATL,L (-16),0,11:00,0,0,,0,0,,0,0,,0,4,4,0,0,1,2,6,0,-2.5,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+16,16,1996-01-10,26-049,SAC,@,BOS,L (-9),0,19:00,3,4,.750,0,0,,1,2,.500,1,4,5,0,0,0,0,3,7,5.7,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+17,17,1996-01-12,26-051,SAC,@,WSB,L (-29),0,13:00,1,3,.333,0,0,,2,2,1.000,1,2,3,1,0,0,0,2,4,3.5,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+18,18,1996-01-13,26-052,SAC,@,NYK,W (+8),0,16:00,2,7,.286,0,0,,0,0,,3,1,4,0,0,0,0,2,4,1.5,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+19,19,1996-01-15,26-054,SAC,@,MIN,L (-9),0,21:00,1,3,.333,0,0,,2,2,1.000,2,3,5,1,0,0,3,6,4,-0.1,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+20,20,1996-01-18,26-057,SAC,,POR,W (+5),0,5:00,0,0,,0,0,,0,0,,0,2,2,1,1,0,0,1,0,1.9,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+21,21,1996-01-20,26-059,SAC,@,DEN,W (+5),0,6:00,0,0,,0,0,,0,0,,1,2,3,0,0,0,1,1,0,-0.1,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+22,22,1996-01-21,26-060,SAC,@,PHO,L (-14),0,15:00,2,3,.667,0,0,,0,0,,0,4,4,1,1,2,0,3,4,5.8,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+23,23,1996-02-23,26-093,SAC,,SAS,L (-7),0,15:00,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,1,3,2,0.5,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+24,24,1996-02-24,26-094,SAC,@,SEA,L (-13),0,24:00,2,4,.500,0,1,.000,2,2,1.000,3,5,8,0,4,0,2,3,6,8.4,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
+25,25,1996-02-26,26-096,SAC,,DET,L (-15),0,12:00,0,3,.000,0,0,,3,4,.750,3,1,4,0,0,1,0,3,3,2.4,1996,houstby01,https://www.basketball-reference.com/players/h/houstby01/gamelog/1996
