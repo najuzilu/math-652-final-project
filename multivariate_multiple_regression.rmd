@@ -13,13 +13,17 @@ library(data.table)
 
 ## Goal
 
-Here we will perform a multivariate multiple regression analysis to predict player salary based on basketball in-game statistics
+Here we will perform a multivariate multiple regression analysis to predict a player's topline basketball in-game statistics using several variables such their salary, age, team, and certain other in-game statistics. This analysis is motivated by the question: what is the relationship between a player's salary and their in-game performance?
+
+In this analysis, we investigate the inverse of the typical question: instead of asking how a player's in-game performance predicts their salary, we ask how a player's salary predicts their in-game performance. This can help us determine how related the salary is to performance, and may lead to insights in if a player is "overpaid" or "underpaid" relative to their performance.
+
+We must use multivariate multiple regression because we have multiple response variables (e.g. points, assists, and rebounds) and multiple predictor variables (e.g. the salary, age, team, and other in-game statistics).
 
 ## Data
 
 Read in the salary and player data.
 
-```{r, eval=FALSE}
+```{r}
 # list files in data/salary/src directory
 dir <- "data/salary/src"
 salary_files_tmp <- list.files(dir)
@@ -32,7 +36,7 @@ salary_df <- map_df(salary_files, fread) %>%
 head(salary_df)
 ```
 
-```{r, eval=FALSE}
+```{r}
 # list files in data/gamelog/src directory
 dir <- "data/gamelog/src/gamelogs/"
 gamelog_files_tmp <- list.files(dir)
@@ -50,7 +54,7 @@ head(gamelog_df)
 
 We merge the two data sets on player id.
 
-```{r, eval=FALSE}
+```{r}
 # merge the two data sets
 df <- gamelog_df %>% 
     inner_join(salary_df, by = c("player" = "player_id"))
@@ -58,10 +62,40 @@ df <- gamelog_df %>%
 head(df)
 ```
 
+Now we also get some player-level data.
+
+```{r}
+# list files in data/players/src directory
+dir <- "data/players/src/"
+players_files_tmp <- list.files(dir)
+players_files <- paste0(dir, "/", players_files_tmp)
+
+# read in players data
+players_df <- map_df(players_files,  ~fread(.x) %>% mutate(across(.fns = as.character))) %>%
+    as_tibble()
+
+# we must create a player id column from the player_href column
+# this is the string between /a/ and .html 
+players_df <- players_df %>% 
+    mutate(
+        player_id = stringr::str_extract(player_href, "(?<=/a/).*(?=\\.html)")
+    )
+
+head(players_df)
+```
+
+We merge this to the main data set.
+
+```{r}
+# merge the two data sets
+df2 <- df %>% 
+    inner_join(players_df, by = c("player" = "player_id"))
+```
+
 Since the salary is a season-level statistic, we calculate season-level statistics for the game-level in-game statistics. 
 
-```{r, eval=FALSE}
-per_season_data_tmp <- df %>% 
+```{r}
+per_season_data_tmp <- df2 %>% 
     mutate(
         Age = substr(Age, 1, 2), # get first two characters of age to make numeric
         # convert salary to numeric, parsing out the $ and commas
@@ -72,6 +106,10 @@ per_season_data_tmp <- df %>%
         Age = mean(as.numeric(Age)),
         Tm = first(Tm),
         Team = first(Team),
+        Pos = first(Pos),
+        Ht = mean(as.numeric(Ht)),
+        Wt = mean(as.numeric(Wt)),
+        Colleges = first(Colleges),
         G = sum(as.numeric(G), na.rm = TRUE),
         GS = sum(as.numeric(GS), na.rm = TRUE),
         MP = mean(as.numeric(MP), na.rm = TRUE),
@@ -118,7 +156,21 @@ We now consider the univeriate cases. We plot the distribution of each numeric c
 ```{r}
 # read the data from csv
 per_season_data <- readr::read_csv("data/per_season_data.csv")
+dim(per_season_data)
+head(per_season_data)
+```
 
+```{r}
+# handle NAs for now
+per_season_data <- per_season_data %>% 
+    mutate(
+        Team = ifelse(is.na(Team), "Other", Team),
+        Season = ifelse(is.na(Season), "Other", Season),
+        Salary = ifelse(is.na(Salary), mean(Salary), Salary)
+    )
+```
+
+```{r}
 # create a list of numeric columns
 num_cols <- per_season_data %>% 
     select(where(is.numeric)) %>% 
@@ -133,11 +185,15 @@ for (col in num_cols) {
 hist(per_season_data$Salary, main = "Salary")
 ```
 
+We attempted to perform the Shapiro Wilk test, but it was not possible to perform the test on the size of our data - there is a limit of 5000 observations. So, we will perform the test on a sample of the data, but we will not use this test to make any final conclusions.
+
 ```{r}
 # shapiro wilk test
 for (col in num_cols) {
     print(col)
-    print(shapiro.test(per_season_data[[col]]))
+    # sample the data of size 5000
+    x = sample(per_season_data[[col]], 5000)
+    print(shapiro.test(x))
 }
 ```
 
@@ -156,14 +212,37 @@ Now that the data is more suitable for our regression task, we can perform the r
 
 Most notably, multivariate multiple regression is a generalization of multiple regression. In multiple regression, we have a single response variable and multiple predictor variables. In multivariate multiple regression, we have multiple response variables and multiple predictor variables. 
 
+To start, we create the following model:
+
+$$Y = \Beta Z$$
+
 ```{r}
+# convert some variabels to factor
+per_season_data <- per_season_data %>% 
+    mutate(
+        Season = as.factor(Season),
+        Team = as.factor(Team),
+        Pos = as.factor(Pos)
+    )
+
+mlm1 <- lm(
+    cbind(PTS, AST, TRB) ~ Season + Salary + Age + Ht + Wt + Pos + GS + G,
+    data = per_season_data
+)
+summary(mlm1)
 ```
+
+We see that this initial model is not very good. The R-squared is very low, and the p-values for the coefficients are very high. We will need to improve this model.
 
 ### Model Selection
 
 We can use several methods to help us choose the best model. It is preferable to include the least number of predictor variables possible, in order to have an explanable model, avoid overfitting, etc, but to balance this with the need to have a model that is sufficiently accurate. 
 
 For example, we may use the AIC, BIC, or adjusted R-squared to help us choose the best model. 
+
+```{r}
+
+```
 
 ```{r}
 ```
