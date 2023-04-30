@@ -48,7 +48,8 @@ gamelog_files <- paste0(dir, "/", gamelog_files_tmp)
 # cast the GS column to character to avoid errors
 gamelog_df <- map_df(gamelog_files, ~fread(.x) %>% mutate(across(.fns = as.character))) %>%
     as_tibble()
-
+```
+```{r}
 head(gamelog_df)
 ```
 
@@ -95,7 +96,6 @@ We merge this to the main data set.
 df2 <- df %>% 
     inner_join(players_df, by = c("player" = "player_id"))
 ```
-
 Since the salary is a season-level statistic, we calculate season-level statistics for the game-level in-game statistics. 
 
 ```{r}
@@ -103,7 +103,12 @@ per_season_data_tmp <- df2 %>%
     mutate(
         Age = substr(Age, 1, 2), # get first two characters of age to make numeric
         # convert salary to numeric, parsing out the $ and commas
-        Salary = as.numeric(gsub("[$,]", "", Salary))
+        Salary = as.numeric(gsub("[$,]", "", Salary)),
+        # convert the MP to numeric. Get minutes before the colon and seconds after the colon
+        # convert minutes to seconds and add to seconds
+        # if "Did Not Play" then set to 0
+        MP = ifelse(MP == "Did Not Play", 0, MP),
+        MP = as.numeric(substr(MP, 1, 2)) * 60 + as.numeric(substr(MP, 4, 5))
     ) %>%
     group_by(player,Season) %>%
     summarize(
