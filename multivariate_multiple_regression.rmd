@@ -76,12 +76,16 @@ players_df <- map_df(players_files,  ~fread(.x) %>% mutate(across(.fns = as.char
 
 # we must create a player id column from the player_href column
 # this is the string between /a/ and .html 
+# convert the height to numeric, from feet-inches to inches
 players_df <- players_df %>% 
     mutate(
-        player_id = stringr::str_extract(player_href, "(?<=/a/).*(?=\\.html)")
+        player_id = stringr::str_extract(player_href, "(?<=/a/).*(?=\\.html)"),
+        # get number before the dash and after the dash
+        Ht = as.numeric(substr(Ht, 1, 1)) * 12 + as.numeric(substr(Ht, 3, 4))
     )
-
-head(players_df)
+```
+```{r}
+summary(players_df$Ht)
 ```
 
 We merge this to the main data set.
@@ -187,7 +191,7 @@ hist(per_season_data$Salary, main = "Salary")
 
 We attempted to perform the Shapiro Wilk test, but it was not possible to perform the test on the size of our data - there is a limit of 5000 observations. So, we will perform the test on a sample of the data, but we will not use this test to make any final conclusions.
 
-```{r}
+```{r, eval=FALSE}
 # shapiro wilk test
 for (col in num_cols) {
     print(col)
@@ -224,9 +228,15 @@ per_season_data <- per_season_data %>%
         Team = as.factor(Team),
         Pos = as.factor(Pos)
     )
+```
 
+```{r}
+summary(per_season_data$Ht)
+```
+
+```{r}
 mlm1 <- lm(
-    cbind(PTS, AST, TRB) ~ Season + Salary + Age + Ht + Wt + Pos + GS + G,
+    cbind(PTS, AST, TRB) ~ Salary + Age + Ht + Wt + Pos + GS + G,
     data = per_season_data
 )
 summary(mlm1)
