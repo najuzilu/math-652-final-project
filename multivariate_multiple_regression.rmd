@@ -8,6 +8,8 @@ options(scipen = 999)
 library(purrr)
 library(dplyr)
 library(data.table)
+library(glmnet)
+library(tidyr)
 set.seed(123)
 ```
 
@@ -38,7 +40,7 @@ We now consider the univeriate cases. We plot the distribution of each numeric c
 
 ```{r}
 # read the data from csv
-per_season_data <- readr::read_csv("data/per_season_data.csv")
+per_season_data <- readr::read_csv("data/per_season_data_v2.csv")
 dim(per_season_data)
 head(per_season_data)
 ```
@@ -47,9 +49,9 @@ head(per_season_data)
 # handle NAs for now
 per_season_data <- per_season_data %>% 
     mutate(
-        Team = ifelse(is.na(Team), "Other", Team),
+        team = ifelse(is.na(team), "Other", team),
         Season = ifelse(is.na(Season), "Other", Season),
-        Salary = ifelse(is.na(Salary), mean(Salary), Salary)
+        salary = ifelse(is.na(salary), mean(salary), salary)
     )
 ```
 
@@ -65,7 +67,7 @@ for (col in num_cols) {
 }
 
 # plot the distribution of the salary
-hist(per_season_data$Salary, main = "Salary")
+hist(per_season_data$salary, main = "Salary")
 ```
 
 We also present Q-Q plots for the variables, which demonstrats the columns that aren't normal. 
@@ -97,31 +99,31 @@ We see clearly that many of the variables are not normally distributed and will 
 
 Depending on the skewness of the data, we can consider polynomial transformations and log transformations. We will consider transformations for the following variables which will be used in the regression analysis:
 
-* PTS
-* AST
-* TRB
-* Salary
-* Age
-* Ht
-* Wt
-* GS
-* G
-* MP
+* pts
+* ast
+* trb
+* salary
+* age
+* ht
+* wt
+* gs
+* g
+* mp
 
 After investigation, we see that the following transformations are suitable:
 
 ```{r}
 per_season_data <- per_season_data %>% 
     mutate(
-        PTS = PTS^(1/2),
-        AST = AST^(1/2),
-        TRB = TRB^(1/2),
-        Salary = Salary^(1/10),
+        pts = pts^(1/2),
+        ast = ast^(1/2),
+        trb = trb^(1/2),
+        salary = salary^(1/10),
         #Age no transform needed
         #Ht no transform needed
-        Wt = Wt^2,
-        GS = GS^(1/3),
-        G = G^(1/2)
+        wt = wt^2,
+        gs = gs^(1/3),
+        g = g^(1/2)
         #MP no transform needed
     )
 ```
@@ -141,14 +143,14 @@ $$Y = \Beta Z$$
 per_season_data <- per_season_data %>% 
     mutate(
         Season = as.factor(Season),
-        Team = as.factor(Team),
-        Pos = as.factor(Pos)
+        team = as.factor(team),
+        pos = as.factor(pos)
     )
 ```
 
 ```{r}
 mlm1 <- lm(
-    cbind(PTS, AST, TRB) ~ Salary + Age + Ht + Wt + Pos + GS + G + MP,
+    cbind(pts, ast, trb) ~ salary + age + ht + wt + pos + gs + g + mp,
     data = per_season_data
 )
 summary(mlm1)
@@ -162,11 +164,11 @@ mlm1$coefficients
 
 We will now consider each predictor variable and see how it affects the response variables.
 
-* `Salary`: We see salary has a signicant effect at the 0.05 level only on Points and Rebounds, but does not have a significant effect on Assists. This is suprising, as it suggests that some in-game stats may not be as related to salary as others. It may suggest that the assist-seeking players may not be as highly compensated for that ability. The model confirms that the relatonship between salary and in-game statistical performance is positive. 
-* `Age`: This is a very significant variable and is negative for all three response variables. This suggests that as players become older, their statistical output goes down. This is not surprising.
-* `Ht`: This variable is not significant for points but it is for assists and rebounds. Height has a positive relationship with rebounds and a negative relationship with assists. This makes sense because certain basketball positions are determined by height and these positions lead to specific in-game roles which may lead to more assists or more rebounds, but all positions can score points. Taller players are more likely to be centers, who are more likely to get rebounds, and shorter players are more likely to be guards, who are more likely to get assists.
-* `GS` and `G`: These variables are similar, so we will group them together. They are highly significant for the points response variable, but not so much for the assists and rebounds, which is a little surprising. Furthermore, the GS variable has a negative coefficient with points - highly surprising. This relationship may require further investigation.
-* `MP`: This variable is significant and positive for all three response variables. This makes sense because players who play more minutes are more likely to score more points, get more assists, and get more rebounds.
+* `salary`: We see salary has a signicant effect at the 0.05 level only on Points and Rebounds, but does not have a significant effect on Assists. This is suprising, as it suggests that some in-game stats may not be as related to salary as others. It may suggest that the assist-seeking players may not be as highly compensated for that ability. The model confirms that the relatonship between salary and in-game statistical performance is positive. 
+* `age`: This is a very significant variable and is negative for all three response variables. This suggests that as players become older, their statistical output goes down. This is not surprising.
+* `ht`: This variable is not significant for points but it is for assists and rebounds. Height has a positive relationship with rebounds and a negative relationship with assists. This makes sense because certain basketball positions are determined by height and these positions lead to specific in-game roles which may lead to more assists or more rebounds, but all positions can score points. Taller players are more likely to be centers, who are more likely to get rebounds, and shorter players are more likely to be guards, who are more likely to get assists.
+* `gs` and `g`: These variables are similar, so we will group them together. They are highly significant for the points response variable, but not so much for the assists and rebounds, which is a little surprising. Furthermore, the GS variable has a negative coefficient with points - highly surprising. This relationship may require further investigation.
+* `mp`: This variable is significant and positive for all three response variables. This makes sense because players who play more minutes are more likely to score more points, get more assists, and get more rebounds.
 
 ### Model Fit
 
@@ -209,11 +211,11 @@ aic = n * log(det(crossprod(mlm1$residuals))) - 2 * p * d
 aic
 ```
 
-We first consider the most simple model of only using `Salary` variable to predict the in-game statistics. 
+We first consider the most simple model of only using `salary` variable to predict the in-game statistics. 
 
 ```{r}
 salary_mlm <- lm(
-    cbind(PTS, AST, TRB) ~ Salary,
+    cbind(pts, ast, trb) ~ salary,
     data = per_season_data
 )
 summary(salary_mlm)
@@ -228,11 +230,11 @@ aic_salary = n * log(det(crossprod(salary_mlm$residuals))) - 2 * p * d
 aic_salary
 ```
 
-We see that the AIC value is much higher for the salary-only model, so we will not consider this model further. We will consider one more simpler model, which only includes the `Salary` and demographic variables. 
+We see that the AIC value is much higher for the salary-only model, so we will not consider this model further. We will consider one more simpler model, which only includes the `salary` and demographic variables. 
 
 ```{r}
 salary_demographic_mlm <- lm(
-    cbind(PTS, AST, TRB) ~ Salary + Age + Ht + Wt,
+    cbind(pts, ast, trb) ~ salary + age + ht + wt,
     data = per_season_data
 )
 
@@ -248,3 +250,48 @@ aic_demo
 ```
 
 This model also gives a much higher AIC than the initial model, so we will not consider this model further. Indeed, it appears that the initial model is a well performing model and that including all of those variables is beneficial. 
+
+## Lasso Regression
+
+We also consider using a lasso to do variable selection.
+
+```{r}
+# specify target and regressors
+
+target <- per_season_data[,c("pts","ast","trb")]
+rgrsrs <- per_season_data[,-c(1,9,24,25,30,31,32)]
+
+# remove rows containing NAs
+ind <- which(rowSums(is.na(rgrsrs)) > 0)
+target <- target[-c(ind),]
+rgrsrs <- rgrsrs[-c(ind),]
+
+# run Lasso
+lasso_mlm <- glmnet(rgrsrs, target, family = "mgaussian")
+
+# look for a cutoff value for lambda
+plot(lasso_mlm, xvar = "lambda", label = T, type.coef = "2norm")
+print(lasso_mlm)
+```
+We see that at a value for lambda of around 0.25 the model has 7 non-zero coefficients and explains around 80 percent of the deviance in the data. This seems like a manageable number of features, and an acceptable amount of predictive power.
+
+```{r}
+# see which coefficients remain
+coef(lasso_mlm, s =0.25)
+```
+
+The regressors selected by the lasso regression are ht, mp, fg, fga, orb, drb, and tov. Of these, ht and mp were both highly significant in the multivariate regression explored above.
+
+Now we compute the AIC for the lasso regression. The code to do this was pulled from 
+https://rdrr.io/github/3inar/einr/man/AIC.glmnet.html
+```{r}
+# compute AIC for the lasso regression
+## Note that these values are suspiciously low, and this section needs work.
+AIC.glmnet <- function(glm_fit) {
+  chisqLR <- glm_fit$nulldev - deviance(glm_fit)
+
+  chisqLR - 2*glm_fit$df
+}
+
+AIC.glmnet(lasso_mlm)
+```

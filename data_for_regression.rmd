@@ -24,6 +24,10 @@ salary_files <- paste0(dir, "/", salary_files_tmp)
 salary_df <- map_df(salary_files, fread) %>% 
     as_tibble()
 
+# remove career rows
+salary_df <- salary_df %>%
+  filter(Season != "Career")
+
 head(salary_df)
 ```
 
@@ -102,40 +106,40 @@ per_season_data_tmp <- df2 %>%
         MP = as.numeric(substr(MP, 1, 2)) * 60 + as.numeric(substr(MP, 4, 5))
     ) %>%
     group_by(player,Season) %>%
-    summarize(
-        Age = mean(as.numeric(Age)),
-        Tm = first(Tm),
-        Team = first(Team),
-        Pos = first(Pos),
-        Ht = mean(as.numeric(Ht)),
-        Wt = mean(as.numeric(Wt)),
-        Colleges = first(Colleges),
-        G = sum(as.numeric(G), na.rm = TRUE),
-        GS = sum(as.numeric(GS), na.rm = TRUE),
-        MP = mean(as.numeric(MP), na.rm = TRUE),
-        FG = mean(as.numeric(FG), na.rm = TRUE),
-        FGA = mean(as.numeric(FGA), na.rm = TRUE),
-        `FG%` = mean(as.numeric(`FG%`), na.rm = TRUE),
-        `3P` = mean(as.numeric(`3P`), na.rm = TRUE),
-        `3PA` = mean(as.numeric(`3PA`), na.rm = TRUE),
-        `3P%` = mean(as.numeric(`3P%`), na.rm = TRUE),
-        FT = mean(as.numeric(FT), na.rm = TRUE),
-        FTA = mean(as.numeric(FTA), na.rm = TRUE),
-        `FT%` = mean(as.numeric(`FT%`), na.rm = TRUE),
-        ORB = mean(as.numeric(ORB), na.rm = TRUE),
-        DRB = mean(as.numeric(DRB), na.rm = TRUE),
-        TRB = mean(as.numeric(TRB), na.rm = TRUE),
-        AST = mean(as.numeric(AST), na.rm = TRUE),
-        STL = mean(as.numeric(STL), na.rm = TRUE),
-        BLK = mean(as.numeric(BLK), na.rm = TRUE),
-        TOV = mean(as.numeric(TOV), na.rm = TRUE),
-        PF = mean(as.numeric(PF), na.rm = TRUE),
-        PTS = mean(as.numeric(PTS), na.rm = TRUE),
-        Salary = mean(Salary, na.rm = TRUE)
+      summarize(
+        age = mean(as.numeric(Age)),
+        tm = first(Tm),
+        team = first(Team),
+        pos = first(Pos),
+        ht = mean(as.numeric(Ht)),
+        wt = mean(as.numeric(Wt)),
+        colleges = first(Colleges),
+        g = sum(as.numeric(G), na.rm = TRUE),
+        gs = sum(as.numeric(GS), na.rm = TRUE),
+        mp = mean(as.numeric(MP), na.rm = TRUE),
+        fg = mean(as.numeric(FG), na.rm = TRUE),
+        fga = mean(as.numeric(FGA), na.rm = TRUE),
+        fg_pct = mean(as.numeric(`FG%`), na.rm = TRUE),
+        thr_pt = mean(as.numeric(`3P`), na.rm = TRUE),
+        thr_pt_at = mean(as.numeric(`3PA`), na.rm = TRUE),
+        thr_pt_pct = mean(as.numeric(`3P%`), na.rm = TRUE),
+        ft = mean(as.numeric(FT), na.rm = TRUE),
+        ft_at = mean(as.numeric(FTA), na.rm = TRUE),
+        ft_pct = mean(as.numeric(`FT%`), na.rm = TRUE),
+        orb = mean(as.numeric(ORB), na.rm = TRUE),
+        drb = mean(as.numeric(DRB), na.rm = TRUE),
+        trb = mean(as.numeric(TRB), na.rm = TRUE),
+        ast = mean(as.numeric(AST), na.rm = TRUE),
+        stl = mean(as.numeric(STL), na.rm = TRUE),
+        blk = mean(as.numeric(BLK), na.rm = TRUE),
+        tov = mean(as.numeric(TOV), na.rm = TRUE),
+        pf = mean(as.numeric(PF), na.rm = TRUE),
+        pts = mean(as.numeric(PTS), na.rm = TRUE),
+        salary = mean(Salary, na.rm = TRUE),
     )
 
 head(per_season_data_tmp)
 
 # write tp csv
-readr::write_csv(per_season_data_tmp, "data/per_season_data.csv")
+readr::write_csv(per_season_data_tmp, "data/per_season_data_v2.csv")
 ```
