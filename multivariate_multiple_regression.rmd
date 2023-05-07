@@ -8,7 +8,7 @@ options(scipen = 999)
 library(purrr)
 library(dplyr)
 library(data.table)
-library(glmnet)
+#library(glmnet)
 library(tidyr)
 set.seed(123)
 ```
@@ -63,21 +63,27 @@ num_cols <- per_season_data %>%
 
 # plot the distribution of each numeric column
 for (col in num_cols) {
+    png(paste0("analyses/regression_results/plots/", col, "_histogram.png"))
     hist(per_season_data[[col]], main = col)
+    dev.off()
 }
 
-# plot the distribution of the salary
+# plot the distribution of the salary column
+png("analyses/regression_results/plots/salary_histogram.png")
 hist(per_season_data$salary, main = "Salary")
+dev.off()
 ```
 
 We also present Q-Q plots for the variables, which demonstrats the columns that aren't normal. 
 
 ```{r}
 for (col in num_cols) {
+    png(paste0("analyses/regression_results/plots/", col, "_qqplot.png"))
     qqnorm(per_season_data[[col]], main = col)
     qqline(per_season_data[[col]])
     # title
     title(main = col)
+    dev.off()
 }
 ```
 
@@ -154,12 +160,19 @@ mlm1 <- lm(
     data = per_season_data
 )
 summary(mlm1)
+
+# save the summary to a file in regression_results/analyses
+capture.output(summary(mlm1), file = "analyses/regression_results/mlm1.txt")
+dev.off()
 ```
 
 ### Interpretation
 
 ```{r}
 mlm1$coefficients
+
+# save coefficients to csv
+write.csv(mlm1$coefficients, "analyses/regression_results/mlm1_coefficients.csv")
 ```
 
 We will now consider each predictor variable and see how it affects the response variables.
@@ -175,18 +188,26 @@ We will now consider each predictor variable and see how it affects the response
 Before we proceed further, let us consider the fit of the model. We plot the residuals vs fitted values for each of the three response variables and check the normality of the residuals. 
     
 ```{r}
+# plot each response residuals vs fitted values and save
+png("analyses/regression_results/plots/mlm1_resid_fitted.png")
+par(mfrow = c(3,1))
 plot(mlm1$fit[,1],mlm1$resid[,1])
 plot(mlm1$fit[,2],mlm1$resid[,2])
 plot(mlm1$fit[,3],mlm1$resid[,3])
+dev.off()
 ```
 
 ```{r}
+# plot each resppnse residual qq plot and save
+png("analyses/regression_results/plots/mlm1_resid_qq.png")
+par(mfrow = c(3,1))
 qqnorm(mlm1$resid[,1])
 qqline(mlm1$resid[,1])
 qqnorm(mlm1$resid[,2])
 qqline(mlm1$resid[,2])
 qqnorm(mlm1$resid[,3])
 qqline(mlm1$resid[,3])
+dev.off()
 ```
 
 We see that this initial model is pretty good, but perhaps we can do better. We can consider alternate subsets of variables to include in the model. And compare them using the AIC metric. 
