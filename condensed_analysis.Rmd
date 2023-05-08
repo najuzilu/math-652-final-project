@@ -82,8 +82,22 @@ mlm1 <- lm(
 summary(mlm1)
 
 # save the summary to a file in regression_results/analyses
-capture.output(summary(mlm1), file = "analyses/condensed_analysis/mlm1.txt")
+capture.output(summary(mlm1), file = "analyses/condensed_analysis/mlm_regression/mlm1.txt")
 ```
+
+```{r}
+# residual plots for Multivariate Multiple Regression
+
+plot(mlm1$fitted.values[,1], mlm1$residuals[,1], xlab = "fitted mean_points",
+     ylab = "residuals mean_points")
+
+plot(mlm1$fitted.values[,2], mlm1$residuals[,2], xlab = "fitted mean_assists",
+     ylab = "residuals mean_assists")
+
+plot(mlm1$fitted.values[,3], mlm1$residuals[,3], xlab = "fitted mean_total_rebounds",
+     ylab = "residuals mean_total_rebounds")
+```
+
 
 ## PCA Regression
 
@@ -93,8 +107,20 @@ pcar1 <- lm(cbind(mean_points, mean_assists, mean_total_rebounds) ~ scores_pc1 +
 summary(pcar1)
 
 # save the summary to a file in regression_results/analyses
-capture.output(summary(mlm1), file = "analyses/condensed_analysis/pcar1.txt")
-dev.off()
+capture.output(summary(pcar1), file = "analyses/condensed_analysis/pca_regression/pcar1.txt")
+```
+
+```{r}
+# residual plots for PCA Regression
+
+plot(pcar1$fitted.values[,1], pcar1$residuals[,1], xlab = "fitted mean_points",
+     ylab = "residuals mean_points")
+
+plot(pcar1$fitted.values[,2], pcar1$residuals[,2], xlab = "fitted mean_assists",
+     ylab = "residuals mean_assists")
+
+plot(pcar1$fitted.values[,3], pcar1$residuals[,3], xlab = "fitted mean_total_rebounds",
+     ylab = "residuals mean_total_rebounds")
 ```
 
 ## Lasso Regression
@@ -127,14 +153,27 @@ capture.output(glm_coef, file = "analyses/condensed_analysis/lrg1_coef.txt")
 ```
 ``
 ```{r}
-# fit Lasso model with Lm() to get residuals
+# fit lm model with lasso coefficients to get residuals, etc
 
-mlm2 <- lm(cbind(mean_points, mean_assists, mean_total_rebounds) ~ mean_field_goals + mean_field_goals_attempts + mean_free_throws + mean_defensive_rebounds)
+lasr1 <- lm(cbind(mean_points, mean_assists, mean_total_rebounds) ~ mean_field_goals + mean_field_goals_attempts + mean_free_throws + mean_defensive_rebounds)
 
-summary(mlm2)
+summary(lasr1)
 
 # save the summary to a file in regression_results/analyses
-capture.output(summary(mlm2), file = "analyses/condensed_analysis/mlm2.txt")
+capture.output(summary(mlm2), file = "analyses/condensed_analysis/lasso_regression/lasr1.txt")
+```
+
+```{r}
+# residual plots for Lasso Regression
+
+plot(mlm2$fitted.values[,1], mlm2$residuals[,1], xlab = "fitted mean_points",
+     ylab = "residuals mean_points")
+
+plot(mlm2$fitted.values[,2], mlm2$residuals[,2], xlab = "fitted mean_assists",
+     ylab = "residuals mean_assists")
+
+plot(mlm2$fitted.values[,3], mlm2$residuals[,3], xlab = "fitted mean_total_rebounds",
+     ylab = "residuals mean_total_rebounds")
 ```
 
 ```{r eval=FALSE}
