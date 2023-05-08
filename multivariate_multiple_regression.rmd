@@ -4,11 +4,16 @@ output: html_document
 ---
 
 ```{r setup}
+# install.packages("glmnet")
+# install.packages("dplyr")
+# install.packages("tidyr")
+# install.packages("readr")
+
 options(scipen = 999)
 library(purrr)
 library(dplyr)
 library(data.table)
-#library(glmnet)
+library(glmnet)
 library(tidyr)
 set.seed(123)
 ```
@@ -90,13 +95,13 @@ for (col in num_cols) {
 We attempted to perform the Shapiro Wilk test, but it was not possible to perform the test on the size of our data - there is a limit of 5000 observations. So, we will perform the test on a sample of the data, but we will not use this test to make any final conclusions.
 
 ```{r, eval=FALSE}
-# shapiro wilk test
-for (col in num_cols) {
-    print(col)
-    # sample the data of size 5000
-    x = sample(per_season_data[[col]], 5000)
-    print(shapiro.test(x))
-}
+# # shapiro wilk test
+# for (col in num_cols) {
+#     print(col)
+#     # sample the data of size 5000
+#     x = sample(per_season_data[[col]], 5000)
+#     print(shapiro.test(x))
+# }
 ```
 
 We see clearly that many of the variables are not normally distributed and will need to be transformed. Furthermore, the salary distribution features a long tail, with substantial outliers. 
@@ -279,7 +284,7 @@ We also consider using a lasso to do variable selection.
 # specify target and regressors
 
 target <- per_season_data[,c("pts","ast","trb")]
-rgrsrs <- per_season_data[,-c(1,9,24,25,30,31,32)]
+rgrsrs <- per_season_data[,-c(1,9,24,25,30,31)] # 32 not an index
 
 # remove rows containing NAs
 ind <- which(rowSums(is.na(rgrsrs)) > 0)
@@ -290,7 +295,10 @@ rgrsrs <- rgrsrs[-c(ind),]
 lasso_mlm <- glmnet(rgrsrs, target, family = "mgaussian")
 
 # look for a cutoff value for lambda
+jpeg(file="lasso_mlm.jpeg")
 plot(lasso_mlm, xvar = "lambda", label = T, type.coef = "2norm")
+dev.off()
+
 print(lasso_mlm)
 ```
 We see that at a value for lambda of around 0.25 the model has 7 non-zero coefficients and explains around 80 percent of the deviance in the data. This seems like a manageable number of features, and an acceptable amount of predictive power.
