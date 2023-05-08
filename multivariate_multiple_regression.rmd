@@ -127,7 +127,7 @@ After investigation, we see that the following transformations are suitable:
 per_season_data <- per_season_data %>% 
     mutate(
         pts = pts^(1/2),
-        ast = ast^(1/2),
+        ast2 = ast^(1/2),
         trb = trb^(1/2),
         salary = salary^(1/10),
         #Age no transform needed
@@ -137,6 +137,40 @@ per_season_data <- per_season_data %>%
         g = g^(1/2)
         #MP no transform needed
     )
+```
+
+Now we save the plots after transformation. 
+
+```{r}
+# create a list of numeric columns
+num_cols <- per_season_data %>% 
+    select(where(is.numeric)) %>% 
+    names()
+
+# plot the distribution of each numeric column
+for (col in num_cols) {
+    png(paste0("analyses/regression_results/plots/after_transformation/", col, "_histogram.png"))
+    hist(per_season_data[[col]], main = col)
+    dev.off()
+}
+
+# plot the distribution of the salary column
+png("analyses/regression_results/plots/after_transformation/salary_histogram.png")
+hist(per_season_data$salary, main = "Salary")
+dev.off()
+```
+
+We also present Q-Q plots for the variables, which demonstrats the columns that aren't normal. 
+
+```{r}
+for (col in num_cols) {
+    png(paste0("analyses/regression_results/plots/after_transformation/", col, "_qqplot.png"))
+    qqnorm(per_season_data[[col]], main = col)
+    qqline(per_season_data[[col]])
+    # title
+    title(main = col)
+    dev.off()
+}
 ```
 
 ## Multivariate Multiple Regression Regression
