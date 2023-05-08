@@ -86,6 +86,20 @@ capture.output(summary(mlm1), file = "analyses/condensed_analysis/mlm_regression
 ```
 
 ```{r}
+# define AIC because the function doesnt support multiple respnses
+# (resid sum of squares cross product matrix)/n
+# AIC = n * log(det(Sigma_d)) - 2p * d
+# where p is the number of parameters and d is the number of responses
+
+n = nrow(per_season_data)
+# mlm1 number of parameters
+p = 7 
+d = 3
+aic = n * log(det(crossprod(mlm1$residuals))) - 2 * p * d
+aic
+```
+
+```{r}
 # residual plots for Multivariate Multiple Regression
 
 plot(mlm1$fitted.values[,1], mlm1$residuals[,1], xlab = "fitted mean_points",
@@ -109,6 +123,21 @@ summary(pcar1)
 # save the summary to a file in regression_results/analyses
 capture.output(summary(pcar1), file = "analyses/condensed_analysis/pca_regression/pcar1.txt")
 ```
+
+```{r}
+# define AIC because the function doesnt support multiple respnses
+# (resid sum of squares cross product matrix)/n
+# AIC = n * log(det(Sigma_d)) - 2p * d
+# where p is the number of parameters and d is the number of responses
+
+n = nrow(per_season_data)
+# mlm1 number of parameters
+p = 3 
+d = 3
+aic = n * log(det(crossprod(pcar1$residuals))) - 2 * p * d
+aic
+```
+
 
 ```{r}
 # residual plots for PCA Regression
@@ -160,7 +189,21 @@ lasr1 <- lm(cbind(mean_points, mean_assists, mean_total_rebounds) ~ mean_field_g
 summary(lasr1)
 
 # save the summary to a file in regression_results/analyses
-capture.output(summary(mlm2), file = "analyses/condensed_analysis/lasso_regression/lasr1.txt")
+capture.output(summary(lasr1), file = "analyses/condensed_analysis/lasso_regression/lasr1.txt")
+```
+
+```{r}
+# define AIC because the function doesnt support multiple respnses
+# (resid sum of squares cross product matrix)/n
+# AIC = n * log(det(Sigma_d)) - 2p * d
+# where p is the number of parameters and d is the number of responses
+
+n = nrow(per_season_data)
+# mlm1 number of parameters
+p = 4 
+d = 3
+aic = n * log(det(crossprod(lasr1$residuals))) - 2 * p * d
+aic
 ```
 
 ```{r}
