@@ -1,0 +1,170 @@
+---
+title: "condensed analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+options(scipen = 999)
+library(purrr)
+library(dplyr)
+library(data.table)
+library(glmnet)
+library(tidyr)
+set.seed(123)
+```
+
+## Read in Data
+
+```{r}
+per_season_data <- readr::read_csv("data/season_mean_player_stats_allsns_scores.csv")
+attach(per_season_data)
+dim(per_season_data)
+head(per_season_data)
+```
+
+## Check Normality - not enough time, use previous work
+
+```{r eval=FALSE}
+# create a list of numeric columns
+num_cols <- per_season_data %>% 
+    select(where(is.numeric)) %>% 
+    names()
+
+# plot the distribution of each numeric column
+for (col in num_cols[-c(1,28,29,30)]) {
+    png(paste0("analyses/condensed_analysis/plots/", col, "_histogram.png"))
+    hist(per_season_data[[col]], main = col)
+    dev.off()
+}
+
+for (col in num_cols[-c(1,28,29,30)]) {
+    png(paste0("analyses/condensed_analysis/plots/", col, "_qqplot.png"))
+    qqnorm(per_season_data[[col]], main = col)
+    qqline(per_season_data[[col]])
+    # title
+    title(main = col)
+    dev.off()
+}
+```
+
+## Transformation - make no difference to final outputs, omit
+
+```{r eval=FALSE}
+# transformations - use previous work
+per_season_data <- per_season_data %>% 
+    mutate(
+        mean_points = mean_points^(1/2),
+        mean_assists = mean_assists^(1/2),
+        mean_total_rebounds = mean_total_rebounds^(1/2),
+        mean_salary = mean_salary^(1/10),
+        #Age no transform needed
+        #Ht no transform needed
+        weight = weight^2,
+        games_started = games_started^(1/3),
+        total_games = total_games^(1/2)
+        #MP no transform needed
+    )
+```
+
+## Multivariate Multiple Regression
+
+```{r}
+per_season_data %>%
+  mutate(
+    season <- as.factor(season),
+    position <- as.factor(position),
+  )
+
+mlm1 <- lm(
+    cbind(mean_points, mean_assists, mean_total_rebounds) ~ mean_salary + height + weight + position + games_started + total_games + mean_min_played
+    )
+
+summary(mlm1)
+
+# save the summary to a file in regression_results/analyses
+capture.output(summary(mlm1), file = "analyses/condensed_analysis/mlm1.txt")
+```
+
+## PCA Regression
+
+```{r}
+pcar1 <- lm(cbind(mean_points, mean_assists, mean_total_rebounds) ~ scores_pc1 + scores_pc2 + scores_pc3)
+
+summary(pcar1)
+
+# save the summary to a file in regression_results/analyses
+capture.output(summary(mlm1), file = "analyses/condensed_analysis/pcar1.txt")
+dev.off()
+```
+
+## Lasso Regression
+
+```{r}
+rgsr <- per_season_data %>% 
+  select(-c(player_id,position_name,scores_pc1,scores_pc2,scores_pc3, mean_points, mean_assists, mean_total_rebounds))
+
+newX <- model.matrix(~.-1 ,data = rgsr) # glmnet will fit two intercepts 
+
+trgt <- per_season_data %>%
+  select(c(mean_points,mean_assists,mean_total_rebounds)) # %>%
+  # as.matrix()
+
+
+lrg1 <- glmnet(x = newX, y = trgt, family = "mgaussian")
+
+plot(lrg1)
+
+print(lrg1)
+```
+
+```{r}
+# choose s = 1.7, explains 80% of deviation in data with 4 coefficients
+
+glm_coef <- coef.glmnet(lrg1, s= lrg1$lambda[15])
+glm_coef
+
+capture.output(glm_coef, file = "analyses/condensed_analysis/lrg1_coef.txt")
+```
+``
+```{r}
+# fit Lasso model with Lm() to get residuals
+
+mlm2 <- lm(cbind(mean_points, mean_assists, mean_total_rebounds) ~ mean_field_goals + mean_field_goals_attempts + mean_free_throws + mean_defensive_rebounds)
+
+summary(mlm2)
+
+# save the summary to a file in regression_results/analyses
+capture.output(summary(mlm2), file = "analyses/condensed_analysis/mlm2.txt")
+```
+
+```{r eval=FALSE}
+
+# Doesn't work, easier to get mse from lm using coefficients selected by lasso
+
+# extract beta coefficients
+
+mean_points_coeff <- matrix(unname(glm_coef$mean_points))
+mean_assists_coeff <- matrix(unname(glm_coef$mean_assists))
+mean_total_rebounds_coeff <- matrix(unname(glm_coef$mean_total_rebounds))
+lasso_betas <- cbind(mean_points_coeff, 
+                     mean_assists_coeff, 
+                     mean_total_rebounds_coeff)
+
+# remove position factor omitted by model.matrix
+lasso_betas2 <- lasso_betas[-3,] 
+
+# new design matrix with intercept
+newX_intercept <- newX <- model.matrix(~.,data = rgsr)
+
+# calculate lasso regression estimates
+lasso_pred <- newX_intercept %*% lasso_betas2
+
+# calculate mse mean_points
+sqrt(1/nrow(trgt)*sum((trgt[,1] - lasso_pred[,1])^2))
+
+# calculate mes mean_assists
+sqrt(1/nrow(trgt)*sum((trgt[,2] - lasso_pred[,2])^2))
+
+sqrt(1/nrow(trgt)*sum((trgt[,3] - lasso_pred[,3])^2))
+```
+

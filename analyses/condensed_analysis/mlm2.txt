@@ -1,0 +1,75 @@
+Response mean_points :
+
+Call:
+lm(formula = mean_points ~ mean_field_goals + mean_field_goals_attempts + 
+    mean_free_throws + mean_defensive_rebounds)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.1699 -0.3328 -0.0702  0.2820  4.0310 
+
+Coefficients:
+                           Estimate Std. Error t value            Pr(>|t|)    
+(Intercept)               -0.003182   0.011938  -0.267                0.79    
+mean_field_goals           1.474087   0.013183 111.817 <0.0000000000000002 ***
+mean_field_goals_attempts  0.363086   0.005897  61.566 <0.0000000000000002 ***
+mean_free_throws           0.851839   0.006377 133.571 <0.0000000000000002 ***
+mean_defensive_rebounds   -0.040123   0.003880 -10.342 <0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.5482 on 11349 degrees of freedom
+Multiple R-squared:  0.9919,	Adjusted R-squared:  0.9918 
+F-statistic: 3.454e+05 on 4 and 11349 DF,  p-value: < 0.00000000000000022
+
+
+Response mean_assists :
+
+Call:
+lm(formula = mean_assists ~ mean_field_goals + mean_field_goals_attempts + 
+    mean_free_throws + mean_defensive_rebounds)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.4254 -0.8757 -0.3700  0.4929 11.0375 
+
+Coefficients:
+                          Estimate Std. Error t value            Pr(>|t|)    
+(Intercept)                0.48963    0.03411  14.356 <0.0000000000000002 ***
+mean_field_goals          -0.33413    0.03766  -8.872 <0.0000000000000002 ***
+mean_field_goals_attempts  0.39990    0.01685  23.735 <0.0000000000000002 ***
+mean_free_throws           0.21438    0.01822  11.767 <0.0000000000000002 ***
+mean_defensive_rebounds   -0.21946    0.01108 -19.800 <0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.566 on 11349 degrees of freedom
+Multiple R-squared:  0.3809,	Adjusted R-squared:  0.3807 
+F-statistic:  1746 on 4 and 11349 DF,  p-value: < 0.00000000000000022
+
+
+Response mean_total_rebounds :
+
+Call:
+lm(formula = mean_total_rebounds ~ mean_field_goals + mean_field_goals_attempts + 
+    mean_free_throws + mean_defensive_rebounds)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.5892 -0.2977 -0.0575  0.2630  4.8929 
+
+Coefficients:
+                           Estimate Std. Error t value            Pr(>|t|)    
+(Intercept)                0.269571   0.011193  24.085 <0.0000000000000002 ***
+mean_field_goals           0.410376   0.012360  33.203 <0.0000000000000002 ***
+mean_field_goals_attempts -0.224436   0.005529 -40.592 <0.0000000000000002 ***
+mean_free_throws           0.049399   0.005979   8.262 <0.0000000000000002 ***
+mean_defensive_rebounds    1.359436   0.003637 373.733 <0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.5139 on 11349 degrees of freedom
+Multiple R-squared:  0.9591,	Adjusted R-squared:  0.9591 
+F-statistic: 6.66e+04 on 4 and 11349 DF,  p-value: < 0.00000000000000022
+
+

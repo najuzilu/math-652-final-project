@@ -1,0 +1,99 @@
+Response mean_points :
+
+Call:
+lm(formula = mean_points ~ mean_salary + height + weight + position + 
+    games_started + total_games + mean_min_played)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-12.8989  -1.6469  -0.0159   1.4635  18.1594 
+
+Coefficients:
+                        Estimate       Std. Error t value             Pr(>|t|)    
+(Intercept)     -12.327739889140   1.247834833634  -9.879 < 0.0000000000000002 ***
+mean_salary       0.000000198036   0.000000005586  35.451 < 0.0000000000000002 ***
+height            0.071525062546   0.015846407896   4.514      0.0000064364523 ***
+weight            0.011933590285   0.001832559146   6.512      0.0000000000773 ***
+positionC-F       0.356612397614   0.154919709140   2.302              0.02136 *  
+positionF         0.702960517162   0.124255429968   5.657      0.0000000157421 ***
+positionF-C       0.372741882118   0.129488658363   2.879              0.00400 ** 
+positionF-G       1.536611081645   0.164996336348   9.313 < 0.0000000000000002 ***
+positionG         1.564787981508   0.180494393629   8.669 < 0.0000000000000002 ***
+positionG-F       1.401134512951   0.160096410275   8.752 < 0.0000000000000002 ***
+games_started    -0.020691705661   0.001180218300 -17.532 < 0.0000000000000002 ***
+total_games      -0.003355152361   0.001228867285  -2.730              0.00634 ** 
+mean_min_played   0.550294689057   0.003351945729 164.172 < 0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.755 on 11341 degrees of freedom
+Multiple R-squared:  0.7943,	Adjusted R-squared:  0.7941 
+F-statistic:  3650 on 12 and 11341 DF,  p-value: < 0.00000000000000022
+
+
+Response mean_assists :
+
+Call:
+lm(formula = mean_assists ~ mean_salary + height + weight + position + 
+    games_started + total_games + mean_min_played)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-3.6577 -0.7476 -0.1234  0.5509  9.6759 
+
+Coefficients:
+                       Estimate      Std. Error t value             Pr(>|t|)    
+(Intercept)     14.068937162688  0.544839804566  25.822 < 0.0000000000000002 ***
+mean_salary      0.000000043950  0.000000002439  18.019 < 0.0000000000000002 ***
+height          -0.163887289642  0.006918987632 -23.687 < 0.0000000000000002 ***
+weight          -0.008143092935  0.000800146894 -10.177 < 0.0000000000000002 ***
+positionC-F     -0.126903311473  0.067642304715  -1.876               0.0607 .  
+positionF       -0.572963158378  0.054253417484 -10.561 < 0.0000000000000002 ***
+positionF-C     -0.433866012044  0.056538392273  -7.674   0.0000000000000181 ***
+positionF-G     -0.287952882118  0.072042043728  -3.997   0.0000645532456430 ***
+positionG        0.179712679543  0.078808931679   2.280               0.0226 *  
+positionG-F     -0.470313777369  0.069902598112  -6.728   0.0000000000180132 ***
+games_started   -0.002998077915  0.000515316523  -5.818   0.0000000061189994 ***
+total_games     -0.000247179845  0.000536558039  -0.461               0.6450    
+mean_min_played  0.124848714503  0.001463553835  85.305 < 0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.203 on 11341 degrees of freedom
+Multiple R-squared:  0.635,	Adjusted R-squared:  0.6346 
+F-statistic:  1644 on 12 and 11341 DF,  p-value: < 0.00000000000000022
+
+
+Response mean_total_rebounds :
+
+Call:
+lm(formula = mean_total_rebounds ~ mean_salary + height + weight + 
+    position + games_started + total_games + mean_min_played)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.2308 -0.8442 -0.0901  0.6852 11.4392 
+
+Coefficients:
+                       Estimate      Std. Error t value             Pr(>|t|)    
+(Intercept)     -4.988573911849  0.582049203342  -8.571 < 0.0000000000000002 ***
+mean_salary      0.000000028776  0.000000002606  11.044 < 0.0000000000000002 ***
+height           0.042260252261  0.007391514360   5.717         0.0000000111 ***
+weight           0.014858683519  0.000854792287  17.383 < 0.0000000000000002 ***
+positionC-F      0.207733283295  0.072261881826   2.875             0.004051 ** 
+positionF       -1.229372287597  0.057958611248 -21.211 < 0.0000000000000002 ***
+positionF-C     -0.177375157567  0.060399636563  -2.937             0.003324 ** 
+positionF-G     -2.072435773202  0.076962097497 -26.928 < 0.0000000000000002 ***
+positionG       -2.612413250417  0.084191124649 -31.030 < 0.0000000000000002 ***
+positionG-F     -2.471594428243  0.074676540153 -33.097 < 0.0000000000000002 ***
+games_started   -0.001979612087  0.000550509653  -3.596             0.000325 ***
+total_games     -0.000444242069  0.000573201841  -0.775             0.438345    
+mean_min_played  0.172573949141  0.001563506073 110.376 < 0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.285 on 11341 degrees of freedom
+Multiple R-squared:  0.7447,	Adjusted R-squared:  0.7444 
+F-statistic:  2757 on 12 and 11341 DF,  p-value: < 0.00000000000000022
+
+
