@@ -1,0 +1,70 @@
+Response mean_points :
+
+Call:
+lm(formula = mean_points ~ scores_pc1 + scores_pc2 + scores_pc3)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.3308 -0.8446  0.0376  0.8655  8.4677 
+
+Coefficients:
+             Estimate Std. Error t value            Pr(>|t|)    
+(Intercept) 10.105872   0.013754  734.75 <0.0000000000000002 ***
+scores_pc1   2.140132   0.005122  417.85 <0.0000000000000002 ***
+scores_pc2   0.730312   0.008356   87.40 <0.0000000000000002 ***
+scores_pc3  -0.499202   0.013960  -35.76 <0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.466 on 11350 degrees of freedom
+Multiple R-squared:  0.9418,	Adjusted R-squared:  0.9417 
+F-statistic: 6.117e+04 on 3 and 11350 DF,  p-value: < 0.00000000000000022
+
+
+Response mean_assists :
+
+Call:
+lm(formula = mean_assists ~ scores_pc1 + scores_pc2 + scores_pc3)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.7109 -0.7125 -0.2120  0.4987  8.1110 
+
+Coefficients:
+             Estimate Std. Error t value            Pr(>|t|)    
+(Intercept)  2.317272   0.012136  190.95 <0.0000000000000002 ***
+scores_pc1   0.419156   0.004519   92.75 <0.0000000000000002 ***
+scores_pc2   0.463890   0.007373   62.92 <0.0000000000000002 ***
+scores_pc3  -0.672203   0.012318  -54.57 <0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.293 on 11350 degrees of freedom
+Multiple R-squared:  0.5779,	Adjusted R-squared:  0.5778 
+F-statistic:  5180 on 3 and 11350 DF,  p-value: < 0.00000000000000022
+
+
+Response mean_total_rebounds :
+
+Call:
+lm(formula = mean_total_rebounds ~ scores_pc1 + scores_pc2 + 
+    scores_pc3)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.9909 -0.4406 -0.0093  0.3851  6.0065 
+
+Coefficients:
+             Estimate Std. Error t value            Pr(>|t|)    
+(Intercept)  4.023843   0.007508   535.9 <0.0000000000000002 ***
+scores_pc1   0.699780   0.002796   250.3 <0.0000000000000002 ***
+scores_pc2  -0.775096   0.004561  -169.9 <0.0000000000000002 ***
+scores_pc3   0.825933   0.007621   108.4 <0.0000000000000002 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8 on 11350 degrees of freedom
+Multiple R-squared:  0.901,	Adjusted R-squared:  0.9009 
+F-statistic: 3.442e+04 on 3 and 11350 DF,  p-value: < 0.00000000000000022
+
+
