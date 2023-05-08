@@ -163,7 +163,6 @@ summary(mlm1)
 
 # save the summary to a file in regression_results/analyses
 capture.output(summary(mlm1), file = "analyses/regression_results/mlm1.txt")
-dev.off()
 ```
 
 ### Interpretation
